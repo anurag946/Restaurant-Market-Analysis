@@ -1,0 +1,1051 @@
+address,name,online_order,book_table,rate,votes,phone,location,rest_type,dish_liked,cuisines,approx_cost(for two people),reviews_list,cuisines_count,listed_in(type),listed_in(city)
+"Address_874, Bangalore",KFC,No,Yes,3.8/5,2005,080-1914394,Indiranagar,Bakery,Biryani,"Mexican, Thai, Chinese, Desserts",600,Sample Review Text...,4,Delivery,Bengaluru
+"Address_511, Bangalore",Resto_511,No,No,3.4/5,1731,080-2396415,MG Road,Bar,Dosa,"Desserts, North Indian",1500,Sample Review Text...,2,Buffet,Bengaluru
+"Address_656, Bangalore",Empire Restaurant,Yes,No,4.7/5,1177,080-4996784,,Bakery,Pasta,"Fast Food, Beverages, Continental, Chinese, Italian",2000,Sample Review Text...,5,Delivery,Bengaluru
+"Address_96, Bangalore",Pizza Hut,Yes,Yes,3.2/5,2101,080-4959345,Jayanagar,Casual Dining,Sushi,"Fast Food, Desserts",200,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_759, Bangalore",Resto_759,Yes,Yes,4.7/5,665,080-5449004,Koramangala,Bakery,Sushi,"Continental, Mexican","1,200",Sample Review Text...,2,Delivery,Bengaluru
+"Address_109, Bangalore",Resto_109,No,No,2.8/5,2552,080-6688907,Indiranagar,Cafe,Sushi,Mexican,1200,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_708, Bangalore",Pizza Hut,No,No,3.2/5,164,080-1479076,HSR Layout,Bar,Pasta,"Chinese, Mexican, Beverages, Desserts, South Indian",3000,Sample Review Text...,5,Buffet,Bengaluru
+"Address_758, Bangalore",Resto_758,Yes,Yes,2.4/5,637,080-7960470,Jayanagar,Fine Dining,Pasta,"North Indian, Fast Food, Italian, Mexican",1000,Sample Review Text...,4,Cafes,Bengaluru
+"Address_963, Bangalore",Pizza Hut,No,No,NEW,1760,080-9799517,Jayanagar,Bakery,Dosa,"Chinese, Desserts, Beverages, Italian, Continental",600,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_435, Bangalore",Empire Restaurant,No,Yes,,2686,080-7626953,Marathahalli,Bakery,Dosa,"Fast Food, Desserts, Continental, Beverages",3000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_642, Bangalore",Resto_642,No,Yes,,298,080-8541520,Marathahalli,Bar,Steak,"Fast Food, North Indian, South Indian",1200,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_745, Bangalore",Burger King,Yes,No,4.3/5,1871,080-1397267,Whitefield,Casual Dining,Sushi,"Italian, Continental","1,000",Sample Review Text...,2,Cafes,Bengaluru
+"Address_867, Bangalore",Burger King,No,Yes,3.2/5,1768,080-4770193,Koramangala,Bar,Pasta,"Mexican, North Indian, Italian",1200,Sample Review Text...,3,Cafes,Bengaluru
+"Address_980, Bangalore",Nandhana Palace,No,No,2.2/5,1850,080-3378560,HSR Layout,Fine Dining,Salad,"Chinese, Mexican, Desserts",2500,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_649, Bangalore",Resto_649,Yes,No,4.1/5,2263,080-2939164,Marathahalli,Casual Dining,Salad,"Mexican, South Indian, Fast Food, Thai",1500,Sample Review Text...,4,Delivery,Bengaluru
+"Address_737, Bangalore",Resto_737,Yes,Yes,3.3/5,2615,080-6528345,Koramangala,Bar,Pizza,"Italian, Fast Food, Thai, Desserts, North Indian",1500,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_150, Bangalore",Resto_150,Yes,No,4.2/5,2285,080-9099554,HSR Layout,Bakery,Pizza,"Mexican, Desserts, South Indian","1,200",Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_59, Bangalore",KFC,No,Yes,3.8/5,2776,080-1559763,Jayanagar,Fine Dining,Sushi,North Indian,1000,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_149, Bangalore",Burger King,No,Yes,3.0/5,2199,080-7704473,Indiranagar,Casual Dining,Sushi,"Thai, South Indian",3000,Sample Review Text...,2,Cafes,Bengaluru
+"Address_168, Bangalore",KFC,Yes,No,2.2/5,980,080-2191383,Marathahalli,Bakery,Biryani,Italian,2000,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_456, Bangalore",Nandhana Palace,Yes,No,2.9/5,1852,080-8534223,,Bar,Pasta,"Desserts, South Indian, Beverages, Continental",2000,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_870, Bangalore",Resto_870,No,No,3.8/5,257,080-6438575,Whitefield,Fine Dining,Burgers,"Continental, Fast Food, Italian","1,200",Sample Review Text...,3,Buffet,Bengaluru
+"Address_876, Bangalore",KFC,Yes,No,3.0/5,968,080-1292604,Jayanagar,Casual Dining,Pasta,"Fast Food, Thai, Italian, Chinese, Desserts",800,Sample Review Text...,5,Delivery,Bengaluru
+"Address_774, Bangalore",Burger King,No,Yes,4.5/5,1147,080-9146156,Whitefield,Quick Service Restaurant,Burgers,"Thai, Mexican, Continental, South Indian, North Indian",200,Sample Review Text...,5,Buffet,Bengaluru
+"Address_258, Bangalore",Burger King,No,Yes,,29,080-6299951,Indiranagar,Pub,Steak,Mexican,800,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_372, Bangalore",Resto_372,Yes,No,4.2/5,2878,080-8095573,HSR Layout,Bar,Dosa,"Thai, Fast Food",1000,Sample Review Text...,2,Delivery,Bengaluru
+"Address_1, Bangalore",Burger King,Yes,No,4.3/5,26,080-7374122,Jayanagar,Fine Dining,Pizza,"Thai, Continental, South Indian, Chinese",1200,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_366, Bangalore",Resto_366,No,Yes,2.1/5,2329,080-6764248,Koramangala,Quick Service Restaurant,Burgers,"Chinese, Desserts",2000,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_509, Bangalore",McDonald's,Yes,No,2.2/5,2013,080-3913796,Indiranagar,Cafe,Burgers,South Indian,800,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_744, Bangalore",Burger King,No,Yes,3.4/5,1243,080-7602542,JP Nagar,Cafe,Steak,"Thai, Fast Food, Beverages",2000,Sample Review Text...,3,Delivery,Bengaluru
+"Address_277, Bangalore",Burger King,No,Yes,2.8/5,2566,080-8838205,Jayanagar,Cafe,Dosa,"South Indian, North Indian, Beverages, Thai, Fast Food","1,200",Sample Review Text...,5,Buffet,Bengaluru
+"Address_722, Bangalore",Resto_722,No,Yes,2.1/5,1329,080-8979292,HSR Layout,Casual Dining,Biryani,"Continental, Desserts, Mexican, Thai, Fast Food",1200,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_640, Bangalore",Leon Grill,No,No,2.2/5,2642,080-6840068,Marathahalli,Bakery,Steak,"Fast Food, South Indian, Continental, Chinese",1200,Sample Review Text...,4,Delivery,Bengaluru
+"Address_535, Bangalore",Nandhana Palace,Yes,Yes,3.7/5,737,080-3704659,Koramangala,Pub,Pizza,"Thai, Chinese, North Indian, Beverages",3000,Sample Review Text...,4,Buffet,Bengaluru
+"Address_538, Bangalore",KFC,No,No,3.8/5,304,080-3403234,Whitefield,Quick Service Restaurant,Burgers,"South Indian, Mexican, Desserts, North Indian",1000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_298, Bangalore",Nandhana Palace,Yes,Yes,3.8/5,221,080-6483324,Whitefield,Pub,Burgers,Thai,2500,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_367, Bangalore",Leon Grill,Yes,Yes,3.5/5,886,080-8285484,Marathahalli,Bar,Burgers,"Continental, North Indian, Mexican, Thai",800,Sample Review Text...,4,Buffet,Bengaluru
+"Address_417, Bangalore",Resto_417,Yes,Yes,4.3/5,557,080-3647821,Koramangala,Bakery,Burgers,"Continental, Thai",3000,Sample Review Text...,2,Buffet,Bengaluru
+"Address_350, Bangalore",Leon Grill,Yes,Yes,3.4/5,310,080-2046686,Marathahalli,Quick Service Restaurant,Steak,"Thai, Continental, South Indian, Mexican",400,Sample Review Text...,4,Cafes,Bengaluru
+"Address_875, Bangalore",Resto_875,No,Yes,4.7/5,2812,080-6664086,MG Road,Cafe,Dosa,Fast Food,200,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_715, Bangalore",Resto_715,No,No,,2678,080-2945459,MG Road,Bakery,Salad,Continental,,Sample Review Text...,1,Buffet,Bengaluru
+"Address_175, Bangalore",Resto_175,No,No,3.7/5,489,080-8802985,Koramangala,Cafe,Dosa,"Beverages, North Indian",1500,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_338, Bangalore",KFC,No,No,4.1/5,1663,080-7044627,MG Road,Bakery,Steak,"Italian, South Indian, Desserts, Chinese, Mexican",,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_534, Bangalore",Burger King,No,Yes,NEW,260,080-9893395,Jayanagar,Bakery,Salad,Mexican,"2,500",Sample Review Text...,1,Delivery,Bengaluru
+"Address_566, Bangalore",Resto_566,No,Yes,2.4/5,48,080-2402500,Indiranagar,Bakery,Dosa,"North Indian, Chinese, Fast Food, Mexican",200,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_865, Bangalore",Resto_865,Yes,No,,245,080-9059592,Koramangala,Casual Dining,Burgers,"Continental, Beverages, North Indian, South Indian, Chinese","1,200",Sample Review Text...,5,Dine-out,Bengaluru
+"Address_974, Bangalore",Burger King,Yes,No,NEW,2579,080-9754480,Indiranagar,Bar,Burgers,"North Indian, Desserts, Mexican",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_151, Bangalore",Nandhana Palace,Yes,Yes,3.0/5,847,080-2930810,Marathahalli,Quick Service Restaurant,Biryani,"Chinese, Desserts, Beverages, South Indian",400,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_580, Bangalore",Resto_580,Yes,Yes,2.0/5,1266,080-1752869,HSR Layout,Pub,Salad,"North Indian, Italian",1000,Sample Review Text...,2,Delivery,Bengaluru
+"Address_609, Bangalore",Nandhana Palace,No,No,2.9/5,807,080-3871248,Koramangala,Bar,Sushi,"Desserts, North Indian, Continental, Italian",400,Sample Review Text...,4,Buffet,Bengaluru
+"Address_886, Bangalore",Pizza Hut,No,Yes,4.1/5,2922,080-9220106,HSR Layout,Cafe,Steak,"North Indian, Chinese, Mexican, Beverages, Fast Food",1000,Sample Review Text...,5,Buffet,Bengaluru
+"Address_39, Bangalore",Onesta,No,No,2.3/5,907,080-6767292,MG Road,Fine Dining,Steak,"Continental, Thai",2000,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_705, Bangalore",Leon Grill,Yes,No,3.6/5,2876,080-4535328,MG Road,Quick Service Restaurant,Dosa,"Italian, Thai, Continental",400,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_651, Bangalore",Resto_651,Yes,No,2.1/5,1432,080-2288554,HSR Layout,Quick Service Restaurant,Pizza,"Fast Food, Mexican",2000,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_174, Bangalore",Nandhana Palace,Yes,Yes,,50,080-8035849,HSR Layout,Casual Dining,Burgers,"Thai, Mexican, South Indian, Chinese",200,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_944, Bangalore",Resto_944,Yes,Yes,3.4/5,402,080-2932023,Marathahalli,Bar,Dosa,"Thai, North Indian, Beverages, Fast Food, Chinese",1200,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_531, Bangalore",Resto_531,Yes,Yes,4.5/5,417,080-1880336,Jayanagar,Bakery,Pizza,"South Indian, North Indian, Chinese, Fast Food",2000,Sample Review Text...,4,Buffet,Bengaluru
+"Address_329, Bangalore",Resto_329,No,No,3.9/5,1116,080-6343290,Jayanagar,Cafe,Dosa,"Chinese, North Indian, Fast Food",800,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_260, Bangalore",Onesta,No,No,4.2/5,1630,080-3714471,Jayanagar,Bar,Pizza,Italian,2000,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_191, Bangalore",Resto_191,Yes,Yes,2.4/5,318,080-4517918,HSR Layout,Quick Service Restaurant,Burgers,"South Indian, Chinese, Thai",2000,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_205, Bangalore",Pizza Hut,Yes,No,,203,080-9611430,Jayanagar,Bar,Biryani,"Italian, Fast Food, Beverages, Thai, Chinese",1000,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_879, Bangalore",McDonald's,No,Yes,3.8/5,1811,080-4475080,HSR Layout,Quick Service Restaurant,Burgers,"Chinese, Mexican",600,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_606, Bangalore",Onesta,No,No,4.2/5,1305,080-1566398,Indiranagar,Pub,Dosa,"Mexican, Italian, Thai, South Indian",400,Sample Review Text...,4,Buffet,Bengaluru
+"Address_470, Bangalore",Resto_470,Yes,Yes,3.7/5,933,080-8615616,Whitefield,Cafe,Biryani,Beverages,3000,Sample Review Text...,1,Cafes,Bengaluru
+"Address_50, Bangalore",Burger King,Yes,Yes,4.6/5,1890,080-7970771,Indiranagar,Fine Dining,Salad,"Desserts, Continental",2500,Sample Review Text...,2,Cafes,Bengaluru
+"Address_602, Bangalore",McDonald's,Yes,No,-,89,080-8564486,MG Road,Casual Dining,Pasta,"Chinese, Italian, Mexican, Beverages",1200,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_196, Bangalore",Pizza Hut,No,No,3.9/5,373,080-8377620,MG Road,Cafe,Salad,"Mexican, Thai, South Indian",2000,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_732, Bangalore",Resto_732,No,No,2.3/5,1075,080-5078015,Indiranagar,Fine Dining,Salad,"Thai, Mexican",1200,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_351, Bangalore",Resto_351,Yes,No,2.8/5,1804,080-2819161,Indiranagar,Bakery,Pasta,"Fast Food, Mexican",600,Sample Review Text...,2,Buffet,Bengaluru
+"Address_128, Bangalore",Empire Restaurant,Yes,Yes,2.7/5,889,080-3403511,Koramangala,Cafe,Burgers,"Continental, Italian, Thai, Fast Food, Mexican",1200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_549, Bangalore",Resto_549,No,Yes,3.1/5,1492,080-8280643,MG Road,Cafe,Biryani,"Continental, Chinese, Desserts, Thai, Italian",600,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_308, Bangalore",Resto_308,Yes,Yes,2.9/5,2888,080-9941610,Jayanagar,Bakery,Pizza,"Fast Food, South Indian",1200,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_370, Bangalore",Empire Restaurant,Yes,No,3.0/5,133,080-6632022,Whitefield,Bakery,Biryani,"Fast Food, Beverages, Italian",400,Sample Review Text...,3,Buffet,Bengaluru
+"Address_467, Bangalore",Onesta,No,Yes,3.9/5,317,080-3972698,Koramangala,Bar,Biryani,"Chinese, Thai, Mexican, Desserts",3000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_702, Bangalore",Nandhana Palace,No,Yes,-,370,080-1337345,Jayanagar,Fine Dining,Pasta,South Indian,1200,Sample Review Text...,1,Delivery,Bengaluru
+"Address_248, Bangalore",Empire Restaurant,No,Yes,3.6/5,2226,080-5882155,Marathahalli,Fine Dining,Pasta,"Thai, Mexican",800,Sample Review Text...,2,Cafes,Bengaluru
+"Address_284, Bangalore",Resto_284,Yes,No,3.3/5,137,080-6236326,HSR Layout,Bakery,Sushi,Beverages,800,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_57, Bangalore",Leon Grill,Yes,No,3.3/5,2731,080-6018975,Koramangala,Bar,Steak,"Continental, Beverages, South Indian, North Indian","2,000",Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_625, Bangalore",Resto_625,Yes,Yes,4.5/5,2700,080-4252130,Jayanagar,Quick Service Restaurant,Steak,"North Indian, Italian, Mexican, South Indian",800,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_856, Bangalore",Resto_856,Yes,Yes,4.8/5,1728,080-8189437,JP Nagar,Fine Dining,Salad,"North Indian, Continental, Thai, Italian",1200,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_166, Bangalore",Resto_166,No,Yes,4.4/5,545,080-3539636,Jayanagar,Casual Dining,Steak,"Fast Food, North Indian, South Indian, Italian, Desserts",800,Sample Review Text...,5,Buffet,Bengaluru
+"Address_579, Bangalore",Resto_579,No,No,4.3/5,2648,080-6628280,MG Road,Cafe,Biryani,"Chinese, Fast Food, Beverages",1200,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_411, Bangalore",Resto_411,Yes,No,3.9/5,369,080-3024047,MG Road,Bar,Dosa,"Italian, Chinese",3000,Sample Review Text...,2,Cafes,Bengaluru
+"Address_808, Bangalore",McDonald's,Yes,No,3.2/5,1852,080-9890863,Marathahalli,Bakery,Burgers,"Thai, Fast Food, Beverages, Desserts",1500,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_643, Bangalore",KFC,Yes,No,4.0/5,923,080-1406730,HSR Layout,Fine Dining,Pizza,"Mexican, Beverages",800,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_144, Bangalore",Resto_144,No,Yes,4.3/5,1577,080-7387623,Koramangala,Quick Service Restaurant,Pasta,"Mexican, Chinese, Italian, Continental",2500,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_494, Bangalore",Onesta,Yes,No,2.5/5,1682,080-2153651,MG Road,Cafe,Steak,South Indian,2500,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_789, Bangalore",Pizza Hut,No,Yes,3.2/5,928,080-9789034,JP Nagar,Fine Dining,Dosa,Thai,2000,Sample Review Text...,1,Delivery,Bengaluru
+"Address_596, Bangalore",Nandhana Palace,No,Yes,4.5/5,867,080-6882321,HSR Layout,Bar,Salad,"Beverages, Mexican, Chinese, Desserts","2,000",Sample Review Text...,4,Cafes,Bengaluru
+"Address_246, Bangalore",Pizza Hut,Yes,No,4.8/5,690,080-3253277,Koramangala,Quick Service Restaurant,Sushi,"Italian, Mexican","1,000",Sample Review Text...,2,Cafes,Bengaluru
+"Address_288, Bangalore",Pizza Hut,No,Yes,3.6/5,1325,080-5418267,Marathahalli,Quick Service Restaurant,Sushi,"Beverages, South Indian, Chinese, Continental, Desserts",2000,Sample Review Text...,5,Cafes,Bengaluru
+"Address_70, Bangalore",Resto_70,No,No,4.0/5,1942,080-7251976,Indiranagar,Casual Dining,Pasta,Chinese,1500,Sample Review Text...,1,Buffet,Bengaluru
+"Address_782, Bangalore",KFC,Yes,Yes,4.8/5,2507,080-7704457,Marathahalli,Bar,Steak,"Mexican, Beverages, Italian, Desserts",600,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_206, Bangalore",Resto_206,Yes,Yes,2.0/5,1033,080-8829893,Whitefield,Fine Dining,Dosa,"Mexican, Fast Food, Thai",2000,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_811, Bangalore",KFC,Yes,No,2.7/5,534,080-1145436,Marathahalli,Quick Service Restaurant,Biryani,"Fast Food, Beverages, North Indian, Thai, Desserts",400,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_545, Bangalore",Nandhana Palace,No,Yes,4.6/5,29,080-9783147,MG Road,Fine Dining,Burgers,"Thai, Italian, North Indian, Continental, Beverages",600,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_33, Bangalore",Resto_33,No,No,4.4/5,1033,080-6871360,Indiranagar,Bakery,Burgers,Beverages,200,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_143, Bangalore",Leon Grill,No,No,2.3/5,1262,080-9597330,Marathahalli,Quick Service Restaurant,Steak,"Chinese, South Indian, Fast Food",600,Sample Review Text...,3,Delivery,Bengaluru
+"Address_547, Bangalore",Pizza Hut,Yes,Yes,3.6/5,890,080-6512184,Whitefield,Fine Dining,Dosa,"North Indian, Desserts, Beverages, Fast Food, South Indian",200,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_860, Bangalore",Burger King,Yes,No,4.0/5,2011,080-2840033,Jayanagar,Bakery,Pasta,"South Indian, North Indian, Continental",3000,Sample Review Text...,3,Delivery,Bengaluru
+"Address_352, Bangalore",KFC,Yes,No,2.3/5,298,080-1014556,Indiranagar,Pub,Biryani,"Desserts, North Indian, Fast Food",600,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_471, Bangalore",Empire Restaurant,No,No,3.2/5,498,080-8047472,Marathahalli,Bakery,Salad,"Beverages, North Indian, Italian",200,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_783, Bangalore",Resto_783,No,No,3.1/5,961,080-3160312,JP Nagar,Pub,Pizza,"Chinese, South Indian, Thai",800,Sample Review Text...,3,Buffet,Bengaluru
+"Address_318, Bangalore",Empire Restaurant,Yes,No,3.6/5,850,080-1544120,Koramangala,Cafe,Dosa,"North Indian, Thai",200,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_66, Bangalore",Resto_66,Yes,Yes,2.1/5,60,080-1879109,JP Nagar,Bar,Pasta,"Fast Food, Thai",200,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_129, Bangalore",Resto_129,Yes,Yes,3.2/5,2030,080-4084977,Koramangala,Quick Service Restaurant,Salad,"Beverages, Thai, Mexican, Italian",600,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_497, Bangalore",Resto_497,Yes,Yes,4.7/5,981,080-7186297,Jayanagar,Quick Service Restaurant,Pizza,"Continental, Chinese, Italian, Desserts, Mexican",2500,Sample Review Text...,5,Delivery,Bengaluru
+"Address_521, Bangalore",McDonald's,No,No,4.8/5,1352,080-5688687,Indiranagar,Casual Dining,Burgers,"Mexican, South Indian, North Indian, Continental",400,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_237, Bangalore",Nandhana Palace,No,Yes,3.9/5,1356,080-1147701,JP Nagar,Quick Service Restaurant,Pizza,"Fast Food, Beverages","2,000",Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_607, Bangalore",McDonald's,No,Yes,-,1321,080-7235425,MG Road,Bar,Sushi,"Thai, Italian",400,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_848, Bangalore",Pizza Hut,No,Yes,3.4/5,2995,080-9345380,Jayanagar,Cafe,Steak,Mexican,1500,Sample Review Text...,1,Cafes,Bengaluru
+"Address_71, Bangalore",Resto_71,No,Yes,4.5/5,1732,080-9089795,Koramangala,Quick Service Restaurant,Burgers,"Continental, Thai, Chinese, Fast Food, Mexican",800,Sample Review Text...,5,Delivery,Bengaluru
+"Address_680, Bangalore",KFC,Yes,Yes,2.3/5,2512,080-6591646,JP Nagar,Cafe,Sushi,"Beverages, North Indian, Fast Food, Mexican, Italian",400,Sample Review Text...,5,Buffet,Bengaluru
+"Address_612, Bangalore",Onesta,Yes,No,2.3/5,917,080-8309538,Koramangala,Bar,Burgers,South Indian,400,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_495, Bangalore",Resto_495,Yes,No,4.1/5,1944,080-8478135,Jayanagar,Pub,Pizza,"Continental, Italian, Desserts, South Indian, Chinese",200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_395, Bangalore",Nandhana Palace,No,No,-,1161,080-8180005,Marathahalli,Pub,Burgers,"Desserts, Italian, Mexican","1,000",Sample Review Text...,3,Delivery,Bengaluru
+"Address_235, Bangalore",Nandhana Palace,No,Yes,3.6/5,532,080-6412833,Jayanagar,Pub,Biryani,"North Indian, Thai, Desserts",600,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_84, Bangalore",Nandhana Palace,No,No,,1265,080-5962567,Jayanagar,Cafe,Pizza,"Desserts, Italian, Beverages",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_739, Bangalore",Nandhana Palace,Yes,No,NEW,932,080-2225651,HSR Layout,Pub,Burgers,"Desserts, Fast Food, Chinese, Continental, North Indian",1200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_41, Bangalore",Pizza Hut,Yes,Yes,3.0/5,1238,080-3118618,Koramangala,Fine Dining,Salad,"South Indian, Continental, North Indian, Desserts, Beverages",1000,Sample Review Text...,5,Delivery,Bengaluru
+"Address_238, Bangalore",Resto_238,Yes,Yes,4.0/5,1314,080-5745083,MG Road,Bar,Biryani,Mexican,1000,Sample Review Text...,1,Buffet,Bengaluru
+"Address_757, Bangalore",Nandhana Palace,No,No,4.4/5,1778,080-5608971,Whitefield,Cafe,Sushi,Mexican,2000,Sample Review Text...,1,Delivery,Bengaluru
+"Address_270, Bangalore",Pizza Hut,Yes,No,3.4/5,2511,080-7246319,JP Nagar,Quick Service Restaurant,Sushi,"Desserts, Mexican",800,Sample Review Text...,2,Cafes,Bengaluru
+"Address_35, Bangalore",Resto_35,Yes,Yes,2.3/5,105,080-6059717,Whitefield,Pub,Pizza,"Mexican, Italian, Chinese, Continental",800,Sample Review Text...,4,Buffet,Bengaluru
+"Address_896, Bangalore",KFC,Yes,Yes,2.8/5,2084,080-4673414,Whitefield,Bakery,Burgers,"North Indian, Continental, Beverages, Fast Food",600,Sample Review Text...,4,Cafes,Bengaluru
+"Address_36, Bangalore",McDonald's,No,No,NEW,2652,080-8306261,JP Nagar,Casual Dining,Pasta,"Desserts, Chinese, Mexican, South Indian",2000,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_8, Bangalore",Resto_8,Yes,Yes,4.5/5,1259,080-2161193,HSR Layout,Casual Dining,Pasta,"Fast Food, Chinese",400,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_795, Bangalore",Resto_795,No,Yes,2.9/5,1982,080-3908477,MG Road,Quick Service Restaurant,Sushi,"Continental, North Indian, Beverages, Chinese",400,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_130, Bangalore",Pizza Hut,Yes,No,3.6/5,1706,080-8546170,Jayanagar,Bakery,Sushi,"Continental, Italian",1200,Sample Review Text...,2,Delivery,Bengaluru
+"Address_179, Bangalore",Burger King,Yes,Yes,4.5/5,1609,080-2828260,JP Nagar,Quick Service Restaurant,Pasta,"Continental, Italian, Chinese, Desserts",600,Sample Review Text...,4,Delivery,Bengaluru
+"Address_492, Bangalore",Empire Restaurant,Yes,Yes,4.9/5,2327,080-8965447,MG Road,Bakery,Pizza,"Mexican, Chinese",2500,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_734, Bangalore",Empire Restaurant,Yes,No,4.1/5,1256,080-3156762,Jayanagar,Pub,Pasta,"Desserts, Fast Food, Continental",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_346, Bangalore",Onesta,No,No,4.2/5,2181,080-8529960,HSR Layout,Bakery,Steak,"Desserts, Continental, South Indian, Beverages",1500,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_755, Bangalore",Resto_755,Yes,No,,1796,080-9501071,MG Road,Cafe,Pizza,"Mexican, Chinese",400,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_38, Bangalore",Resto_38,No,Yes,3.0/5,1058,080-7818732,JP Nagar,Quick Service Restaurant,Salad,"Continental, Beverages, North Indian, Fast Food, Chinese",400,Sample Review Text...,5,Buffet,Bengaluru
+"Address_893, Bangalore",Burger King,No,No,3.8/5,589,080-1702825,Jayanagar,Bar,Biryani,"Chinese, Mexican",1000,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_965, Bangalore",Resto_965,Yes,No,2.4/5,419,080-2087833,JP Nagar,Bakery,Dosa,Fast Food,200,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_764, Bangalore",Resto_764,Yes,Yes,,2599,080-9066089,Koramangala,Bar,Salad,"South Indian, Mexican",1200,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_960, Bangalore",Leon Grill,Yes,Yes,NEW,1848,080-5931635,Whitefield,Quick Service Restaurant,Pasta,"Mexican, Chinese, Beverages","1,000",Sample Review Text...,3,Buffet,Bengaluru
+"Address_914, Bangalore",McDonald's,Yes,No,3.6/5,1025,080-3690055,Koramangala,Pub,Burgers,Chinese,600,Sample Review Text...,1,Cafes,Bengaluru
+"Address_490, Bangalore",Leon Grill,No,Yes,4.2/5,1943,080-8193952,HSR Layout,Pub,Steak,"Beverages, Desserts, Fast Food, South Indian, North Indian","1,200",Sample Review Text...,5,Dine-out,Bengaluru
+"Address_79, Bangalore",Resto_79,Yes,Yes,4.2/5,2023,080-2145653,Marathahalli,Bar,Salad,"Fast Food, Desserts, Thai, Mexican, Beverages",1200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_622, Bangalore",Resto_622,Yes,Yes,4.6/5,580,080-3864292,Koramangala,Fine Dining,Biryani,"Mexican, Thai, North Indian, Chinese","1,000",Sample Review Text...,4,Buffet,Bengaluru
+"Address_969, Bangalore",Empire Restaurant,No,Yes,2.9/5,2967,080-1293589,HSR Layout,Pub,Dosa,"Italian, Thai, Beverages, Desserts, Chinese",2500,Sample Review Text...,5,Delivery,Bengaluru
+"Address_713, Bangalore",Resto_713,No,Yes,,1236,080-7489687,MG Road,Casual Dining,Salad,"Mexican, South Indian, Fast Food",600,Sample Review Text...,3,Delivery,Bengaluru
+"Address_938, Bangalore",Resto_938,Yes,No,4.6/5,1227,080-3875197,MG Road,Cafe,Sushi,South Indian,2000,Sample Review Text...,1,Delivery,Bengaluru
+"Address_662, Bangalore",McDonald's,No,No,2.5/5,182,080-9525883,Whitefield,Cafe,Sushi,"North Indian, Chinese, Italian, Mexican, South Indian",2500,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_825, Bangalore",McDonald's,No,Yes,4.1/5,1306,080-4192453,Marathahalli,Quick Service Restaurant,Burgers,"Thai, Desserts, Continental, Mexican",2000,Sample Review Text...,4,Buffet,Bengaluru
+"Address_427, Bangalore",Pizza Hut,Yes,Yes,3.7/5,1705,080-2779557,Indiranagar,Cafe,Sushi,"Chinese, Thai, North Indian, South Indian",400,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_114, Bangalore",McDonald's,No,No,2.6/5,1009,080-9204110,Whitefield,Pub,Sushi,"Italian, Continental, Beverages",800,Sample Review Text...,3,Cafes,Bengaluru
+"Address_404, Bangalore",Resto_404,No,Yes,3.1/5,1598,080-4454568,JP Nagar,Pub,Sushi,Desserts,400,Sample Review Text...,1,Cafes,Bengaluru
+"Address_977, Bangalore",Pizza Hut,Yes,Yes,3.3/5,365,080-2327930,Jayanagar,Quick Service Restaurant,Salad,"South Indian, Italian, Thai",1500,Sample Review Text...,3,Delivery,Bengaluru
+"Address_188, Bangalore",Resto_188,No,Yes,NEW,952,080-3977282,HSR Layout,Casual Dining,Sushi,"Desserts, North Indian, Thai, Continental, Chinese",600,Sample Review Text...,5,Delivery,Bengaluru
+"Address_327, Bangalore",Nandhana Palace,No,Yes,4.6/5,631,080-9659503,HSR Layout,Quick Service Restaurant,Pasta,"Beverages, Continental, Thai, Chinese",400,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_997, Bangalore",Resto_997,No,Yes,3.9/5,446,080-7424539,Whitefield,Bar,Pizza,North Indian,,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_281, Bangalore",Pizza Hut,No,Yes,2.5/5,1186,080-6379509,Indiranagar,Fine Dining,Biryani,"Fast Food, Desserts, Continental, Thai",3000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_551, Bangalore",McDonald's,No,No,4.8/5,86,080-6740173,Jayanagar,Cafe,Steak,"Beverages, North Indian, Italian",200,Sample Review Text...,3,Buffet,Bengaluru
+"Address_17, Bangalore",Resto_17,No,Yes,4.6/5,1000,080-9874152,JP Nagar,Quick Service Restaurant,Biryani,"Desserts, Beverages",1000,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_983, Bangalore",Burger King,No,Yes,4.0/5,1649,080-3409702,Marathahalli,Cafe,Pizza,"Beverages, South Indian, North Indian, Fast Food",200,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_518, Bangalore",Resto_518,No,Yes,2.3/5,2322,080-7858398,HSR Layout,Cafe,Salad,"North Indian, South Indian",800,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_699, Bangalore",Leon Grill,Yes,Yes,NEW,489,080-5655311,Koramangala,Bakery,Burgers,Thai,400,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_899, Bangalore",Resto_899,Yes,No,2.9/5,1543,080-8189752,Indiranagar,Casual Dining,Salad,Chinese,200,Sample Review Text...,1,Delivery,Bengaluru
+"Address_670, Bangalore",Pizza Hut,Yes,Yes,3.0/5,2310,080-4534635,MG Road,Quick Service Restaurant,Steak,"Mexican, Thai, South Indian",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_608, Bangalore",Nandhana Palace,Yes,No,4.1/5,875,080-4559708,Marathahalli,Pub,Burgers,"Italian, Beverages, Chinese",1500,Sample Review Text...,3,Delivery,Bengaluru
+"Address_576, Bangalore",Resto_576,Yes,Yes,NEW,2331,080-6024905,MG Road,Cafe,Salad,"Desserts, South Indian",2500,Sample Review Text...,2,Cafes,Bengaluru
+"Address_616, Bangalore",Onesta,No,Yes,3.0/5,2418,080-7100930,JP Nagar,Bar,Steak,"Desserts, South Indian, Chinese",600,Sample Review Text...,3,Cafes,Bengaluru
+"Address_219, Bangalore",Onesta,No,Yes,,2751,080-2699372,Indiranagar,Casual Dining,Dosa,"Desserts, South Indian, Chinese, Mexican, Continental",400,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_718, Bangalore",Resto_718,No,Yes,2.9/5,145,080-2410072,Indiranagar,Quick Service Restaurant,Pizza,Beverages,1500,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_69, Bangalore",Burger King,Yes,Yes,3.9/5,2258,080-2595275,HSR Layout,Bakery,Sushi,"Italian, Mexican, Thai, Beverages",2000,Sample Review Text...,4,Cafes,Bengaluru
+"Address_252, Bangalore",Empire Restaurant,Yes,No,2.2/5,2635,080-2985251,,Cafe,Burgers,"South Indian, Fast Food",1200,Sample Review Text...,2,Cafes,Bengaluru
+"Address_59, Bangalore",KFC,No,Yes,3.8/5,2776,080-1559763,Jayanagar,Fine Dining,Sushi,North Indian,1000,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_600, Bangalore",Leon Grill,Yes,Yes,2.1/5,534,080-5114686,Marathahalli,Fine Dining,Steak,"South Indian, Italian, Beverages",1000,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_49, Bangalore",Resto_49,No,No,4.2/5,833,080-5014745,Whitefield,Pub,Pasta,"Continental, Desserts",2000,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_982, Bangalore",Onesta,No,Yes,4.5/5,948,080-8543762,,Casual Dining,Biryani,"South Indian, Beverages, Thai, Italian, North Indian",1200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_241, Bangalore",Nandhana Palace,Yes,No,3.3/5,1656,080-2060950,MG Road,Quick Service Restaurant,Biryani,Mexican,400,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_854, Bangalore",McDonald's,No,Yes,4.4/5,1529,080-8611052,MG Road,Pub,Pasta,"Italian, Thai, Mexican, Beverages",400,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_107, Bangalore",Onesta,Yes,Yes,3.5/5,986,080-8895137,HSR Layout,Pub,Dosa,"North Indian, Fast Food, Continental",2000,Sample Review Text...,3,Buffet,Bengaluru
+"Address_253, Bangalore",Nandhana Palace,No,No,3.7/5,2651,080-3260294,MG Road,Casual Dining,Biryani,"North Indian, South Indian",3000,Sample Review Text...,2,Buffet,Bengaluru
+"Address_931, Bangalore",Leon Grill,No,Yes,2.1/5,2824,080-6139499,MG Road,Pub,Steak,"North Indian, Desserts, Italian",600,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_873, Bangalore",Resto_873,Yes,No,3.1/5,2255,080-8629616,MG Road,Casual Dining,Dosa,Italian,"1,000",Sample Review Text...,1,Buffet,Bengaluru
+"Address_5, Bangalore",Onesta,Yes,No,4.2/5,2207,080-1790481,Whitefield,Fine Dining,Pizza,"Mexican, Fast Food, Thai, Chinese, Beverages",2500,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_341, Bangalore",McDonald's,Yes,No,2.2/5,2990,080-6242875,Whitefield,Bakery,Biryani,"Chinese, Beverages, Fast Food, Desserts, Italian",400,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_139, Bangalore",McDonald's,Yes,Yes,4.6/5,2835,080-1552000,Marathahalli,Quick Service Restaurant,Pasta,Chinese,"1,000",Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_857, Bangalore",Empire Restaurant,No,Yes,3.0/5,1047,080-6889724,Marathahalli,Bar,Salad,"Beverages, Chinese, Mexican, Thai",3000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_77, Bangalore",McDonald's,Yes,No,4.7/5,360,080-9790632,MG Road,Bar,Pizza,Italian,1500,Sample Review Text...,1,Cafes,Bengaluru
+"Address_85, Bangalore",Empire Restaurant,No,Yes,2.4/5,740,080-5780297,Jayanagar,Fine Dining,Salad,"North Indian, Mexican, Thai, Desserts",800,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_959, Bangalore",Resto_959,Yes,No,-,1197,080-7833008,HSR Layout,Cafe,Burgers,"Beverages, Desserts, Thai, Mexican",200,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_37, Bangalore",Pizza Hut,No,No,4.1/5,1099,080-8796514,JP Nagar,Bar,Steak,"Chinese, Continental",2000,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_555, Bangalore",Resto_555,Yes,No,4.7/5,2914,080-6396217,MG Road,Cafe,Burgers,"North Indian, South Indian, Fast Food",200,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_421, Bangalore",Resto_421,Yes,Yes,2.8/5,2530,080-6423167,Marathahalli,Cafe,Steak,"Fast Food, Desserts, Chinese",200,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_458, Bangalore",KFC,Yes,Yes,3.5/5,76,080-8452933,Indiranagar,Fine Dining,Pizza,"South Indian, North Indian, Continental, Mexican, Chinese",800,Sample Review Text...,5,Buffet,Bengaluru
+"Address_663, Bangalore",Resto_663,Yes,Yes,4.9/5,321,080-9854283,Indiranagar,Cafe,Biryani,"Beverages, Fast Food, Mexican, Continental, Thai",400,Sample Review Text...,5,Buffet,Bengaluru
+"Address_60, Bangalore",Resto_60,No,No,2.5/5,541,080-6682698,JP Nagar,Pub,Pizza,"Continental, South Indian, Fast Food, Mexican, Italian",1000,Sample Review Text...,5,Cafes,Bengaluru
+"Address_14, Bangalore",Onesta,Yes,Yes,4.8/5,2372,080-9910817,Koramangala,Fine Dining,Pasta,"North Indian, Fast Food, Desserts","2,500",Sample Review Text...,3,Delivery,Bengaluru
+"Address_674, Bangalore",Resto_674,No,No,4.1/5,2752,080-1597875,Indiranagar,Fine Dining,Biryani,"North Indian, Mexican, Chinese",2500,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_465, Bangalore",Resto_465,Yes,No,NEW,2860,080-9469478,Indiranagar,Bar,Sushi,"Beverages, Continental",1500,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_242, Bangalore",McDonald's,Yes,No,2.9/5,354,080-3288101,Whitefield,Bar,Steak,"Mexican, Fast Food, North Indian, Italian",600,Sample Review Text...,4,Buffet,Bengaluru
+"Address_160, Bangalore",McDonald's,No,No,4.8/5,2107,080-6403886,Indiranagar,Cafe,Burgers,"North Indian, Continental, South Indian, Thai",600,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_676, Bangalore",Onesta,Yes,Yes,,2817,080-4020978,Whitefield,Pub,Dosa,"Fast Food, Italian, Thai, Beverages",2500,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_777, Bangalore",Pizza Hut,No,No,4.8/5,1133,080-5415321,Marathahalli,Bar,Pasta,Thai,2000,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_503, Bangalore",Nandhana Palace,No,No,2.5/5,848,080-6425211,MG Road,Bakery,Pasta,Italian,800,Sample Review Text...,1,Delivery,Bengaluru
+"Address_924, Bangalore",Resto_924,No,No,3.8/5,510,080-3150688,MG Road,Quick Service Restaurant,Pasta,"Desserts, North Indian, Chinese, Italian, Continental",800,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_4, Bangalore",Pizza Hut,Yes,No,4.3/5,938,080-6279418,Koramangala,Bar,Burgers,"Mexican, Continental, Chinese",800,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_565, Bangalore",Leon Grill,Yes,No,2.5/5,1155,080-3407905,Koramangala,Quick Service Restaurant,Pizza,"South Indian, Mexican",3000,Sample Review Text...,2,Cafes,Bengaluru
+"Address_858, Bangalore",Resto_858,No,Yes,3.6/5,339,080-5049661,HSR Layout,Fine Dining,Salad,Desserts,1500,Sample Review Text...,1,Delivery,Bengaluru
+"Address_803, Bangalore",McDonald's,No,Yes,2.2/5,1556,080-8363043,Jayanagar,Quick Service Restaurant,Biryani,"Chinese, Italian, South Indian, Thai, Fast Food",1200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_158, Bangalore",KFC,No,Yes,3.9/5,1013,080-2459332,Whitefield,Bar,Salad,Desserts,1000,Sample Review Text...,1,Delivery,Bengaluru
+"Address_46, Bangalore",Pizza Hut,No,No,3.4/5,329,080-1348050,Koramangala,Bakery,Dosa,"Fast Food, Continental, North Indian",400,Sample Review Text...,3,Buffet,Bengaluru
+"Address_101, Bangalore",Resto_101,No,No,4.4/5,302,080-6779998,Jayanagar,Quick Service Restaurant,Pasta,Desserts,2000,Sample Review Text...,1,Buffet,Bengaluru
+"Address_834, Bangalore",Pizza Hut,Yes,Yes,3.5/5,1016,080-5967790,MG Road,Bakery,Biryani,Continental,1000,Sample Review Text...,1,Delivery,Bengaluru
+"Address_307, Bangalore",Resto_307,No,Yes,NEW,1565,080-6524481,HSR Layout,Bakery,Salad,"Fast Food, South Indian","1,500",Sample Review Text...,2,Buffet,Bengaluru
+"Address_751, Bangalore",McDonald's,Yes,Yes,4.8/5,460,080-8813403,Jayanagar,Bar,Salad,"Chinese, Desserts, Italian, Mexican, North Indian","1,500",Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_949, Bangalore",Pizza Hut,Yes,Yes,4.1/5,2636,080-2076525,Jayanagar,Pub,Steak,"Desserts, Italian, Beverages, Fast Food",800,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_513, Bangalore",McDonald's,No,No,4.7/5,1528,080-3088386,MG Road,Bakery,Steak,"Fast Food, Chinese, Mexican",200,Sample Review Text...,3,Buffet,Bengaluru
+"Address_355, Bangalore",Resto_355,No,Yes,3.0/5,347,080-5001116,Marathahalli,Fine Dining,Salad,"South Indian, North Indian",800,Sample Review Text...,2,Cafes,Bengaluru
+"Address_335, Bangalore",Onesta,No,Yes,2.5/5,1662,080-2031500,Indiranagar,Pub,Pizza,Fast Food,1500,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_981, Bangalore",Leon Grill,Yes,Yes,,661,080-8044211,Indiranagar,Bakery,Pasta,"Beverages, South Indian, Chinese, Thai, Desserts",1000,Sample Review Text...,5,Buffet,Bengaluru
+"Address_629, Bangalore",Leon Grill,Yes,No,4.1/5,1769,080-7480045,Indiranagar,Quick Service Restaurant,Steak,"North Indian, Desserts",1200,Sample Review Text...,2,Cafes,Bengaluru
+"Address_94, Bangalore",Resto_94,No,No,4.2/5,1583,080-2324175,JP Nagar,Cafe,Steak,"Desserts, Thai, Continental, Mexican",400,Sample Review Text...,4,Buffet,Bengaluru
+"Address_646, Bangalore",Pizza Hut,No,No,2.2/5,646,080-2860164,Whitefield,Casual Dining,Salad,"Fast Food, Italian, Continental, Beverages, Desserts",200,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_807, Bangalore",Resto_807,Yes,No,4.6/5,1507,080-4808186,Koramangala,Bakery,Steak,"South Indian, North Indian, Desserts",1500,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_199, Bangalore",Resto_199,No,Yes,3.3/5,2569,080-6471499,Jayanagar,Bar,Dosa,"Continental, Thai, Chinese, North Indian, Italian",2500,Sample Review Text...,5,Buffet,Bengaluru
+"Address_422, Bangalore",Resto_422,No,No,2.7/5,390,080-1763562,Koramangala,Casual Dining,Biryani,"Italian, Desserts, Thai","3,000",Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_314, Bangalore",Onesta,Yes,Yes,3.7/5,2851,080-4387856,Jayanagar,Bakery,Salad,"Thai, Desserts, North Indian, Chinese",2000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_385, Bangalore",Onesta,Yes,No,3.6/5,1056,080-1294357,Marathahalli,Fine Dining,Dosa,Thai,2500,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_900, Bangalore",Leon Grill,Yes,Yes,2.1/5,1193,080-6538859,JP Nagar,Fine Dining,Pizza,"Fast Food, Chinese, North Indian",600,Sample Review Text...,3,Delivery,Bengaluru
+"Address_605, Bangalore",Resto_605,No,No,3.4/5,2099,080-6227531,MG Road,Cafe,Pasta,"South Indian, Italian, Continental",1500,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_313, Bangalore",Empire Restaurant,No,Yes,3.3/5,1247,080-9673311,Whitefield,Bakery,Pasta,"Mexican, Continental","3,000",Sample Review Text...,2,Cafes,Bengaluru
+"Address_542, Bangalore",Burger King,No,Yes,4.0/5,2921,080-1886921,Jayanagar,Fine Dining,Sushi,"South Indian, Mexican",3000,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_918, Bangalore",McDonald's,Yes,No,3.2/5,159,080-7912713,Indiranagar,Casual Dining,Pizza,"South Indian, Continental, Mexican",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_184, Bangalore",Resto_184,Yes,Yes,3.8/5,2651,080-8033593,Whitefield,Bakery,Burgers,"Beverages, Desserts, North Indian, Fast Food",1000,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_105, Bangalore",Onesta,Yes,No,2.9/5,2942,080-6353876,JP Nagar,Fine Dining,Burgers,"Mexican, South Indian, Thai",2500,Sample Review Text...,3,Cafes,Bengaluru
+"Address_198, Bangalore",Onesta,Yes,No,3.1/5,2925,080-3804559,Koramangala,Pub,Burgers,"Beverages, South Indian, Chinese, Mexican, Italian",600,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_250, Bangalore",Resto_250,No,Yes,NEW,1513,080-8627651,HSR Layout,Casual Dining,Biryani,"Beverages, Thai",1500,Sample Review Text...,2,Delivery,Bengaluru
+"Address_630, Bangalore",Nandhana Palace,No,No,2.5/5,1785,080-6116985,JP Nagar,Bar,Pizza,"South Indian, Italian, Continental, Chinese, Beverages",2500,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_477, Bangalore",Leon Grill,Yes,Yes,2.2/5,1276,080-6752912,MG Road,Pub,Dosa,"Continental, Beverages, South Indian",600,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_287, Bangalore",Resto_287,Yes,Yes,2.7/5,2287,080-1662507,JP Nagar,Bar,Salad,"Italian, North Indian, Mexican, South Indian",600,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_457, Bangalore",Resto_457,No,No,3.1/5,2215,080-6181610,Koramangala,Fine Dining,Pizza,"Continental, Chinese, South Indian, Thai",200,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_409, Bangalore",Resto_409,Yes,No,2.4/5,113,080-1620819,,Bar,Burgers,"Desserts, Fast Food, Mexican",1500,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_696, Bangalore",McDonald's,Yes,Yes,4.5/5,2744,080-1179053,JP Nagar,Fine Dining,Burgers,"Italian, Beverages, Fast Food, Desserts",1200,Sample Review Text...,4,Cafes,Bengaluru
+"Address_837, Bangalore",McDonald's,No,Yes,4.4/5,141,080-2139083,Whitefield,Quick Service Restaurant,Pasta,"Fast Food, North Indian, Beverages, Thai, Mexican",600,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_569, Bangalore",Leon Grill,No,No,4.5/5,1575,080-5728058,Indiranagar,Bakery,Sushi,"Chinese, Italian",400,Sample Review Text...,2,Delivery,Bengaluru
+"Address_463, Bangalore",Leon Grill,No,No,4.5/5,2049,080-8109386,HSR Layout,Bar,Salad,"Thai, Beverages",600,Sample Review Text...,2,Delivery,Bengaluru
+"Address_211, Bangalore",Nandhana Palace,No,Yes,4.5/5,1563,080-6749046,Whitefield,Bakery,Steak,South Indian,600,Sample Review Text...,1,Buffet,Bengaluru
+"Address_682, Bangalore",Resto_682,Yes,Yes,4.3/5,173,080-3074382,Jayanagar,Quick Service Restaurant,Steak,"North Indian, Italian, Beverages",200,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_401, Bangalore",Resto_401,Yes,No,4.0/5,2343,080-7338393,Marathahalli,Bakery,Sushi,"South Indian, Beverages, North Indian, Italian, Fast Food",2000,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_132, Bangalore",Nandhana Palace,No,Yes,4.0/5,1624,080-6174467,HSR Layout,Pub,Dosa,"Continental, Mexican, Desserts",2500,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_810, Bangalore",KFC,Yes,No,2.5/5,1574,080-3614824,MG Road,Cafe,Steak,"North Indian, Italian, Mexican, Continental",600,Sample Review Text...,4,Buffet,Bengaluru
+"Address_836, Bangalore",Resto_836,No,No,2.4/5,69,080-7291943,Indiranagar,Casual Dining,Biryani,"Beverages, Desserts, Thai",600,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_344, Bangalore",Resto_344,Yes,Yes,4.1/5,2699,080-9848116,Marathahalli,Quick Service Restaurant,Biryani,"Continental, Italian",2000,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_89, Bangalore",Onesta,No,Yes,2.1/5,883,080-1801102,Jayanagar,Pub,Burgers,"Beverages, Mexican, Chinese, Fast Food, South Indian",800,Sample Review Text...,5,Cafes,Bengaluru
+"Address_3, Bangalore",Nandhana Palace,No,No,4.4/5,666,080-9961380,JP Nagar,Quick Service Restaurant,Burgers,"Continental, Chinese",3000,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_408, Bangalore",Empire Restaurant,Yes,No,2.7/5,2807,080-5478422,Whitefield,Bar,Dosa,"Mexican, Thai, Chinese, Beverages",800,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_724, Bangalore",Nandhana Palace,Yes,No,4.2/5,1849,080-8239885,Marathahalli,Casual Dining,Steak,"Fast Food, South Indian",3000,Sample Review Text...,2,Delivery,Bengaluru
+"Address_502, Bangalore",KFC,Yes,Yes,4.9/5,1380,080-3816607,HSR Layout,Fine Dining,Pasta,Italian,400,Sample Review Text...,1,Delivery,Bengaluru
+"Address_659, Bangalore",Nandhana Palace,No,Yes,4.3/5,1063,080-4903596,Marathahalli,Cafe,Pizza,"South Indian, Fast Food",3000,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_438, Bangalore",Resto_438,No,Yes,2.3/5,2920,080-9612679,MG Road,Bakery,Salad,"Fast Food, Beverages, Continental, North Indian",2000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_765, Bangalore",Resto_765,No,No,3.3/5,1076,080-9176462,Marathahalli,Casual Dining,Salad,"Beverages, Thai, Fast Food",600,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_225, Bangalore",Resto_225,No,No,2.2/5,1819,080-7917892,Marathahalli,Casual Dining,Biryani,"Desserts, Thai, Chinese, Italian",200,Sample Review Text...,4,Buffet,Bengaluru
+"Address_97, Bangalore",Resto_97,Yes,Yes,4.8/5,1523,080-7677903,Marathahalli,Bar,Sushi,Fast Food,600,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_974, Bangalore",Burger King,Yes,No,NEW,2579,080-9754480,Indiranagar,Bar,Burgers,"North Indian, Desserts, Mexican",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_799, Bangalore",Pizza Hut,No,Yes,3.2/5,1139,080-4740892,HSR Layout,Bar,Pizza,"Continental, North Indian, Mexican, Beverages",2000,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_296, Bangalore",Leon Grill,Yes,Yes,2.5/5,1085,080-7707501,JP Nagar,Pub,Burgers,"Italian, Continental",1000,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_906, Bangalore",Burger King,No,Yes,,672,080-3354531,Whitefield,Bakery,Burgers,Desserts,1200,Sample Review Text...,1,Buffet,Bengaluru
+"Address_852, Bangalore",Resto_852,No,No,3.6/5,2786,080-3674757,Jayanagar,Casual Dining,Pasta,"Beverages, South Indian, Thai",2500,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_432, Bangalore",Nandhana Palace,No,No,4.6/5,1956,080-1800747,Whitefield,Cafe,Pizza,"Continental, Italian",2500,Sample Review Text...,2,Delivery,Bengaluru
+"Address_594, Bangalore",Burger King,No,No,3.6/5,2142,080-3728933,JP Nagar,Casual Dining,Steak,"Desserts, Mexican",1200,Sample Review Text...,2,Cafes,Bengaluru
+"Address_830, Bangalore",Resto_830,No,Yes,4.8/5,258,080-6243501,Koramangala,Bakery,Salad,"Mexican, Italian, Beverages",1200,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_224, Bangalore",Burger King,Yes,Yes,,642,080-5666702,Marathahalli,Bar,Biryani,"South Indian, Chinese, Desserts, Fast Food",800,Sample Review Text...,4,Buffet,Bengaluru
+"Address_345, Bangalore",Leon Grill,Yes,No,3.2/5,1569,080-2946062,HSR Layout,Fine Dining,Biryani,"South Indian, Italian, Thai, North Indian",1000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_878, Bangalore",Burger King,No,Yes,4.5/5,1673,080-5558760,Marathahalli,Bakery,Burgers,"Mexican, Fast Food",200,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_311, Bangalore",Resto_311,Yes,No,2.6/5,2749,080-9219877,HSR Layout,Bar,Sushi,"Chinese, South Indian","2,000",Sample Review Text...,2,Cafes,Bengaluru
+"Address_373, Bangalore",Resto_373,No,No,3.5/5,502,080-8681853,Marathahalli,Fine Dining,Pizza,"Beverages, Continental, Desserts, Fast Food, South Indian",400,Sample Review Text...,5,Delivery,Bengaluru
+"Address_134, Bangalore",Resto_134,Yes,No,2.7/5,2255,080-9192588,JP Nagar,Quick Service Restaurant,Pasta,"Desserts, Fast Food, South Indian, Thai",1200,Sample Review Text...,4,Buffet,Bengaluru
+"Address_42, Bangalore",Pizza Hut,No,No,2.5/5,210,080-1899411,Whitefield,Bar,Pasta,"Chinese, Fast Food, Mexican, Italian",400,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_207, Bangalore",Burger King,Yes,Yes,3.9/5,1532,080-5638619,Whitefield,Quick Service Restaurant,Sushi,Desserts,400,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_515, Bangalore",Empire Restaurant,Yes,No,4.7/5,603,080-2348021,Whitefield,Cafe,Burgers,"Fast Food, South Indian, North Indian, Desserts, Mexican",1500,Sample Review Text...,5,Cafes,Bengaluru
+"Address_742, Bangalore",McDonald's,No,No,2.2/5,1769,080-4577178,Whitefield,Casual Dining,Dosa,"Thai, Beverages, South Indian, Chinese",400,Sample Review Text...,4,Buffet,Bengaluru
+"Address_560, Bangalore",Nandhana Palace,Yes,No,3.1/5,1598,080-1148668,MG Road,Pub,Salad,"Italian, South Indian, North Indian",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_243, Bangalore",Resto_243,Yes,No,4.7/5,2987,080-2428191,JP Nagar,Casual Dining,Dosa,"Beverages, South Indian, Chinese, North Indian, Mexican",3000,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_709, Bangalore",Resto_709,No,Yes,3.6/5,571,080-8695935,Jayanagar,Fine Dining,Steak,"North Indian, Chinese, Continental",600,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_589, Bangalore",Resto_589,Yes,No,NEW,1480,080-8095426,MG Road,Bakery,Dosa,"North Indian, Italian",200,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_32, Bangalore",Resto_32,No,Yes,3.5/5,1613,080-4551070,Koramangala,Casual Dining,Salad,"South Indian, Desserts, Fast Food, North Indian",1000,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_804, Bangalore",Resto_804,Yes,No,2.4/5,1300,080-3850704,Koramangala,Casual Dining,Sushi,Mexican,2500,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_223, Bangalore",Resto_223,No,No,,1071,080-5170429,JP Nagar,Casual Dining,Salad,"Fast Food, Italian, Thai, Continental, Mexican",3000,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_133, Bangalore",Onesta,No,Yes,4.1/5,1311,080-8005797,HSR Layout,Quick Service Restaurant,Dosa,"Mexican, North Indian, Italian",600,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_903, Bangalore",Burger King,No,Yes,4.5/5,2728,080-1985629,JP Nagar,Cafe,Pizza,"Desserts, South Indian",600,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_489, Bangalore",Pizza Hut,No,No,3.8/5,564,080-1199493,Whitefield,Casual Dining,Salad,"Continental, Thai, Mexican","1,500",Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_976, Bangalore",Burger King,Yes,Yes,3.6/5,377,080-5421566,Marathahalli,Fine Dining,Biryani,"Mexican, North Indian, South Indian, Continental",3000,Sample Review Text...,4,Cafes,Bengaluru
+"Address_681, Bangalore",Resto_681,Yes,Yes,2.6/5,643,080-4617421,MG Road,Bar,Burgers,"Continental, South Indian",1200,Sample Review Text...,2,Delivery,Bengaluru
+"Address_186, Bangalore",Resto_186,No,No,4.9/5,653,080-4681115,Indiranagar,Cafe,Steak,"Continental, Beverages",200,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_947, Bangalore",Resto_947,No,Yes,2.4/5,1103,080-7296917,HSR Layout,Quick Service Restaurant,Biryani,"North Indian, Thai, Continental",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_180, Bangalore",Resto_180,No,No,3.6/5,850,080-1676621,Marathahalli,Quick Service Restaurant,Burgers,"Continental, Chinese, Beverages, Desserts","1,000",Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_958, Bangalore",Onesta,No,No,3.7/5,2968,080-2279295,MG Road,Casual Dining,Dosa,"Italian, Mexican, Thai, Continental, South Indian",600,Sample Review Text...,5,Buffet,Bengaluru
+"Address_399, Bangalore",Resto_399,No,Yes,3.8/5,313,080-6764913,Marathahalli,Bar,Biryani,"Italian, Continental, Desserts, Fast Food",2500,Sample Review Text...,4,Delivery,Bengaluru
+"Address_91, Bangalore",Nandhana Palace,No,Yes,3.6/5,2079,080-2133461,Koramangala,Bakery,Sushi,"North Indian, Mexican, Thai, South Indian",200,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_533, Bangalore",Resto_533,Yes,Yes,3.9/5,2087,080-4038296,HSR Layout,Casual Dining,Steak,"Fast Food, Desserts, Continental, Thai, Mexican",400,Sample Review Text...,5,Cafes,Bengaluru
+"Address_809, Bangalore",Resto_809,Yes,Yes,4.1/5,2534,080-8588667,JP Nagar,Bakery,Dosa,"Mexican, Thai, Continental, Chinese, Italian",600,Sample Review Text...,5,Buffet,Bengaluru
+"Address_271, Bangalore",Resto_271,Yes,Yes,4.0/5,409,080-3509000,Whitefield,Bar,Salad,"Beverages, Mexican",1500,Sample Review Text...,2,Delivery,Bengaluru
+"Address_784, Bangalore",McDonald's,Yes,Yes,4.1/5,2641,080-8317957,HSR Layout,Bakery,Pizza,"Fast Food, North Indian, Desserts",3000,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_512, Bangalore",Leon Grill,No,No,3.3/5,1536,080-1070138,Marathahalli,Casual Dining,Biryani,"South Indian, Desserts, Italian",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_229, Bangalore",Empire Restaurant,No,No,4.3/5,725,080-6399642,Jayanagar,Fine Dining,Steak,"Chinese, Mexican",3000,Sample Review Text...,2,Cafes,Bengaluru
+"Address_514, Bangalore",Resto_514,No,No,4.2/5,1427,080-1578940,Marathahalli,Fine Dining,Sushi,"North Indian, Mexican, Beverages",800,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_588, Bangalore",Resto_588,No,Yes,4.9/5,1991,080-8884747,HSR Layout,Fine Dining,Pasta,"Chinese, Continental, Desserts, North Indian",2500,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_170, Bangalore",Burger King,No,No,NEW,2197,080-4409088,Jayanagar,Quick Service Restaurant,Pasta,Continental,400,Sample Review Text...,1,Buffet,Bengaluru
+"Address_28, Bangalore",Empire Restaurant,Yes,Yes,4.3/5,2734,080-3670226,JP Nagar,Bar,Salad,"Fast Food, Beverages, Mexican, Desserts",2500,Sample Review Text...,4,Cafes,Bengaluru
+"Address_684, Bangalore",Pizza Hut,No,No,2.1/5,1122,080-5886173,Marathahalli,Cafe,Steak,Continental,3000,Sample Review Text...,1,Delivery,Bengaluru
+"Address_181, Bangalore",Resto_181,Yes,No,2.1/5,1224,080-5191831,Whitefield,Bar,Pizza,"North Indian, Mexican",2000,Sample Review Text...,2,Cafes,Bengaluru
+"Address_781, Bangalore",Pizza Hut,Yes,No,3.3/5,167,080-4673793,HSR Layout,Pub,Burgers,"Continental, North Indian",2000,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_16, Bangalore",McDonald's,Yes,No,3.9/5,1228,080-2677407,Marathahalli,Quick Service Restaurant,Pizza,North Indian,2000,Sample Review Text...,1,Buffet,Bengaluru
+"Address_316, Bangalore",Resto_316,Yes,No,3.9/5,614,080-8486970,Jayanagar,Bar,Dosa,"South Indian, North Indian",1500,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_618, Bangalore",Leon Grill,No,Yes,3.5/5,1441,080-9521598,Whitefield,Casual Dining,Sushi,"Chinese, Thai, Mexican, Fast Food, Desserts",1500,Sample Review Text...,5,Delivery,Bengaluru
+"Address_838, Bangalore",Resto_838,Yes,Yes,NEW,1475,080-9262035,JP Nagar,Quick Service Restaurant,Steak,Mexican,1200,Sample Review Text...,1,Buffet,Bengaluru
+"Address_598, Bangalore",Resto_598,No,Yes,3.1/5,2524,080-7550021,MG Road,Bar,Pasta,Fast Food,1500,Sample Review Text...,1,Cafes,Bengaluru
+"Address_850, Bangalore",Empire Restaurant,Yes,No,4.0/5,948,080-7262388,Koramangala,Quick Service Restaurant,Sushi,"Chinese, Thai, Desserts",2000,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_623, Bangalore",Resto_623,No,Yes,2.7/5,448,080-9812554,Koramangala,Bar,Pasta,Fast Food,"1,000",Sample Review Text...,1,Dine-out,Bengaluru
+"Address_924, Bangalore",Resto_924,No,No,3.8/5,510,080-3150688,MG Road,Quick Service Restaurant,Pasta,"Desserts, North Indian, Chinese, Italian, Continental",800,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_527, Bangalore",Leon Grill,Yes,Yes,3.6/5,1886,080-3447304,JP Nagar,Cafe,Biryani,"Italian, Desserts, Beverages",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_330, Bangalore",Pizza Hut,Yes,Yes,NEW,2511,080-1902612,JP Nagar,Pub,Pizza,"North Indian, South Indian, Fast Food, Italian",200,Sample Review Text...,4,Cafes,Bengaluru
+"Address_45, Bangalore",Pizza Hut,Yes,No,-,920,080-5842082,Jayanagar,Quick Service Restaurant,Salad,"Chinese, North Indian",600,Sample Review Text...,2,Delivery,Bengaluru
+"Address_472, Bangalore",Resto_472,Yes,No,NEW,2342,080-6523472,Koramangala,Fine Dining,Dosa,"Mexican, Chinese",800,Sample Review Text...,2,Delivery,Bengaluru
+"Address_869, Bangalore",Resto_869,No,No,4.9/5,1398,080-3302963,Whitefield,Bar,Salad,"Fast Food, Thai, Continental, Mexican, Italian",2500,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_780, Bangalore",Burger King,Yes,Yes,NEW,2914,080-7463257,MG Road,Bar,Pizza,"South Indian, Thai, Beverages",1500,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_43, Bangalore",Pizza Hut,Yes,Yes,-,1704,080-2010496,HSR Layout,Bar,Pizza,"Mexican, Desserts, Beverages, South Indian, Continental",1500,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_460, Bangalore",Pizza Hut,Yes,Yes,2.3/5,1256,080-1981497,MG Road,Fine Dining,Dosa,"North Indian, Thai",600,Sample Review Text...,2,Cafes,Bengaluru
+"Address_137, Bangalore",Burger King,Yes,Yes,3.5/5,987,080-7812009,HSR Layout,Pub,Salad,"Continental, Thai, Fast Food, Mexican, Italian",400,Sample Review Text...,5,Buffet,Bengaluru
+"Address_469, Bangalore",Empire Restaurant,No,No,4.1/5,856,080-3944885,Koramangala,Cafe,Pizza,"Chinese, Continental, Desserts, Fast Food",2500,Sample Review Text...,4,Buffet,Bengaluru
+"Address_731, Bangalore",Burger King,Yes,No,4.6/5,2200,080-7683988,Indiranagar,Fine Dining,Biryani,"Beverages, North Indian, Desserts, Italian, Thai",200,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_798, Bangalore",McDonald's,Yes,No,3.1/5,1646,080-8094088,Koramangala,Cafe,Dosa,"Fast Food, Italian",3000,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_991, Bangalore",Resto_991,Yes,No,3.1/5,574,080-5517306,JP Nagar,Bar,Steak,"Continental, South Indian, Italian, Thai, Chinese",,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_794, Bangalore",Nandhana Palace,Yes,No,3.6/5,2876,080-8152449,MG Road,Bar,Steak,"Italian, Continental, Thai, Chinese, Fast Food",800,Sample Review Text...,5,Cafes,Bengaluru
+"Address_501, Bangalore",Resto_501,Yes,No,4.4/5,2141,080-4384602,Indiranagar,Bakery,Burgers,"Desserts, North Indian, Beverages",200,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_390, Bangalore",Leon Grill,Yes,No,2.4/5,321,080-8235132,MG Road,Fine Dining,Biryani,Chinese,200,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_251, Bangalore",McDonald's,Yes,No,2.8/5,2229,080-6920646,Jayanagar,Bakery,Sushi,"Thai, Chinese, Continental, Italian",800,Sample Review Text...,4,Cafes,Bengaluru
+"Address_380, Bangalore",KFC,No,No,NEW,225,080-2465941,HSR Layout,Pub,Steak,"Italian, Continental, Fast Food, North Indian, Mexican","2,500",Sample Review Text...,5,Dine-out,Bengaluru
+"Address_585, Bangalore",Onesta,No,No,4.2/5,1810,080-3163996,Jayanagar,Casual Dining,Salad,"Desserts, North Indian, Thai, Mexican, South Indian",1500,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_812, Bangalore",McDonald's,No,Yes,4.8/5,1259,080-2702878,Indiranagar,Quick Service Restaurant,Pasta,"Thai, Desserts, Beverages, South Indian, Fast Food",600,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_737, Bangalore",Resto_737,Yes,Yes,3.3/5,2615,080-6528345,Koramangala,Bar,Pizza,"Italian, Fast Food, Thai, Desserts, North Indian",1500,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_148, Bangalore",KFC,No,No,2.2/5,1675,080-2240929,Marathahalli,Cafe,Salad,"Italian, Continental, South Indian",1500,Sample Review Text...,3,Buffet,Bengaluru
+"Address_325, Bangalore",Resto_325,No,Yes,4.0/5,1448,080-7535837,Indiranagar,Cafe,Pasta,"North Indian, Thai, Mexican","2,500",Sample Review Text...,3,Buffet,Bengaluru
+"Address_371, Bangalore",McDonald's,Yes,Yes,3.3/5,167,080-4434507,JP Nagar,Quick Service Restaurant,Pasta,"Beverages, Chinese",2500,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_2, Bangalore",Pizza Hut,Yes,No,4.8/5,1550,080-4823498,Indiranagar,Pub,Dosa,"Fast Food, Thai, Italian",400,Sample Review Text...,3,Delivery,Bengaluru
+"Address_917, Bangalore",Empire Restaurant,No,No,NEW,393,080-6716053,Indiranagar,Pub,Pizza,"Desserts, Fast Food","2,500",Sample Review Text...,2,Buffet,Bengaluru
+"Address_543, Bangalore",Burger King,No,Yes,3.0/5,1919,080-7820186,Whitefield,Quick Service Restaurant,Sushi,"Beverages, Italian, Continental, Thai",400,Sample Review Text...,4,Delivery,Bengaluru
+"Address_262, Bangalore",Pizza Hut,Yes,Yes,3.3/5,826,080-4886793,Whitefield,Cafe,Pasta,Fast Food,2500,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_698, Bangalore",Resto_698,No,No,4.8/5,124,080-1640782,Marathahalli,Pub,Sushi,"Desserts, South Indian, Fast Food, Thai","2,500",Sample Review Text...,4,Delivery,Bengaluru
+"Address_584, Bangalore",Leon Grill,No,Yes,3.3/5,695,080-2497018,Whitefield,Cafe,Pizza,Continental,3000,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_462, Bangalore",Resto_462,No,No,2.2/5,118,080-2703045,MG Road,Fine Dining,Burgers,"North Indian, Continental","2,500",Sample Review Text...,2,Buffet,Bengaluru
+"Address_236, Bangalore",Pizza Hut,No,No,NEW,2898,080-3673793,JP Nagar,Pub,Steak,"South Indian, Beverages",400,Sample Review Text...,2,Buffet,Bengaluru
+"Address_136, Bangalore",Onesta,No,Yes,,2259,080-5809835,MG Road,Casual Dining,Biryani,Beverages,1000,Sample Review Text...,1,Buffet,Bengaluru
+"Address_673, Bangalore",Resto_673,Yes,Yes,3.3/5,1077,080-4731953,Indiranagar,Bar,Pizza,"Continental, Chinese","1,200",Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_660, Bangalore",Resto_660,No,No,,2938,080-4937559,HSR Layout,Casual Dining,Sushi,"Continental, North Indian, Thai",2500,Sample Review Text...,3,Delivery,Bengaluru
+"Address_720, Bangalore",Nandhana Palace,No,No,2.1/5,1052,080-5089486,Indiranagar,Bar,Biryani,"Chinese, Italian, Continental, South Indian",3000,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_309, Bangalore",Resto_309,Yes,Yes,4.6/5,1695,080-5477211,MG Road,Quick Service Restaurant,Burgers,"Continental, South Indian, Italian, North Indian",600,Sample Review Text...,4,Buffet,Bengaluru
+"Address_165, Bangalore",Resto_165,No,Yes,,1407,080-2718442,Indiranagar,Bar,Pizza,"South Indian, Desserts, Chinese, Beverages",1500,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_574, Bangalore",Resto_574,Yes,Yes,3.4/5,547,080-8064499,Indiranagar,Casual Dining,Burgers,"Thai, South Indian, Continental",2000,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_529, Bangalore",Leon Grill,No,No,4.4/5,652,080-9855760,Koramangala,Pub,Dosa,"Thai, Mexican, Desserts, South Indian",1500,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_961, Bangalore",Empire Restaurant,No,Yes,3.0/5,2016,080-1301466,MG Road,Bakery,Biryani,"North Indian, Beverages, Chinese, Fast Food",600,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_697, Bangalore",Resto_697,Yes,Yes,3.0/5,1510,080-5612919,Whitefield,Pub,Salad,Fast Food,1000,Sample Review Text...,1,Cafes,Bengaluru
+"Address_412, Bangalore",KFC,Yes,No,3.7/5,1597,080-5606139,HSR Layout,Bakery,Salad,"South Indian, Chinese",600,Sample Review Text...,2,Cafes,Bengaluru
+"Address_228, Bangalore",KFC,Yes,No,4.4/5,780,080-3258817,JP Nagar,Casual Dining,Salad,"North Indian, Chinese, Desserts, Italian","3,000",Sample Review Text...,4,Delivery,Bengaluru
+"Address_773, Bangalore",Resto_773,No,No,4.5/5,2832,080-7082569,Marathahalli,Bar,Burgers,"Italian, Beverages, Chinese",400,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_938, Bangalore",Resto_938,Yes,No,4.6/5,1227,080-3875197,MG Road,Cafe,Sushi,South Indian,2000,Sample Review Text...,1,Delivery,Bengaluru
+"Address_441, Bangalore",McDonald's,No,Yes,2.8/5,353,080-7979059,Marathahalli,Cafe,Salad,"Italian, South Indian",3000,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_235, Bangalore",Nandhana Palace,No,Yes,3.6/5,532,080-6412833,Jayanagar,Pub,Biryani,"North Indian, Thai, Desserts",600,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_601, Bangalore",Pizza Hut,Yes,Yes,3.9/5,2373,080-4030429,Indiranagar,Casual Dining,Pizza,"Fast Food, Chinese, Beverages, Desserts",1000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_255, Bangalore",Leon Grill,Yes,No,4.0/5,1857,080-9461748,Indiranagar,Cafe,Steak,"Mexican, South Indian, Chinese, North Indian",800,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_145, Bangalore",Resto_145,No,No,2.5/5,1130,080-4280754,MG Road,Quick Service Restaurant,Salad,"Chinese, Thai, Continental, Fast Food",2000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_793, Bangalore",Burger King,No,Yes,2.2/5,1008,080-1983550,JP Nagar,Cafe,Salad,"Desserts, Italian",1500,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_921, Bangalore",Nandhana Palace,No,Yes,4.5/5,380,080-1067267,JP Nagar,Quick Service Restaurant,Pizza,South Indian,400,Sample Review Text...,1,Cafes,Bengaluru
+"Address_723, Bangalore",Resto_723,No,No,4.5/5,2043,080-2318832,,Pub,Salad,"Mexican, Continental",1500,Sample Review Text...,2,Buffet,Bengaluru
+"Address_27, Bangalore",Nandhana Palace,No,No,3.7/5,2942,080-4671545,MG Road,Bakery,Pasta,"Italian, South Indian, North Indian, Mexican",400,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_689, Bangalore",Leon Grill,Yes,No,2.3/5,1737,080-5936253,Marathahalli,Cafe,Dosa,"Desserts, South Indian, Mexican, Italian, North Indian",1000,Sample Review Text...,5,Buffet,Bengaluru
+"Address_590, Bangalore",Nandhana Palace,Yes,Yes,2.2/5,2917,080-8189612,Marathahalli,Bar,Sushi,"Beverages, Italian, Continental, Chinese",200,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_388, Bangalore",Burger King,No,Yes,-,633,080-2912044,HSR Layout,Bar,Steak,"Beverages, Fast Food",2500,Sample Review Text...,2,Cafes,Bengaluru
+"Address_297, Bangalore",Resto_297,No,No,4.4/5,2824,080-6610127,Indiranagar,Pub,Sushi,"North Indian, Mexican, Chinese",200,Sample Review Text...,3,Cafes,Bengaluru
+"Address_292, Bangalore",Burger King,No,Yes,2.8/5,166,080-9919792,Indiranagar,Bar,Steak,"Chinese, Italian, Fast Food",400,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_998, Bangalore",Onesta,Yes,Yes,2.0/5,1478,080-8183194,Jayanagar,Cafe,Steak,"Beverages, Fast Food, Thai, Italian, Chinese",600,Sample Review Text...,5,Delivery,Bengaluru
+"Address_210, Bangalore",Leon Grill,No,Yes,2.6/5,1257,080-8894293,MG Road,Bar,Biryani,"Thai, Continental, Beverages","2,000",Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_339, Bangalore",Resto_339,Yes,Yes,,2655,080-8142130,Koramangala,Cafe,Pasta,"Mexican, South Indian, Chinese, Desserts","1,500",Sample Review Text...,4,Cafes,Bengaluru
+"Address_797, Bangalore",Leon Grill,Yes,No,NEW,833,080-1079503,Marathahalli,Cafe,Burgers,"Fast Food, North Indian, Beverages, Italian, Chinese",400,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_537, Bangalore",Leon Grill,No,No,4.9/5,1442,080-3376783,HSR Layout,Fine Dining,Dosa,North Indian,800,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_93, Bangalore",Resto_93,Yes,Yes,2.9/5,1270,080-1802018,MG Road,Bar,Sushi,"Desserts, Continental, North Indian, Mexican, Thai",800,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_480, Bangalore",McDonald's,No,Yes,4.4/5,27,080-3389108,JP Nagar,Casual Dining,Dosa,Thai,200,Sample Review Text...,1,Cafes,Bengaluru
+"Address_847, Bangalore",Nandhana Palace,No,Yes,4.7/5,838,080-2444438,Indiranagar,Fine Dining,Burgers,Desserts,600,Sample Review Text...,1,Cafes,Bengaluru
+"Address_10, Bangalore",Resto_10,Yes,Yes,,2899,080-4993055,Koramangala,Cafe,Dosa,North Indian,1200,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_728, Bangalore",KFC,Yes,Yes,4.1/5,93,080-1381170,JP Nagar,Pub,Steak,"South Indian, Desserts",400,Sample Review Text...,2,Buffet,Bengaluru
+"Address_23, Bangalore",Resto_23,No,Yes,4.9/5,156,080-4188992,Indiranagar,Pub,Dosa,"Thai, Fast Food, Mexican, Continental",2500,Sample Review Text...,4,Delivery,Bengaluru
+"Address_100, Bangalore",Leon Grill,No,Yes,2.6/5,568,080-2446455,,Bar,Pizza,"North Indian, Thai, Beverages, Italian",2500,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_693, Bangalore",Resto_693,Yes,No,3.6/5,518,080-4631318,MG Road,Quick Service Restaurant,Pizza,"Fast Food, Continental, Desserts, Chinese, Mexican",200,Sample Review Text...,5,Buffet,Bengaluru
+"Address_871, Bangalore",Resto_871,No,Yes,3.5/5,1685,080-7064744,Whitefield,Quick Service Restaurant,Sushi,"Mexican, Italian, South Indian, Fast Food, Thai",1000,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_749, Bangalore",Resto_749,Yes,No,3.0/5,1826,080-5345732,HSR Layout,Cafe,Dosa,"Desserts, Italian, Fast Food",1200,Sample Review Text...,3,Buffet,Bengaluru
+"Address_599, Bangalore",Leon Grill,No,Yes,NEW,517,080-8338707,Indiranagar,Fine Dining,Biryani,"Mexican, Continental, South Indian, Desserts, Chinese",400,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_174, Bangalore",Nandhana Palace,Yes,Yes,,50,080-8035849,HSR Layout,Casual Dining,Burgers,"Thai, Mexican, South Indian, Chinese",200,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_393, Bangalore",Resto_393,Yes,No,4.2/5,17,080-6952931,Indiranagar,Cafe,Steak,"Desserts, Thai, South Indian, Italian, Beverages",400,Sample Review Text...,5,Cafes,Bengaluru
+"Address_621, Bangalore",Resto_621,No,No,4.3/5,1423,080-6122489,Whitefield,Fine Dining,Burgers,"Continental, North Indian, Chinese, Desserts, Fast Food",3000,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_216, Bangalore",Empire Restaurant,No,No,3.8/5,2432,080-7992333,Koramangala,Fine Dining,Salad,North Indian,200,Sample Review Text...,1,Cafes,Bengaluru
+"Address_315, Bangalore",Resto_315,Yes,Yes,NEW,2892,080-3682671,Marathahalli,Fine Dining,Steak,"Chinese, Beverages, Mexican",2500,Sample Review Text...,3,Buffet,Bengaluru
+"Address_217, Bangalore",Resto_217,No,No,2.6/5,2808,080-8026730,Koramangala,Quick Service Restaurant,Pizza,"Chinese, Beverages, Continental, Desserts",3000,Sample Review Text...,4,Buffet,Bengaluru
+"Address_185, Bangalore",KFC,Yes,No,3.0/5,2230,080-4674549,Marathahalli,Quick Service Restaurant,Biryani,"Beverages, Thai, Mexican, South Indian, Chinese",200,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_907, Bangalore",Pizza Hut,Yes,Yes,4.2/5,2586,080-9406675,JP Nagar,Fine Dining,Burgers,"Fast Food, Thai, Beverages",200,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_55, Bangalore",Resto_55,Yes,Yes,4.7/5,931,080-6024207,Indiranagar,Bakery,Biryani,Chinese,2000,Sample Review Text...,1,Delivery,Bengaluru
+"Address_111, Bangalore",Pizza Hut,No,No,2.9/5,68,080-1447065,JP Nagar,Quick Service Restaurant,Salad,Mexican,3000,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_197, Bangalore",Resto_197,No,Yes,4.0/5,396,080-7494562,Indiranagar,Fine Dining,Steak,"Beverages, Mexican, Italian",2500,Sample Review Text...,3,Buffet,Bengaluru
+"Address_176, Bangalore",Resto_176,No,Yes,2.8/5,1244,080-5112546,HSR Layout,Bakery,Pasta,"Fast Food, Desserts, Italian",2500,Sample Review Text...,3,Delivery,Bengaluru
+"Address_522, Bangalore",Onesta,No,Yes,,2613,080-7713657,JP Nagar,Casual Dining,Pizza,"North Indian, Thai, Desserts",800,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_540, Bangalore",Resto_540,Yes,No,NEW,2622,080-7327627,Indiranagar,Quick Service Restaurant,Burgers,"Continental, South Indian, Italian",,Sample Review Text...,3,Cafes,Bengaluru
+"Address_306, Bangalore",Resto_306,No,No,2.9/5,2053,080-1494355,Whitefield,Bar,Dosa,Continental,"1,500",Sample Review Text...,1,Dine-out,Bengaluru
+"Address_582, Bangalore",Nandhana Palace,Yes,Yes,3.1/5,2401,080-2565160,Koramangala,Quick Service Restaurant,Burgers,"South Indian, Desserts",400,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_446, Bangalore",Leon Grill,No,Yes,3.2/5,1676,080-2422342,Marathahalli,Bar,Sushi,"Thai, North Indian, Desserts, Chinese, Beverages","2,500",Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_99, Bangalore",Resto_99,No,Yes,4.8/5,1309,080-6032437,JP Nagar,Fine Dining,Pasta,Beverages,2500,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_517, Bangalore",Burger King,No,Yes,4.4/5,6,080-7285607,Indiranagar,Casual Dining,Pasta,"Beverages, Mexican, Continental, Thai",1500,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_410, Bangalore",Resto_410,Yes,No,2.8/5,2255,080-2408104,Jayanagar,Fine Dining,Sushi,Desserts,200,Sample Review Text...,1,Buffet,Bengaluru
+"Address_136, Bangalore",Onesta,No,Yes,,2259,080-5809835,MG Road,Casual Dining,Biryani,Beverages,1000,Sample Review Text...,1,Buffet,Bengaluru
+"Address_571, Bangalore",Pizza Hut,No,No,4.4/5,2913,080-7553173,Indiranagar,Bar,Salad,South Indian,600,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_811, Bangalore",KFC,Yes,No,2.7/5,534,080-1145436,Marathahalli,Quick Service Restaurant,Biryani,"Fast Food, Beverages, North Indian, Thai, Desserts",400,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_544, Bangalore",Nandhana Palace,Yes,Yes,2.2/5,1170,080-3288888,Marathahalli,Bar,Salad,Mexican,"2,500",Sample Review Text...,1,Cafes,Bengaluru
+"Address_120, Bangalore",Burger King,No,No,NEW,2741,080-7435310,,Cafe,Burgers,"Desserts, Thai",800,Sample Review Text...,2,Cafes,Bengaluru
+"Address_920, Bangalore",Resto_920,No,No,2.4/5,2360,080-2336525,HSR Layout,Pub,Dosa,Italian,200,Sample Review Text...,1,Buffet,Bengaluru
+"Address_725, Bangalore",Pizza Hut,No,Yes,3.6/5,1550,080-3669548,Indiranagar,Casual Dining,Steak,"Italian, Fast Food, Chinese, Continental",1000,Sample Review Text...,4,Buffet,Bengaluru
+"Address_156, Bangalore",Resto_156,No,Yes,2.6/5,1572,080-4699871,Marathahalli,Bakery,Dosa,"Mexican, Desserts, Beverages, Chinese",400,Sample Review Text...,4,Delivery,Bengaluru
+"Address_950, Bangalore",Resto_950,Yes,Yes,3.8/5,1208,080-3189600,Jayanagar,Pub,Sushi,"Continental, Mexican, Fast Food, Chinese, North Indian",800,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_993, Bangalore",Resto_993,Yes,No,4.3/5,1515,080-9214663,Indiranagar,Cafe,Dosa,"Chinese, Beverages, Mexican, South Indian, Desserts",200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_692, Bangalore",Resto_692,No,Yes,2.0/5,789,080-4398864,Whitefield,Quick Service Restaurant,Pizza,"Fast Food, Continental, Thai, Beverages","1,500",Sample Review Text...,4,Buffet,Bengaluru
+"Address_389, Bangalore",Nandhana Palace,Yes,Yes,2.9/5,1485,080-2989725,,Bar,Burgers,"Fast Food, Beverages, Thai, Chinese",1000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_424, Bangalore",Resto_424,No,Yes,2.9/5,523,080-5425123,Marathahalli,Bar,Sushi,"Thai, Mexican, Continental",1000,Sample Review Text...,3,Cafes,Bengaluru
+"Address_451, Bangalore",KFC,No,No,4.3/5,2928,080-7061063,Jayanagar,Fine Dining,Salad,"Beverages, Italian, Chinese, South Indian",2500,Sample Review Text...,4,Delivery,Bengaluru
+"Address_305, Bangalore",Nandhana Palace,No,No,3.5/5,763,080-9219709,HSR Layout,Pub,Steak,"Beverages, North Indian, Fast Food, Chinese",2500,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_87, Bangalore",McDonald's,Yes,Yes,4.2/5,1117,080-6865064,Marathahalli,Pub,Biryani,"Mexican, Chinese",800,Sample Review Text...,2,Cafes,Bengaluru
+"Address_639, Bangalore",Onesta,No,No,,648,080-6903348,JP Nagar,Pub,Sushi,"Italian, Thai, Mexican, Continental, North Indian",600,Sample Review Text...,5,Cafes,Bengaluru
+"Address_208, Bangalore",Resto_208,No,Yes,4.2/5,232,080-8022366,MG Road,Fine Dining,Steak,"South Indian, North Indian, Desserts",1000,Sample Review Text...,3,Cafes,Bengaluru
+"Address_741, Bangalore",Pizza Hut,No,Yes,3.4/5,1162,080-8382709,Whitefield,Quick Service Restaurant,Pizza,"Italian, Thai, Continental, Beverages, Desserts",2500,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_564, Bangalore",Resto_564,Yes,No,2.8/5,2382,080-4045291,MG Road,Cafe,Salad,"Italian, Mexican, Thai, Chinese",2000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_95, Bangalore",Leon Grill,No,No,-,1343,080-1710601,Whitefield,Quick Service Restaurant,Sushi,"Fast Food, Mexican, South Indian, Thai",2000,Sample Review Text...,4,Buffet,Bengaluru
+"Address_273, Bangalore",Nandhana Palace,No,No,3.0/5,2283,080-4337963,Whitefield,Quick Service Restaurant,Pasta,Mexican,400,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_210, Bangalore",Leon Grill,No,Yes,2.6/5,1257,080-8894293,MG Road,Bar,Biryani,"Thai, Continental, Beverages","2,000",Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_634, Bangalore",McDonald's,Yes,Yes,4.0/5,2936,080-9309833,Koramangala,Fine Dining,Pasta,"Beverages, South Indian",2500,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_240, Bangalore",KFC,No,Yes,4.4/5,1782,080-2228898,Indiranagar,Fine Dining,Biryani,"North Indian, Desserts",1200,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_78, Bangalore",McDonald's,Yes,No,2.2/5,2593,080-3456926,Indiranagar,Pub,Dosa,"Italian, Thai, Beverages, Desserts, Mexican",600,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_747, Bangalore",Resto_747,No,Yes,3.8/5,1536,080-8350507,Koramangala,Casual Dining,Dosa,Thai,1000,Sample Review Text...,1,Delivery,Bengaluru
+"Address_761, Bangalore",Nandhana Palace,No,No,4.5/5,2198,080-7133460,Marathahalli,Cafe,Pizza,"North Indian, Continental, Desserts, Italian, South Indian",600,Sample Review Text...,5,Cafes,Bengaluru
+"Address_892, Bangalore",Onesta,No,No,2.1/5,2117,080-9488394,Indiranagar,Bakery,Pizza,"Mexican, Beverages, North Indian, Thai",2500,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_527, Bangalore",Leon Grill,Yes,Yes,3.6/5,1886,080-3447304,JP Nagar,Cafe,Biryani,"Italian, Desserts, Beverages",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_536, Bangalore",Resto_536,Yes,Yes,3.5/5,1489,080-9714808,Jayanagar,Bakery,Dosa,Italian,1000,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_650, Bangalore",McDonald's,No,Yes,4.7/5,975,080-1249956,HSR Layout,Casual Dining,Burgers,"North Indian, Italian, Mexican, Thai, Continental",3000,Sample Review Text...,5,Delivery,Bengaluru
+"Address_247, Bangalore",McDonald's,No,No,2.5/5,2484,080-2282825,Indiranagar,Bar,Pizza,"South Indian, Beverages, Italian",1000,Sample Review Text...,3,Delivery,Bengaluru
+"Address_337, Bangalore",McDonald's,Yes,Yes,3.5/5,522,080-7027124,Whitefield,Casual Dining,Pizza,"Beverages, North Indian, Fast Food","2,500",Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_506, Bangalore",Resto_506,No,No,4.2/5,2062,080-8189001,Koramangala,Cafe,Burgers,Fast Food,400,Sample Review Text...,1,Buffet,Bengaluru
+"Address_521, Bangalore",McDonald's,No,No,4.8/5,1352,080-5688687,Indiranagar,Casual Dining,Burgers,"Mexican, South Indian, North Indian, Continental",400,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_118, Bangalore",Nandhana Palace,Yes,Yes,2.5/5,720,080-2800206,Koramangala,Bar,Sushi,"Desserts, South Indian, Continental, North Indian",200,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_11, Bangalore",Leon Grill,No,Yes,4.3/5,779,080-2651177,Indiranagar,Casual Dining,Biryani,"Thai, Mexican, Beverages, Italian",200,Sample Review Text...,4,Cafes,Bengaluru
+"Address_911, Bangalore",Onesta,Yes,No,4.5/5,1593,080-1347135,JP Nagar,Cafe,Pizza,"Italian, North Indian, Mexican, Beverages, South Indian",800,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_861, Bangalore",Resto_861,No,Yes,,2678,080-9277057,Jayanagar,Bar,Burgers,"North Indian, Continental, South Indian, Chinese","1,200",Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_204, Bangalore",Resto_204,No,No,3.8/5,507,080-6867997,Koramangala,Cafe,Sushi,"Desserts, Fast Food, South Indian",2000,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_530, Bangalore",KFC,No,Yes,4.2/5,2377,080-5883538,Koramangala,Bar,Pasta,"Desserts, South Indian, Beverages",2000,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_190, Bangalore",McDonald's,Yes,No,3.7/5,718,080-1543292,MG Road,Quick Service Restaurant,Pasta,"South Indian, Fast Food, North Indian",3000,Sample Review Text...,3,Buffet,Bengaluru
+"Address_730, Bangalore",KFC,No,Yes,4.8/5,2048,080-1542282,Indiranagar,Bar,Steak,"Thai, South Indian, Italian, Desserts, Fast Food",400,Sample Review Text...,5,Buffet,Bengaluru
+"Address_563, Bangalore",Pizza Hut,No,Yes,2.0/5,1456,080-2785812,HSR Layout,Fine Dining,Steak,"South Indian, Continental, North Indian",2500,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_334, Bangalore",KFC,Yes,Yes,3.1/5,1395,080-2306851,HSR Layout,Bar,Salad,"Mexican, Fast Food, Thai, Continental, Desserts",800,Sample Review Text...,5,Delivery,Bengaluru
+"Address_743, Bangalore",Resto_743,No,Yes,4.7/5,861,080-3636248,Jayanagar,Quick Service Restaurant,Sushi,"Italian, Mexican",600,Sample Review Text...,2,Buffet,Bengaluru
+"Address_483, Bangalore",Resto_483,Yes,Yes,3.1/5,1532,080-3492539,JP Nagar,Pub,Sushi,"Italian, North Indian, Fast Food, Mexican",2500,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_365, Bangalore",Resto_365,No,Yes,2.6/5,1929,080-8679606,Marathahalli,Casual Dining,Burgers,"South Indian, Italian, Desserts, Chinese",1500,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_910, Bangalore",Resto_910,Yes,Yes,4.4/5,978,080-1274196,MG Road,Casual Dining,Dosa,"North Indian, Chinese, Continental, Desserts","2,500",Sample Review Text...,4,Buffet,Bengaluru
+"Address_177, Bangalore",Empire Restaurant,Yes,No,4.0/5,39,080-2004872,JP Nagar,Casual Dining,Pasta,"Continental, Chinese, Italian, Fast Food",800,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_13, Bangalore",Resto_13,No,No,3.2/5,240,080-8633773,Jayanagar,Bakery,Dosa,Mexican,"1,000",Sample Review Text...,1,Cafes,Bengaluru
+"Address_891, Bangalore",Resto_891,Yes,No,2.5/5,414,080-8522210,Jayanagar,Fine Dining,Steak,"Continental, North Indian, Beverages, Fast Food, Chinese",2500,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_159, Bangalore",KFC,Yes,No,3.8/5,1753,080-9930189,Jayanagar,Pub,Dosa,"Italian, Fast Food",200,Sample Review Text...,2,Buffet,Bengaluru
+"Address_829, Bangalore",Resto_829,Yes,No,3.2/5,53,080-3044259,Whitefield,Fine Dining,Pasta,"Thai, Continental",3000,Sample Review Text...,2,Buffet,Bengaluru
+"Address_51, Bangalore",Resto_51,Yes,No,3.7/5,559,080-6008935,Indiranagar,Quick Service Restaurant,Salad,"Thai, Beverages, Continental, Mexican",200,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_53, Bangalore",Burger King,No,Yes,2.1/5,2057,080-8665981,JP Nagar,Bar,Biryani,Desserts,400,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_815, Bangalore",Resto_815,Yes,No,4.7/5,454,080-9300525,HSR Layout,Fine Dining,Biryani,"Continental, Chinese, Thai","3,000",Sample Review Text...,3,Buffet,Bengaluru
+"Address_9, Bangalore",Leon Grill,No,No,4.7/5,2989,080-5159166,HSR Layout,Fine Dining,Burgers,"Mexican, Thai, Desserts",2500,Sample Review Text...,3,Delivery,Bengaluru
+"Address_73, Bangalore",Burger King,Yes,Yes,4.8/5,375,080-2425342,HSR Layout,Bakery,Biryani,"Desserts, Thai, South Indian, Fast Food",1000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_445, Bangalore",Resto_445,Yes,No,4.2/5,26,080-7962689,HSR Layout,Bar,Sushi,"Thai, Continental, South Indian, North Indian",1000,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_31, Bangalore",Resto_31,No,No,4.5/5,1716,080-6639317,HSR Layout,Bakery,Steak,"Continental, Mexican",2000,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_885, Bangalore",Leon Grill,Yes,Yes,2.5/5,1115,080-3219474,,Pub,Burgers,"North Indian, Mexican, South Indian, Chinese, Fast Food",2000,Sample Review Text...,5,Buffet,Bengaluru
+"Address_833, Bangalore",Resto_833,Yes,No,3.8/5,2301,080-4356421,Jayanagar,Bar,Burgers,"Thai, Desserts, Fast Food","3,000",Sample Review Text...,3,Buffet,Bengaluru
+"Address_884, Bangalore",Resto_884,Yes,Yes,NEW,415,080-7189628,Whitefield,Bar,Pasta,"Beverages, Chinese",2000,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_685, Bangalore",Resto_685,No,No,4.6/5,2184,080-2817044,HSR Layout,Bakery,Salad,Desserts,"1,500",Sample Review Text...,1,Dine-out,Bengaluru
+"Address_614, Bangalore",Resto_614,Yes,No,-,1307,080-9222577,Jayanagar,Bar,Dosa,"Mexican, Desserts, Chinese, Continental, Fast Food",800,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_902, Bangalore",Pizza Hut,Yes,Yes,2.6/5,1162,080-6140518,Koramangala,Bakery,Dosa,"South Indian, Desserts, Beverages","1,200",Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_312, Bangalore",Burger King,No,Yes,4.4/5,2949,080-1711620,JP Nagar,Bakery,Burgers,"Fast Food, Beverages, North Indian, Continental, Desserts",2000,Sample Review Text...,5,Buffet,Bengaluru
+"Address_973, Bangalore",Burger King,No,No,NEW,225,080-6617699,Indiranagar,Bar,Biryani,"Beverages, Italian, Chinese, North Indian",,Sample Review Text...,4,Delivery,Bengaluru
+"Address_706, Bangalore",Empire Restaurant,Yes,Yes,3.4/5,1322,080-1132511,JP Nagar,Pub,Pasta,"Fast Food, North Indian, Thai, Desserts",400,Sample Review Text...,4,Cafes,Bengaluru
+"Address_402, Bangalore",Resto_402,Yes,Yes,3.1/5,2391,080-7911031,Koramangala,Bar,Sushi,"Mexican, Chinese, Fast Food","1,200",Sample Review Text...,3,Delivery,Bengaluru
+"Address_20, Bangalore",Resto_20,No,Yes,2.1/5,1493,080-7817881,Koramangala,Quick Service Restaurant,Pasta,"Italian, Chinese",1200,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_268, Bangalore",Onesta,No,No,4.9/5,2353,080-3151610,Whitefield,Bakery,Biryani,"Beverages, Continental",1500,Sample Review Text...,2,Buffet,Bengaluru
+"Address_994, Bangalore",McDonald's,Yes,No,4.2/5,1176,080-3012893,Whitefield,Cafe,Pizza,Italian,1000,Sample Review Text...,1,Delivery,Bengaluru
+"Address_157, Bangalore",Resto_157,No,Yes,3.6/5,2028,080-7154919,Indiranagar,Pub,Biryani,Continental,"2,500",Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_843, Bangalore",Resto_843,No,No,,2471,080-4449113,MG Road,Cafe,Burgers,"Chinese, North Indian","1,500",Sample Review Text...,2,Buffet,Bengaluru
+"Address_400, Bangalore",Nandhana Palace,No,No,3.1/5,1882,080-3256338,Koramangala,Casual Dining,Dosa,"Beverages, Continental",600,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_320, Bangalore",Nandhana Palace,No,No,4.0/5,1124,080-9874251,JP Nagar,Pub,Pizza,"Beverages, Italian, Fast Food, Continental",200,Sample Review Text...,4,Cafes,Bengaluru
+"Address_505, Bangalore",Leon Grill,No,Yes,4.8/5,2852,080-9088805,MG Road,Fine Dining,Pizza,"Thai, South Indian","1,200",Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_52, Bangalore",Onesta,No,No,3.6/5,1865,080-7891662,JP Nagar,Bar,Biryani,"Italian, Mexican",800,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_230, Bangalore",KFC,No,No,4.8/5,1854,080-4646403,Jayanagar,Cafe,Burgers,"Fast Food, Beverages, Continental, Mexican","2,500",Sample Review Text...,4,Dine-out,Bengaluru
+"Address_220, Bangalore",Resto_220,No,No,2.3/5,715,080-1769891,Koramangala,Bar,Biryani,"Thai, Fast Food, Mexican",400,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_716, Bangalore",Resto_716,No,No,4.8/5,457,080-9638526,Jayanagar,Bakery,Salad,"Mexican, Chinese, South Indian, North Indian, Desserts",3000,Sample Review Text...,5,Cafes,Bengaluru
+"Address_26, Bangalore",KFC,No,Yes,2.8/5,2719,080-1775337,JP Nagar,Casual Dining,Burgers,"Continental, Italian",800,Sample Review Text...,2,Cafes,Bengaluru
+"Address_54, Bangalore",Resto_54,Yes,Yes,4.8/5,1386,080-6312692,MG Road,Fine Dining,Salad,Thai,2500,Sample Review Text...,1,Buffet,Bengaluru
+"Address_312, Bangalore",Burger King,No,Yes,4.4/5,2949,080-1711620,JP Nagar,Bakery,Burgers,"Fast Food, Beverages, North Indian, Continental, Desserts",2000,Sample Review Text...,5,Buffet,Bengaluru
+"Address_996, Bangalore",Resto_996,Yes,No,2.6/5,887,080-8151289,,Quick Service Restaurant,Salad,"Italian, Mexican, Desserts, Thai, Continental",400,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_461, Bangalore",Resto_461,Yes,No,2.7/5,495,080-9462784,Koramangala,Cafe,Steak,"Fast Food, Italian",2000,Sample Review Text...,2,Delivery,Bengaluru
+"Address_214, Bangalore",KFC,Yes,No,2.3/5,2061,080-8649174,Whitefield,Cafe,Sushi,North Indian,"1,000",Sample Review Text...,1,Cafes,Bengaluru
+"Address_691, Bangalore",Leon Grill,No,Yes,2.0/5,2873,080-2025218,HSR Layout,Cafe,Salad,Beverages,2000,Sample Review Text...,1,Buffet,Bengaluru
+"Address_934, Bangalore",Onesta,Yes,Yes,2.6/5,396,080-5704514,Koramangala,Quick Service Restaurant,Salad,Fast Food,1500,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_294, Bangalore",Resto_294,No,No,3.6/5,1329,080-5262908,JP Nagar,Bakery,Sushi,"Thai, Italian, Beverages, Desserts","2,500",Sample Review Text...,4,Cafes,Bengaluru
+"Address_524, Bangalore",Resto_524,Yes,Yes,4.1/5,656,080-9968148,JP Nagar,Bakery,Salad,"Italian, Continental, Desserts",400,Sample Review Text...,3,Delivery,Bengaluru
+"Address_414, Bangalore",Empire Restaurant,Yes,Yes,3.1/5,2617,080-7517462,JP Nagar,Bar,Biryani,Beverages,800,Sample Review Text...,1,Cafes,Bengaluru
+"Address_968, Bangalore",Nandhana Palace,Yes,Yes,2.4/5,1760,080-2974957,MG Road,Pub,Salad,"North Indian, Mexican, Fast Food, Continental, Italian",600,Sample Review Text...,5,Cafes,Bengaluru
+"Address_967, Bangalore",Resto_967,No,No,3.6/5,601,080-6194113,JP Nagar,Pub,Burgers,Continental,200,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_568, Bangalore",Resto_568,No,Yes,,182,080-4763343,Indiranagar,Pub,Biryani,"Chinese, Beverages, Mexican",600,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_473, Bangalore",Nandhana Palace,Yes,No,2.1/5,2565,080-1913231,JP Nagar,Bar,Sushi,"Italian, Chinese, Desserts",800,Sample Review Text...,3,Buffet,Bengaluru
+"Address_972, Bangalore",Resto_972,Yes,No,2.4/5,2406,080-1016411,Whitefield,Bar,Biryani,"Continental, North Indian, Beverages, Mexican, Chinese",2000,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_321, Bangalore",Pizza Hut,No,No,3.7/5,2552,080-5873580,,Cafe,Burgers,"Fast Food, Desserts, Beverages, Italian, Chinese",3000,Sample Review Text...,5,Delivery,Bengaluru
+"Address_525, Bangalore",McDonald's,Yes,Yes,3.1/5,2938,080-2495511,MG Road,Fine Dining,Sushi,"Mexican, Italian, Beverages, South Indian, North Indian",1000,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_520, Bangalore",Resto_520,Yes,Yes,NEW,2139,080-7220742,Koramangala,Bakery,Sushi,"Beverages, Continental, Desserts, Italian, South Indian",3000,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_714, Bangalore",Resto_714,No,Yes,4.0/5,435,080-7785940,Marathahalli,Bar,Biryani,Thai,400,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_894, Bangalore",Resto_894,Yes,Yes,2.6/5,621,080-9097767,MG Road,Pub,Pizza,"Continental, Italian, North Indian, Desserts, Chinese",200,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_733, Bangalore",Resto_733,No,Yes,4.1/5,1002,080-1599695,Whitefield,Quick Service Restaurant,Pasta,"Desserts, Thai, Fast Food",1000,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_65, Bangalore",Empire Restaurant,Yes,No,2.4/5,2312,080-3427461,HSR Layout,Casual Dining,Pasta,"Italian, Fast Food, Beverages, South Indian, Chinese",3000,Sample Review Text...,5,Buffet,Bengaluru
+"Address_592, Bangalore",Resto_592,No,Yes,2.9/5,2760,080-4667881,MG Road,Quick Service Restaurant,Burgers,"North Indian, Desserts, South Indian, Thai, Italian",3000,Sample Review Text...,5,Cafes,Bengaluru
+"Address_122, Bangalore",Resto_122,No,No,2.6/5,547,080-4664338,Marathahalli,Cafe,Burgers,"Fast Food, Thai, Mexican, Beverages","2,500",Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_761, Bangalore",Nandhana Palace,No,No,4.5/5,2198,080-7133460,Marathahalli,Cafe,Pizza,"North Indian, Continental, Desserts, Italian, South Indian",600,Sample Review Text...,5,Cafes,Bengaluru
+"Address_44, Bangalore",Pizza Hut,Yes,Yes,3.6/5,641,080-5743227,Koramangala,Bakery,Salad,"Fast Food, Desserts, Continental, North Indian",800,Sample Review Text...,4,Delivery,Bengaluru
+"Address_770, Bangalore",Nandhana Palace,Yes,No,3.4/5,656,080-6878859,HSR Layout,Bakery,Pizza,"Mexican, Fast Food",3000,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_767, Bangalore",Pizza Hut,Yes,No,3.3/5,339,080-6938069,Jayanagar,Bakery,Pasta,"Italian, South Indian, Fast Food, Mexican, North Indian",800,Sample Review Text...,5,Buffet,Bengaluru
+"Address_354, Bangalore",McDonald's,No,No,3.8/5,2650,080-1659867,Indiranagar,Quick Service Restaurant,Steak,"Thai, Chinese, Desserts, Mexican, South Indian",800,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_760, Bangalore",McDonald's,Yes,No,,591,080-4736280,MG Road,Casual Dining,Pizza,"Mexican, Beverages, South Indian, Chinese, North Indian",200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_357, Bangalore",Leon Grill,Yes,Yes,,579,080-3190059,Marathahalli,Fine Dining,Biryani,Desserts,3000,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_413, Bangalore",Resto_413,Yes,No,4.0/5,462,080-7169641,JP Nagar,Pub,Dosa,"Desserts, Italian, Continental, Mexican",600,Sample Review Text...,4,Delivery,Bengaluru
+"Address_259, Bangalore",Resto_259,No,No,3.6/5,2312,080-9094465,JP Nagar,Pub,Pasta,"Mexican, Italian, Fast Food",2500,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_383, Bangalore",Burger King,Yes,Yes,4.7/5,1697,080-9230660,Jayanagar,Pub,Biryani,"Fast Food, South Indian, Italian, Chinese",1500,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_988, Bangalore",Onesta,No,No,4.8/5,260,080-8322660,Marathahalli,Bakery,Salad,"Beverages, Desserts, Mexican, Continental, Chinese",3000,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_615, Bangalore",Onesta,Yes,Yes,2.9/5,339,080-2011111,JP Nagar,Pub,Burgers,"Italian, Chinese",400,Sample Review Text...,2,Delivery,Bengaluru
+"Address_947, Bangalore",Resto_947,No,Yes,2.4/5,1103,080-7296917,HSR Layout,Quick Service Restaurant,Biryani,"North Indian, Thai, Continental",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_256, Bangalore",Leon Grill,No,Yes,3.5/5,481,080-8239315,Indiranagar,Bakery,Steak,"Fast Food, Beverages",200,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_746, Bangalore",McDonald's,Yes,Yes,3.3/5,1122,080-8883139,Indiranagar,Casual Dining,Biryani,"South Indian, Thai","2,000",Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_655, Bangalore",Resto_655,No,Yes,2.1/5,1424,080-8282586,Koramangala,Pub,Steak,"Continental, Italian, North Indian",1200,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_127, Bangalore",Resto_127,No,Yes,4.7/5,2969,080-1563316,Indiranagar,Casual Dining,Salad,"Fast Food, North Indian, Italian, Chinese",400,Sample Review Text...,4,Buffet,Bengaluru
+"Address_881, Bangalore",Onesta,No,Yes,3.0/5,1102,080-9907637,JP Nagar,Quick Service Restaurant,Burgers,"South Indian, Fast Food, Italian, Mexican",3000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_140, Bangalore",Resto_140,Yes,Yes,4.1/5,1631,080-7528964,Indiranagar,Quick Service Restaurant,Sushi,"Fast Food, Italian","3,000",Sample Review Text...,2,Cafes,Bengaluru
+"Address_845, Bangalore",Burger King,No,No,3.7/5,676,080-1523448,Marathahalli,Bakery,Biryani,"Fast Food, Continental, Italian, North Indian, Beverages",400,Sample Review Text...,5,Delivery,Bengaluru
+"Address_24, Bangalore",Empire Restaurant,Yes,No,4.8/5,1352,080-7851696,JP Nagar,Fine Dining,Sushi,Continental,2500,Sample Review Text...,1,Cafes,Bengaluru
+"Address_291, Bangalore",Burger King,No,No,,904,080-2018380,Indiranagar,Casual Dining,Sushi,"Desserts, Chinese","2,000",Sample Review Text...,2,Buffet,Bengaluru
+"Address_932, Bangalore",Pizza Hut,Yes,No,4.8/5,2315,080-6987463,JP Nagar,Casual Dining,Salad,"Desserts, Italian, Beverages, South Indian",200,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_992, Bangalore",KFC,Yes,No,2.8/5,2803,080-3883285,JP Nagar,Cafe,Steak,"Thai, Desserts, South Indian, Beverages, Italian",600,Sample Review Text...,5,Buffet,Bengaluru
+"Address_859, Bangalore",Resto_859,No,Yes,2.3/5,2800,080-4040589,Jayanagar,Pub,Salad,Beverages,2000,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_487, Bangalore",Resto_487,Yes,No,3.0/5,1847,080-8410303,Marathahalli,Bakery,Burgers,"Thai, Desserts, Fast Food, South Indian",1500,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_785, Bangalore",Resto_785,No,Yes,3.4/5,2893,080-9234422,Jayanagar,Casual Dining,Steak,"Chinese, Continental, Beverages",,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_263, Bangalore",Resto_263,Yes,Yes,2.3/5,1130,080-5773013,MG Road,Quick Service Restaurant,Sushi,"Mexican, Italian, North Indian, Thai",400,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_369, Bangalore",Resto_369,No,Yes,2.3/5,1965,080-7800818,Whitefield,Cafe,Pasta,"Fast Food, North Indian, Desserts, Italian",600,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_835, Bangalore",Burger King,Yes,No,4.6/5,604,080-5589441,Marathahalli,Fine Dining,Salad,"Beverages, South Indian, Desserts, Mexican",1200,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_577, Bangalore",Onesta,Yes,No,-,245,080-8107177,Koramangala,Pub,Salad,"Beverages, South Indian",200,Sample Review Text...,2,Buffet,Bengaluru
+"Address_302, Bangalore",Leon Grill,Yes,Yes,2.7/5,2543,080-1381650,Jayanagar,Bar,Sushi,"North Indian, Thai, Chinese",1000,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_56, Bangalore",Resto_56,Yes,No,3.2/5,1000,080-7418028,MG Road,Pub,Burgers,"South Indian, Fast Food",400,Sample Review Text...,2,Cafes,Bengaluru
+"Address_989, Bangalore",Leon Grill,No,Yes,4.2/5,2634,080-5518560,JP Nagar,Fine Dining,Biryani,"North Indian, Mexican, South Indian, Thai, Beverages",800,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_546, Bangalore",Resto_546,Yes,No,3.2/5,1552,080-2977453,Jayanagar,Quick Service Restaurant,Dosa,Thai,800,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_895, Bangalore",Leon Grill,No,Yes,NEW,1882,080-9724962,JP Nagar,Pub,Dosa,"Desserts, Continental, Thai",1200,Sample Review Text...,3,Buffet,Bengaluru
+"Address_690, Bangalore",Resto_690,No,Yes,3.5/5,837,080-8950226,JP Nagar,Pub,Biryani,"Continental, Desserts, Beverages, Chinese, South Indian",600,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_740, Bangalore",Resto_740,Yes,No,3.6/5,880,080-8654679,Marathahalli,Quick Service Restaurant,Biryani,"North Indian, Mexican, Chinese, Thai, Italian",800,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_695, Bangalore",Onesta,No,No,2.9/5,320,080-5203347,HSR Layout,Cafe,Pizza,"South Indian, Mexican, Desserts",2000,Sample Review Text...,3,Buffet,Bengaluru
+"Address_987, Bangalore",Resto_987,No,No,3.5/5,146,080-4288145,Marathahalli,Casual Dining,Pasta,"South Indian, Italian, Mexican",2000,Sample Review Text...,3,Delivery,Bengaluru
+"Address_348, Bangalore",Resto_348,Yes,No,4.0/5,278,080-6897466,Koramangala,Bakery,Burgers,Beverages,400,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_21, Bangalore",Leon Grill,No,Yes,4.7/5,1686,080-4731818,HSR Layout,Quick Service Restaurant,Burgers,"Chinese, Mexican",200,Sample Review Text...,2,Cafes,Bengaluru
+"Address_995, Bangalore",Onesta,Yes,Yes,4.4/5,1366,080-6160344,HSR Layout,Quick Service Restaurant,Pizza,Chinese,1200,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_113, Bangalore",KFC,No,No,4.1/5,255,080-6263895,Jayanagar,Pub,Pasta,"Beverages, Thai",2000,Sample Review Text...,2,Cafes,Bengaluru
+"Address_286, Bangalore",Resto_286,Yes,Yes,3.7/5,2829,080-6677780,Marathahalli,Fine Dining,Biryani,"South Indian, Thai, Chinese, Desserts, Mexican",2000,Sample Review Text...,5,Delivery,Bengaluru
+"Address_827, Bangalore",Resto_827,Yes,No,3.3/5,2710,080-6659210,Jayanagar,Cafe,Burgers,"South Indian, Italian, Chinese, North Indian, Beverages",2000,Sample Review Text...,5,Delivery,Bengaluru
+"Address_12, Bangalore",Nandhana Palace,Yes,Yes,3.3/5,1728,080-1247595,Jayanagar,Quick Service Restaurant,Pizza,"Italian, Chinese, Desserts, Mexican",2500,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_679, Bangalore",McDonald's,No,No,4.3/5,1741,080-6701595,MG Road,Quick Service Restaurant,Biryani,Continental,2000,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_322, Bangalore",Resto_322,No,Yes,2.6/5,2520,080-4562439,MG Road,Bakery,Biryani,Thai,1200,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_591, Bangalore",Resto_591,No,No,3.6/5,658,080-6431331,MG Road,Quick Service Restaurant,Sushi,"Mexican, North Indian, Italian, Beverages, Thai",3000,Sample Review Text...,5,Delivery,Bengaluru
+"Address_336, Bangalore",Empire Restaurant,Yes,Yes,2.8/5,2521,080-6109503,Marathahalli,Cafe,Steak,"Thai, Continental",3000,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_115, Bangalore",Resto_115,No,No,4.0/5,1555,080-2325893,MG Road,Bar,Sushi,"South Indian, Continental, North Indian","1,000",Sample Review Text...,3,Cafes,Bengaluru
+"Address_328, Bangalore",Onesta,No,Yes,,180,080-4520626,Indiranagar,Quick Service Restaurant,Sushi,"North Indian, Chinese, Continental, Fast Food",3000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_510, Bangalore",Burger King,No,No,2.6/5,1736,080-4378948,Jayanagar,Pub,Dosa,"Continental, Fast Food",3000,Sample Review Text...,2,Cafes,Bengaluru
+"Address_47, Bangalore",Resto_47,Yes,No,3.3/5,1139,080-2754894,Jayanagar,Pub,Pasta,"Desserts, Chinese, Fast Food, South Indian",1500,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_162, Bangalore",McDonald's,Yes,No,3.2/5,867,080-6766993,Marathahalli,Quick Service Restaurant,Biryani,"Continental, Thai, South Indian","3,000",Sample Review Text...,3,Delivery,Bengaluru
+"Address_641, Bangalore",Resto_641,Yes,Yes,NEW,435,080-7443851,Marathahalli,Fine Dining,Steak,"Thai, Italian, Beverages, North Indian",600,Sample Review Text...,4,Delivery,Bengaluru
+"Address_81, Bangalore",Empire Restaurant,No,Yes,3.4/5,617,080-3895058,Koramangala,Bakery,Biryani,Thai,400,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_990, Bangalore",McDonald's,No,No,3.0/5,1870,080-3951233,Koramangala,Casual Dining,Sushi,South Indian,"1,000",Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_626, Bangalore",Resto_626,No,No,4.5/5,716,080-1689543,Whitefield,Fine Dining,Sushi,"Thai, Mexican, Beverages",1000,Sample Review Text...,3,Buffet,Bengaluru
+"Address_398, Bangalore",Burger King,No,No,3.3/5,500,080-9357316,Whitefield,Bakery,Biryani,"Italian, South Indian, North Indian, Desserts",200,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_901, Bangalore",Nandhana Palace,Yes,Yes,2.6/5,696,080-5772192,MG Road,Bar,Pasta,"Chinese, Continental, Beverages, Desserts",2500,Sample Review Text...,4,Delivery,Bengaluru
+"Address_215, Bangalore",Leon Grill,No,No,2.5/5,1652,080-3835093,Koramangala,Cafe,Pizza,"South Indian, Italian",200,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_416, Bangalore",Burger King,No,No,4.4/5,656,080-6482263,Whitefield,Pub,Salad,Thai,1500,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_586, Bangalore",McDonald's,No,Yes,3.5/5,1076,080-2766607,Koramangala,Pub,Dosa,Italian,2500,Sample Review Text...,1,Cafes,Bengaluru
+"Address_101, Bangalore",Resto_101,No,No,4.4/5,302,080-6779998,Jayanagar,Quick Service Restaurant,Pasta,Desserts,2000,Sample Review Text...,1,Buffet,Bengaluru
+"Address_227, Bangalore",Nandhana Palace,Yes,Yes,4.4/5,1195,080-7865417,JP Nagar,Fine Dining,Pizza,North Indian,600,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_791, Bangalore",Onesta,Yes,Yes,2.3/5,2798,080-8467647,Jayanagar,Pub,Biryani,"Fast Food, South Indian, Desserts",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_945, Bangalore",Resto_945,Yes,Yes,3.7/5,1952,080-1712357,Whitefield,Bakery,Sushi,"Chinese, South Indian, Beverages, Mexican, Desserts",2500,Sample Review Text...,5,Cafes,Bengaluru
+"Address_146, Bangalore",Resto_146,Yes,No,3.8/5,1349,080-4369728,Marathahalli,Quick Service Restaurant,Salad,"Fast Food, South Indian, Continental, Beverages","3,000",Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_837, Bangalore",McDonald's,No,Yes,4.4/5,141,080-2139083,Whitefield,Quick Service Restaurant,Pasta,"Fast Food, North Indian, Beverages, Thai, Mexican",600,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_581, Bangalore",Resto_581,Yes,No,,1460,080-2633762,Whitefield,Bakery,Sushi,"Italian, Thai, Mexican, Beverages, South Indian",600,Sample Review Text...,5,Cafes,Bengaluru
+"Address_523, Bangalore",Onesta,Yes,No,2.6/5,586,080-9089445,Koramangala,Cafe,Burgers,"Chinese, Continental, Desserts, Fast Food","2,000",Sample Review Text...,4,Dine-out,Bengaluru
+"Address_863, Bangalore",Pizza Hut,No,No,NEW,357,080-3717830,Whitefield,Fine Dining,Pizza,"Desserts, Mexican, Italian",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_19, Bangalore",Empire Restaurant,Yes,No,2.1/5,1366,080-2262382,Jayanagar,Fine Dining,Pasta,"South Indian, Desserts, Mexican",2500,Sample Review Text...,3,Buffet,Bengaluru
+"Address_183, Bangalore",Leon Grill,Yes,No,4.7/5,207,080-4602338,Jayanagar,Pub,Pasta,"Mexican, Desserts, North Indian, Italian",1500,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_735, Bangalore",Resto_735,No,No,2.1/5,866,080-3859007,Whitefield,Cafe,Sushi,"North Indian, Continental, Thai, Desserts, Beverages",2500,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_475, Bangalore",Empire Restaurant,No,No,3.8/5,1683,080-2699161,HSR Layout,Bar,Sushi,"Fast Food, North Indian, Desserts, Italian, Mexican",,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_486, Bangalore",KFC,No,Yes,4.6/5,2340,080-5950084,Jayanagar,Bar,Salad,"Continental, Beverages, Chinese",600,Sample Review Text...,3,Buffet,Bengaluru
+"Address_962, Bangalore",Empire Restaurant,Yes,No,4.6/5,362,080-4571088,Koramangala,Bakery,Pizza,"Desserts, Chinese","1,200",Sample Review Text...,2,Dine-out,Bengaluru
+"Address_245, Bangalore",Pizza Hut,Yes,No,NEW,2972,080-4246367,Marathahalli,Quick Service Restaurant,Sushi,"South Indian, Italian, Chinese",1000,Sample Review Text...,3,Cafes,Bengaluru
+"Address_139, Bangalore",McDonald's,Yes,Yes,4.6/5,2835,080-1552000,Marathahalli,Quick Service Restaurant,Pasta,Chinese,"1,000",Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_704, Bangalore",Resto_704,No,No,2.5/5,816,080-7100417,Jayanagar,Quick Service Restaurant,Sushi,"Desserts, Continental, Chinese",2000,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_266, Bangalore",McDonald's,Yes,No,2.3/5,2759,080-4190481,JP Nagar,Casual Dining,Salad,"South Indian, Desserts, Thai, Fast Food, Chinese",3000,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_116, Bangalore",Onesta,Yes,Yes,2.8/5,2302,080-1851702,Whitefield,Cafe,Burgers,Fast Food,3000,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_90, Bangalore",Onesta,Yes,Yes,3.4/5,2195,080-5035998,,Fine Dining,Steak,"Fast Food, Italian, South Indian, Desserts, Beverages",,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_63, Bangalore",Pizza Hut,No,Yes,NEW,2201,080-2661307,Jayanagar,Bakery,Salad,"Thai, Beverages, Mexican, Continental",600,Sample Review Text...,4,Buffet,Bengaluru
+"Address_163, Bangalore",Resto_163,No,Yes,4.5/5,1807,080-7047102,Marathahalli,Casual Dining,Dosa,"Italian, South Indian, Continental, Chinese",1000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_516, Bangalore",Resto_516,No,No,3.5/5,2183,080-6777952,MG Road,Pub,Pasta,"Mexican, Chinese, Beverages",3000,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_76, Bangalore",Resto_76,Yes,No,NEW,173,080-8007741,MG Road,Casual Dining,Dosa,"Chinese, Thai, Mexican, Continental",1500,Sample Review Text...,4,Delivery,Bengaluru
+"Address_805, Bangalore",Resto_805,Yes,Yes,,14,080-2240239,Koramangala,Bar,Biryani,"Fast Food, Chinese, Italian, Mexican",200,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_644, Bangalore",Resto_644,Yes,Yes,3.2/5,2238,080-8947918,Indiranagar,Quick Service Restaurant,Sushi,"Beverages, Desserts",800,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_584, Bangalore",Leon Grill,No,Yes,3.3/5,695,080-2497018,Whitefield,Cafe,Pizza,Continental,3000,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_103, Bangalore",Resto_103,No,Yes,3.8/5,382,080-1476028,Jayanagar,Pub,Pizza,"South Indian, Fast Food, Thai, Mexican, Continental",200,Sample Review Text...,5,Delivery,Bengaluru
+"Address_98, Bangalore",Resto_98,Yes,Yes,3.4/5,1585,080-3277144,Indiranagar,Quick Service Restaurant,Pizza,"Desserts, Italian, Continental",2000,Sample Review Text...,3,Cafes,Bengaluru
+"Address_272, Bangalore",Resto_272,No,Yes,4.5/5,2117,080-2007243,JP Nagar,Bar,Burgers,"Continental, Fast Food, North Indian, Italian",400,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_508, Bangalore",Resto_508,Yes,No,2.8/5,97,080-5166421,HSR Layout,Bar,Burgers,"Thai, Italian, Beverages",2500,Sample Review Text...,3,Buffet,Bengaluru
+"Address_434, Bangalore",Resto_434,No,No,3.3/5,2745,080-5350628,Marathahalli,Pub,Pizza,"Thai, South Indian, Italian",600,Sample Review Text...,3,Cafes,Bengaluru
+"Address_763, Bangalore",Resto_763,No,No,3.3/5,2419,080-1574205,Whitefield,Bar,Steak,"Thai, Mexican",1200,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_110, Bangalore",Resto_110,No,Yes,,561,080-6344047,JP Nagar,Bar,Pasta,"Beverages, Desserts, South Indian, Continental",2500,Sample Review Text...,4,Cafes,Bengaluru
+"Address_482, Bangalore",Resto_482,Yes,No,4.6/5,1386,080-8276581,HSR Layout,Quick Service Restaurant,Pizza,"Italian, Thai, Beverages, Desserts",600,Sample Review Text...,4,Delivery,Bengaluru
+"Address_279, Bangalore",Leon Grill,No,No,2.0/5,2014,080-1121097,Marathahalli,Quick Service Restaurant,Sushi,Mexican,1000,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_603, Bangalore",Resto_603,Yes,Yes,-,1404,080-4235406,JP Nagar,Bakery,Biryani,"Fast Food, Beverages, North Indian, Chinese, Continental","1,000",Sample Review Text...,5,Buffet,Bengaluru
+"Address_384, Bangalore",Pizza Hut,No,No,4.3/5,630,080-5106228,Whitefield,Quick Service Restaurant,Biryani,"Chinese, Continental, Mexican, Fast Food","2,000",Sample Review Text...,4,Delivery,Bengaluru
+"Address_498, Bangalore",McDonald's,No,No,2.6/5,182,080-7699844,Marathahalli,Casual Dining,Burgers,Desserts,1500,Sample Review Text...,1,Cafes,Bengaluru
+"Address_358, Bangalore",Pizza Hut,Yes,No,4.4/5,261,080-7744585,Indiranagar,Casual Dining,Sushi,"Fast Food, Italian, Chinese, Mexican",800,Sample Review Text...,4,Delivery,Bengaluru
+"Address_138, Bangalore",Resto_138,Yes,No,4.5/5,2677,080-2387242,Koramangala,Casual Dining,Salad,"Mexican, Fast Food, Desserts, North Indian",200,Sample Review Text...,4,Cafes,Bengaluru
+"Address_299, Bangalore",Resto_299,No,No,3.7/5,368,080-1827302,HSR Layout,Bakery,Steak,"Mexican, South Indian, Beverages",1200,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_913, Bangalore",Empire Restaurant,Yes,Yes,4.3/5,1106,080-5669108,Jayanagar,Casual Dining,Pizza,"Thai, Chinese, Desserts, Continental",400,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_382, Bangalore",Onesta,No,No,4.3/5,1736,080-9813089,MG Road,Cafe,Sushi,"Fast Food, Chinese, South Indian, Beverages, Desserts","2,000",Sample Review Text...,5,Delivery,Bengaluru
+"Address_864, Bangalore",Resto_864,Yes,No,3.6/5,2282,080-1666991,Whitefield,Bakery,Burgers,South Indian,3000,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_496, Bangalore",KFC,No,No,3.7/5,373,080-4012820,Whitefield,Fine Dining,Steak,"Thai, Continental, Mexican, Beverages",600,Sample Review Text...,4,Cafes,Bengaluru
+"Address_801, Bangalore",Resto_801,Yes,Yes,3.4/5,520,080-2130790,Koramangala,Bakery,Burgers,"Chinese, Fast Food, Italian, North Indian",1500,Sample Review Text...,4,Cafes,Bengaluru
+"Address_648, Bangalore",Nandhana Palace,No,Yes,2.1/5,145,080-4821097,Marathahalli,Pub,Biryani,"Thai, Mexican",2000,Sample Review Text...,2,Delivery,Bengaluru
+"Address_415, Bangalore",Pizza Hut,No,Yes,4.2/5,1218,080-5597569,HSR Layout,Bar,Pizza,"Desserts, Thai",1500,Sample Review Text...,2,Cafes,Bengaluru
+"Address_353, Bangalore",Resto_353,Yes,No,3.7/5,2111,080-9087731,Marathahalli,Bakery,Pizza,"Mexican, Chinese, Italian, North Indian","1,500",Sample Review Text...,4,Buffet,Bengaluru
+"Address_553, Bangalore",Resto_553,No,Yes,4.3/5,422,080-4224201,Jayanagar,Cafe,Pasta,"South Indian, Italian, Chinese, Desserts, Beverages",200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_802, Bangalore",Onesta,Yes,No,2.1/5,2062,080-3562057,HSR Layout,Bar,Sushi,"Thai, North Indian",3000,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_378, Bangalore",Resto_378,Yes,No,2.4/5,1836,080-8684648,Jayanagar,Pub,Sushi,"Chinese, North Indian, Mexican",2000,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_364, Bangalore",Leon Grill,Yes,Yes,2.3/5,963,080-2847722,Marathahalli,Pub,Sushi,"Thai, Mexican, Italian, Fast Food, Beverages",1200,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_304, Bangalore",Empire Restaurant,Yes,No,3.9/5,2703,080-7484783,JP Nagar,Bar,Burgers,North Indian,"1,000",Sample Review Text...,1,Cafes,Bengaluru
+"Address_488, Bangalore",McDonald's,Yes,No,3.5/5,2636,080-4360587,Indiranagar,Bar,Sushi,"Italian, Chinese, Beverages",400,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_164, Bangalore",Resto_164,Yes,Yes,2.9/5,2864,080-2307594,HSR Layout,Bakery,Pasta,Chinese,200,Sample Review Text...,1,Buffet,Bengaluru
+"Address_68, Bangalore",Onesta,No,Yes,2.9/5,607,080-9901266,Indiranagar,Cafe,Dosa,"Fast Food, Beverages, Thai","1,500",Sample Review Text...,3,Cafes,Bengaluru
+"Address_973, Bangalore",Burger King,No,No,NEW,225,080-6617699,Indiranagar,Bar,Biryani,"Beverages, Italian, Chinese, North Indian",800,Sample Review Text...,4,Delivery,Bengaluru
+"Address_277, Bangalore",Burger King,No,Yes,2.8/5,2566,080-8838205,Jayanagar,Cafe,Dosa,"South Indian, North Indian, Beverages, Thai, Fast Food","1,200",Sample Review Text...,5,Buffet,Bengaluru
+"Address_814, Bangalore",Onesta,Yes,Yes,4.9/5,1484,080-6700506,Marathahalli,Pub,Pizza,"South Indian, Desserts, North Indian, Italian, Thai",3000,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_499, Bangalore",Resto_499,No,Yes,2.4/5,2745,080-5683223,Marathahalli,Bakery,Pasta,"Chinese, Fast Food, Italian, Thai",2000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_637, Bangalore",Resto_637,Yes,Yes,4.2/5,985,080-9270565,Jayanagar,Pub,Sushi,"Italian, Desserts, Beverages, South Indian, Mexican",400,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_800, Bangalore",Resto_800,Yes,No,NEW,2199,080-5387228,JP Nagar,Cafe,Pizza,"Mexican, Continental, Beverages","1,000",Sample Review Text...,3,Delivery,Bengaluru
+"Address_58, Bangalore",Resto_58,No,Yes,4.5/5,436,080-1822825,HSR Layout,Bakery,Salad,"Thai, Continental, Beverages, North Indian, Fast Food",1500,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_76, Bangalore",Resto_76,Yes,No,NEW,173,080-8007741,MG Road,Casual Dining,Dosa,"Chinese, Thai, Mexican, Continental",1500,Sample Review Text...,4,Delivery,Bengaluru
+"Address_368, Bangalore",Empire Restaurant,No,Yes,,1927,080-1208423,Koramangala,Bakery,Steak,"Mexican, Desserts, Chinese, Italian, Fast Food",800,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_940, Bangalore",Resto_940,Yes,No,3.8/5,1823,080-7300282,Whitefield,Quick Service Restaurant,Salad,"Fast Food, Italian, North Indian",800,Sample Review Text...,3,Delivery,Bengaluru
+"Address_328, Bangalore",Onesta,No,Yes,,180,080-4520626,Indiranagar,Quick Service Restaurant,Sushi,"North Indian, Chinese, Continental, Fast Food",3000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_889, Bangalore",Leon Grill,No,No,2.0/5,930,080-7975966,Marathahalli,Quick Service Restaurant,Biryani,"Mexican, Desserts, Beverages, South Indian",800,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_966, Bangalore",Empire Restaurant,No,No,2.5/5,2448,080-8653803,MG Road,Bar,Pizza,"Fast Food, Mexican, Continental, Beverages, Desserts",3000,Sample Review Text...,5,Buffet,Bengaluru
+"Address_123, Bangalore",Nandhana Palace,No,No,NEW,2310,080-4446065,Indiranagar,Casual Dining,Salad,"Beverages, Italian, South Indian, Chinese, Desserts",2500,Sample Review Text...,5,Delivery,Bengaluru
+"Address_169, Bangalore",Leon Grill,No,No,4.0/5,1929,080-7676912,Indiranagar,Casual Dining,Dosa,"Chinese, North Indian, Continental, Fast Food, Beverages",200,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_840, Bangalore",KFC,No,Yes,,952,080-7640569,Jayanagar,Bar,Biryani,"Beverages, Thai",1200,Sample Review Text...,2,Buffet,Bengaluru
+"Address_710, Bangalore",Leon Grill,Yes,Yes,2.2/5,967,080-7279004,HSR Layout,Bakery,Biryani,Italian,600,Sample Review Text...,1,Cafes,Bengaluru
+"Address_121, Bangalore",McDonald's,No,Yes,3.0/5,967,080-9430894,Koramangala,Fine Dining,Dosa,Desserts,1000,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_790, Bangalore",Empire Restaurant,Yes,No,NEW,7,080-2164158,Koramangala,Casual Dining,Pasta,"Mexican, Continental, North Indian",3000,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_541, Bangalore",Nandhana Palace,Yes,No,4.3/5,391,080-7535788,JP Nagar,Fine Dining,Pasta,"Continental, Beverages, Fast Food, Desserts, North Indian",200,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_244, Bangalore",McDonald's,Yes,No,4.5/5,583,080-1912484,Jayanagar,Cafe,Salad,"Fast Food, Continental",800,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_124, Bangalore",Onesta,Yes,No,3.2/5,2309,080-2225232,Koramangala,Pub,Biryani,"Continental, North Indian, Mexican, South Indian",200,Sample Review Text...,4,Cafes,Bengaluru
+"Address_882, Bangalore",McDonald's,Yes,Yes,NEW,650,080-3376224,Indiranagar,Pub,Steak,"North Indian, Continental, Chinese, Beverages, South Indian",2000,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_772, Bangalore",KFC,No,No,3.6/5,2498,080-1687389,Marathahalli,Cafe,Steak,Thai,"1,000",Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_233, Bangalore",Resto_233,No,Yes,4.0/5,2301,080-7502088,HSR Layout,Fine Dining,Steak,"Mexican, Italian, Continental, Thai, Fast Food",200,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_447, Bangalore",Leon Grill,No,Yes,2.1/5,2627,080-6105693,Jayanagar,Pub,Sushi,Beverages,1000,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_846, Bangalore",Empire Restaurant,No,No,3.6/5,653,080-8004270,Indiranagar,Casual Dining,Biryani,"Italian, Fast Food, Mexican",1200,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_429, Bangalore",Pizza Hut,No,Yes,3.6/5,2466,080-4493397,MG Road,Casual Dining,Pasta,"Continental, South Indian, Italian, Mexican",1500,Sample Review Text...,4,Cafes,Bengaluru
+"Address_154, Bangalore",Resto_154,No,Yes,4.5/5,2528,080-6123426,Jayanagar,Bar,Pizza,"Fast Food, Chinese, South Indian",1200,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_665, Bangalore",Resto_665,Yes,No,3.8/5,1838,080-5366756,MG Road,Cafe,Dosa,"South Indian, Beverages, Italian, Mexican, Desserts",3000,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_905, Bangalore",McDonald's,Yes,No,2.2/5,128,080-6428764,Whitefield,Bakery,Salad,"Desserts, Fast Food",1500,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_719, Bangalore",Onesta,No,No,3.3/5,2528,080-2696557,HSR Layout,Bar,Steak,"Fast Food, Desserts, North Indian, Beverages, South Indian",1200,Sample Review Text...,5,Buffet,Bengaluru
+"Address_899, Bangalore",Resto_899,Yes,No,2.9/5,1543,080-8189752,Indiranagar,Casual Dining,Salad,Chinese,200,Sample Review Text...,1,Delivery,Bengaluru
+"Address_442, Bangalore",Resto_442,Yes,Yes,2.8/5,2772,080-4759700,Jayanagar,Cafe,Salad,"North Indian, Chinese, Thai, Italian, Fast Food",3000,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_841, Bangalore",Onesta,Yes,No,2.1/5,2415,080-2352703,Koramangala,Cafe,Sushi,"Fast Food, Desserts",200,Sample Review Text...,2,Buffet,Bengaluru
+"Address_985, Bangalore",Leon Grill,Yes,Yes,3.2/5,1870,080-1271225,Koramangala,Pub,Pasta,"Beverages, Continental, Italian, Desserts, Fast Food",3000,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_433, Bangalore",Burger King,No,Yes,4.1/5,1037,080-4056945,JP Nagar,Quick Service Restaurant,Steak,"Chinese, Beverages, North Indian, Desserts, Thai",2000,Sample Review Text...,5,Delivery,Bengaluru
+"Address_624, Bangalore",Nandhana Palace,No,No,4.1/5,2235,080-6599209,Whitefield,Fine Dining,Salad,"Continental, Thai, Desserts, North Indian",1200,Sample Review Text...,4,Delivery,Bengaluru
+"Address_387, Bangalore",Resto_387,Yes,Yes,4.5/5,2805,080-9693462,Whitefield,Quick Service Restaurant,Dosa,"Chinese, Beverages, Thai",600,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_30, Bangalore",Resto_30,Yes,Yes,NEW,1669,080-1327691,JP Nagar,Pub,Steak,"Mexican, North Indian, Italian, Fast Food",1500,Sample Review Text...,4,Cafes,Bengaluru
+"Address_485, Bangalore",McDonald's,No,No,4.1/5,2152,080-4476232,Marathahalli,Fine Dining,Burgers,"Desserts, Continental, Mexican, Thai",3000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_203, Bangalore",Resto_203,No,Yes,3.5/5,2329,080-1848243,Koramangala,Cafe,Sushi,"Italian, North Indian",800,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_711, Bangalore",Resto_711,Yes,No,3.1/5,870,080-3240199,Marathahalli,Fine Dining,Steak,"Desserts, Italian, Chinese, Beverages",600,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_627, Bangalore",Resto_627,No,No,4.8/5,2043,080-3728089,Jayanagar,Bakery,Dosa,"Beverages, Continental",3000,Sample Review Text...,2,Cafes,Bengaluru
+"Address_687, Bangalore",Resto_687,No,Yes,NEW,2021,080-7820513,Whitefield,Bakery,Biryani,"Thai, South Indian, North Indian",1200,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_391, Bangalore",Resto_391,Yes,No,-,1036,080-4355853,Koramangala,Casual Dining,Pasta,"North Indian, Chinese, Beverages",3000,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_319, Bangalore",Empire Restaurant,Yes,No,2.5/5,1164,080-7357547,Jayanagar,Bakery,Pizza,"Thai, North Indian, Chinese, Mexican, South Indian",1200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_952, Bangalore",McDonald's,No,Yes,4.3/5,2953,080-8882473,JP Nagar,Quick Service Restaurant,Steak,"South Indian, Continental, Italian, Mexican, Thai",200,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_394, Bangalore",Resto_394,Yes,No,-,1287,080-7060776,Indiranagar,Bakery,Dosa,Beverages,600,Sample Review Text...,1,Buffet,Bengaluru
+"Address_125, Bangalore",Resto_125,Yes,Yes,2.2/5,1933,080-7333337,Koramangala,Quick Service Restaurant,Steak,"South Indian, Fast Food, Mexican, Beverages",1500,Sample Review Text...,4,Delivery,Bengaluru
+"Address_474, Bangalore",Nandhana Palace,No,Yes,3.7/5,350,080-8245056,Koramangala,Casual Dining,Pizza,"Thai, Chinese, South Indian, North Indian",2000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_478, Bangalore",Leon Grill,Yes,Yes,4.4/5,223,080-8981342,MG Road,Quick Service Restaurant,Salad,"Italian, Fast Food",400,Sample Review Text...,2,Buffet,Bengaluru
+"Address_426, Bangalore",Burger King,Yes,No,,1460,080-5766683,Marathahalli,Bakery,Pasta,"Chinese, South Indian, Fast Food, Beverages",400,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_753, Bangalore",Resto_753,Yes,No,3.9/5,820,080-9949336,JP Nagar,Fine Dining,Biryani,"South Indian, Italian, Fast Food, Chinese, Desserts",600,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_443, Bangalore",McDonald's,Yes,No,4.5/5,2111,080-2861110,Indiranagar,Fine Dining,Pizza,Desserts,"2,000",Sample Review Text...,1,Buffet,Bengaluru
+"Address_842, Bangalore",Leon Grill,No,Yes,2.0/5,2570,080-4284516,Whitefield,Quick Service Restaurant,Sushi,"Thai, Beverages, Mexican, Chinese, Desserts",3000,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_908, Bangalore",Resto_908,No,No,4.9/5,2508,080-8657731,HSR Layout,Bakery,Biryani,Desserts,3000,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_147, Bangalore",Resto_147,No,No,4.0/5,2011,080-4018677,HSR Layout,Quick Service Restaurant,Biryani,"Continental, Mexican, Thai, North Indian",3000,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_922, Bangalore",Resto_922,No,No,2.8/5,2420,080-3125026,HSR Layout,Casual Dining,Pasta,"South Indian, Fast Food, Chinese",200,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_192, Bangalore",Resto_192,No,Yes,2.1/5,1794,080-9044494,MG Road,Cafe,Burgers,"Desserts, Mexican, Thai, Continental",1500,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_567, Bangalore",Empire Restaurant,Yes,Yes,4.4/5,2897,080-9034749,Indiranagar,Cafe,Pasta,"Desserts, Fast Food",600,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_420, Bangalore",Onesta,No,Yes,2.6/5,1090,080-5747402,Whitefield,Fine Dining,Burgers,"Mexican, South Indian, Fast Food, Desserts",800,Sample Review Text...,4,Cafes,Bengaluru
+"Address_195, Bangalore",Onesta,Yes,Yes,3.2/5,1206,080-5895783,Marathahalli,Cafe,Pizza,North Indian,800,Sample Review Text...,1,Cafes,Bengaluru
+"Address_6, Bangalore",Burger King,Yes,No,4.9/5,2167,080-6707197,Whitefield,Pub,Pizza,Chinese,2500,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_667, Bangalore",Onesta,Yes,Yes,4.4/5,98,080-6945304,Jayanagar,Casual Dining,Pasta,"Beverages, Fast Food","1,500",Sample Review Text...,2,Cafes,Bengaluru
+"Address_439, Bangalore",Empire Restaurant,No,No,2.8/5,2655,080-6817736,MG Road,Bakery,Salad,Desserts,"3,000",Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_289, Bangalore",Resto_289,No,Yes,3.8/5,1491,080-9347489,HSR Layout,Quick Service Restaurant,Pasta,Beverages,1500,Sample Review Text...,1,Buffet,Bengaluru
+"Address_678, Bangalore",Leon Grill,No,No,3.0/5,1630,080-4608882,,Bar,Steak,"Desserts, Mexican, Italian, North Indian",1000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_877, Bangalore",Pizza Hut,No,Yes,NEW,1664,080-5005908,HSR Layout,Cafe,Dosa,"Fast Food, South Indian, Beverages, Chinese",1000,Sample Review Text...,4,Cafes,Bengaluru
+"Address_499, Bangalore",Resto_499,No,Yes,2.4/5,2745,080-5683223,Marathahalli,Bakery,Pasta,"Chinese, Fast Food, Italian, Thai",2000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_901, Bangalore",Nandhana Palace,Yes,Yes,2.6/5,696,080-5772192,,Bar,Pasta,"Chinese, Continental, Beverages, Desserts",2500,Sample Review Text...,4,Delivery,Bengaluru
+"Address_671, Bangalore",Resto_671,No,Yes,2.5/5,1179,080-4886854,Whitefield,Bakery,Dosa,"Italian, South Indian, Continental, Beverages",3000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_559, Bangalore",Nandhana Palace,No,Yes,3.5/5,2063,080-4190874,Koramangala,Cafe,Steak,"Continental, South Indian, Fast Food, North Indian, Desserts",200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_74, Bangalore",Resto_74,Yes,Yes,3.9/5,1989,080-5752087,Marathahalli,Bakery,Salad,"Italian, Beverages, Chinese",1200,Sample Review Text...,3,Buffet,Bengaluru
+"Address_359, Bangalore",Leon Grill,No,Yes,3.7/5,1374,080-8359513,Indiranagar,Casual Dining,Burgers,"South Indian, Mexican, Fast Food",1200,Sample Review Text...,3,Buffet,Bengaluru
+"Address_22, Bangalore",Resto_22,Yes,Yes,,791,080-9996207,MG Road,Quick Service Restaurant,Sushi,"Chinese, Continental, Thai",2500,Sample Review Text...,3,Delivery,Bengaluru
+"Address_626, Bangalore",Resto_626,No,No,4.5/5,716,080-1689543,Whitefield,Fine Dining,Sushi,"Thai, Mexican, Beverages",1000,Sample Review Text...,3,Buffet,Bengaluru
+"Address_883, Bangalore",Leon Grill,Yes,No,3.5/5,949,080-8889458,Indiranagar,Pub,Steak,Fast Food,600,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_171, Bangalore",Resto_171,Yes,No,4.1/5,977,080-1923227,Koramangala,Cafe,Dosa,Mexican,400,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_155, Bangalore",Resto_155,Yes,No,2.4/5,1571,080-6277776,MG Road,Cafe,Salad,"Beverages, South Indian, Fast Food, Italian",1000,Sample Review Text...,4,Buffet,Bengaluru
+"Address_194, Bangalore",Leon Grill,No,Yes,NEW,1356,080-2609202,HSR Layout,Cafe,Biryani,"Beverages, Fast Food, Continental, Thai",1000,Sample Review Text...,4,Cafes,Bengaluru
+"Address_450, Bangalore",Nandhana Palace,Yes,No,3.5/5,507,080-1087466,Koramangala,Bar,Salad,Desserts,1000,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_363, Bangalore",Onesta,No,Yes,4.7/5,221,080-8602555,JP Nagar,Quick Service Restaurant,Biryani,"Mexican, Continental",1200,Sample Review Text...,2,Delivery,Bengaluru
+"Address_187, Bangalore",Leon Grill,Yes,Yes,4.3/5,2857,080-4158036,JP Nagar,Pub,Salad,Thai,3000,Sample Review Text...,1,Buffet,Bengaluru
+"Address_29, Bangalore",Resto_29,Yes,No,3.5/5,2567,080-2351868,HSR Layout,Quick Service Restaurant,Pasta,"Chinese, Continental, Italian, South Indian",1200,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_633, Bangalore",Resto_633,Yes,No,4.5/5,1885,080-2634085,Koramangala,Casual Dining,Dosa,Continental,400,Sample Review Text...,1,Buffet,Bengaluru
+"Address_678, Bangalore",Leon Grill,No,No,3.0/5,1630,080-4608882,Jayanagar,Bar,Steak,"Desserts, Mexican, Italian, North Indian",1000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_740, Bangalore",Resto_740,Yes,No,3.6/5,880,080-8654679,Marathahalli,Quick Service Restaurant,Biryani,"North Indian, Mexican, Chinese, Thai, Italian",800,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_428, Bangalore",Resto_428,No,No,4.8/5,2433,080-3169632,Koramangala,Quick Service Restaurant,Burgers,Fast Food,2000,Sample Review Text...,1,Delivery,Bengaluru
+"Address_610, Bangalore",Resto_610,Yes,No,,2358,080-1656328,Koramangala,Bakery,Sushi,"South Indian, Mexican, North Indian","2,500",Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_792, Bangalore",Resto_792,Yes,No,2.3/5,2797,080-6660577,Jayanagar,Pub,Salad,"South Indian, Chinese, Desserts, Beverages, Continental",600,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_796, Bangalore",Resto_796,Yes,Yes,3.1/5,1440,080-1750288,Koramangala,Bar,Burgers,"Beverages, Fast Food, South Indian, Continental",1200,Sample Review Text...,4,Delivery,Bengaluru
+"Address_106, Bangalore",Resto_106,No,Yes,2.1/5,1573,080-9359508,MG Road,Cafe,Salad,"Thai, Fast Food",800,Sample Review Text...,2,Cafes,Bengaluru
+"Address_925, Bangalore",KFC,Yes,Yes,2.7/5,190,080-4526654,Indiranagar,Fine Dining,Pizza,"South Indian, Italian, Continental, North Indian",3000,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_276, Bangalore",Resto_276,No,Yes,3.2/5,391,080-3605071,Indiranagar,Bakery,Pizza,"North Indian, Fast Food, Mexican, Continental, Beverages",400,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_293, Bangalore",Resto_293,Yes,Yes,3.6/5,432,080-9467339,JP Nagar,Fine Dining,Sushi,"Mexican, Chinese, South Indian, Fast Food",600,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_909, Bangalore",Resto_909,No,Yes,4.5/5,1898,080-5263793,HSR Layout,Quick Service Restaurant,Steak,"Italian, Desserts, Continental, South Indian, Thai",200,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_407, Bangalore",KFC,No,No,3.5/5,2750,080-9937547,Jayanagar,Casual Dining,Steak,"South Indian, Desserts, Italian, Thai, Mexican",2000,Sample Review Text...,5,Buffet,Bengaluru
+"Address_278, Bangalore",Leon Grill,No,No,3.9/5,1268,080-6093108,JP Nagar,Bakery,Biryani,"Italian, Chinese, Desserts, South Indian, Mexican",1500,Sample Review Text...,5,Delivery,Bengaluru
+"Address_222, Bangalore",Burger King,Yes,Yes,4.1/5,652,080-3192032,Indiranagar,Bakery,Salad,"Desserts, Fast Food, South Indian, Continental, Italian",1200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_824, Bangalore",Pizza Hut,No,Yes,NEW,257,080-8481497,Marathahalli,Quick Service Restaurant,Biryani,Fast Food,1500,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_859, Bangalore",Resto_859,No,Yes,2.3/5,2800,080-4040589,Jayanagar,Pub,Salad,Beverages,2000,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_573, Bangalore",McDonald's,Yes,Yes,3.6/5,2206,080-4679813,Marathahalli,Pub,Pizza,"Italian, Mexican, Chinese, Continental, Thai",1500,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_212, Bangalore",Onesta,Yes,No,2.5/5,331,080-4512853,Marathahalli,Quick Service Restaurant,Pasta,"Thai, North Indian",200,Sample Review Text...,2,Buffet,Bengaluru
+"Address_356, Bangalore",Resto_356,No,No,4.4/5,1840,080-9776491,Koramangala,Casual Dining,Salad,"North Indian, Thai, Fast Food",1500,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_310, Bangalore",Resto_310,Yes,No,NEW,1952,080-3747879,Jayanagar,Pub,Burgers,"Desserts, Thai, South Indian, Mexican, Italian",2000,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_234, Bangalore",Resto_234,Yes,Yes,2.6/5,1814,080-3976712,HSR Layout,Fine Dining,Pizza,"Fast Food, Beverages, Italian",800,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_418, Bangalore",Leon Grill,No,No,4.5/5,546,080-7330379,Whitefield,Cafe,Burgers,"Thai, Continental, Italian, North Indian, Desserts",1200,Sample Review Text...,5,Delivery,Bengaluru
+"Address_813, Bangalore",Resto_813,Yes,No,3.6/5,1923,080-1660659,Whitefield,Fine Dining,Pasta,"Chinese, South Indian",2000,Sample Review Text...,2,Cafes,Bengaluru
+"Address_80, Bangalore",Pizza Hut,Yes,No,2.9/5,1851,080-7450545,Koramangala,Casual Dining,Salad,"Continental, Chinese, Beverages",3000,Sample Review Text...,3,Buffet,Bengaluru
+"Address_257, Bangalore",Burger King,Yes,No,3.1/5,2412,080-2406225,Indiranagar,Bakery,Dosa,"Continental, Desserts",800,Sample Review Text...,2,Buffet,Bengaluru
+"Address_295, Bangalore",Burger King,Yes,Yes,3.7/5,2120,080-6283223,Jayanagar,Quick Service Restaurant,Biryani,Continental,800,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_349, Bangalore",Resto_349,Yes,Yes,,376,080-3179482,Koramangala,Pub,Steak,"Fast Food, Chinese",400,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_386, Bangalore",Leon Grill,No,No,2.4/5,668,080-2288937,Koramangala,Quick Service Restaurant,Burgers,"Mexican, Thai, North Indian",1000,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_677, Bangalore",Onesta,No,No,3.6/5,1210,080-6459256,Indiranagar,Cafe,Burgers,Continental,"1,500",Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_916, Bangalore",Onesta,No,No,3.1/5,171,080-7250140,Koramangala,Bakery,Sushi,"North Indian, Thai",200,Sample Review Text...,2,Cafes,Bengaluru
+"Address_971, Bangalore",Resto_971,No,No,2.2/5,887,080-6262923,Koramangala,Pub,Sushi,"Mexican, Chinese, South Indian, Fast Food",800,Sample Review Text...,4,Delivery,Bengaluru
+"Address_628, Bangalore",Resto_628,No,Yes,2.6/5,2429,080-3310537,Indiranagar,Casual Dining,Sushi,"Continental, North Indian, Mexican, South Indian",200,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_666, Bangalore",Resto_666,Yes,No,4.9/5,2359,080-8023372,Marathahalli,Fine Dining,Dosa,"South Indian, Desserts",200,Sample Review Text...,2,Buffet,Bengaluru
+"Address_453, Bangalore",Burger King,No,No,3.2/5,667,080-9609823,Jayanagar,Pub,Pizza,"Desserts, Fast Food",600,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_999, Bangalore",Burger King,No,No,4.5/5,566,080-8079391,Marathahalli,Fine Dining,Sushi,"Beverages, Thai, Continental",2500,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_902, Bangalore",Pizza Hut,Yes,Yes,2.6/5,1162,080-6140518,Koramangala,Bakery,Dosa,"South Indian, Desserts, Beverages","1,200",Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_831, Bangalore",McDonald's,Yes,Yes,4.3/5,2344,080-6258986,,Fine Dining,Pizza,"Fast Food, Italian, Beverages, Desserts, Continental","2,000",Sample Review Text...,5,Cafes,Bengaluru
+"Address_376, Bangalore",McDonald's,No,No,3.6/5,1255,080-1793880,Jayanagar,Bar,Pasta,"Italian, Desserts, Thai",1000,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_636, Bangalore",Resto_636,No,Yes,3.3/5,227,080-8367376,Indiranagar,Quick Service Restaurant,Pizza,"Desserts, South Indian, Italian, Mexican",2500,Sample Review Text...,4,Cafes,Bengaluru
+"Address_117, Bangalore",Resto_117,Yes,No,3.4/5,2790,080-5819172,Jayanagar,Casual Dining,Sushi,"South Indian, Mexican, Desserts, Italian, Thai",800,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_562, Bangalore",Resto_562,Yes,Yes,2.6/5,475,080-5429825,Koramangala,Fine Dining,Pasta,"Fast Food, Thai, Beverages",400,Sample Review Text...,3,Cafes,Bengaluru
+"Address_96, Bangalore",Pizza Hut,Yes,Yes,3.2/5,2101,080-4959345,Jayanagar,Casual Dining,Sushi,"Fast Food, Desserts",200,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_265, Bangalore",Pizza Hut,No,No,4.2/5,1391,080-4697401,Marathahalli,Fine Dining,Burgers,"Fast Food, North Indian, Desserts, Beverages",1000,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_449, Bangalore",Leon Grill,No,Yes,NEW,2260,080-5049009,Whitefield,Pub,Dosa,"South Indian, North Indian, Beverages",2500,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_201, Bangalore",Resto_201,Yes,No,,1357,080-9248001,HSR Layout,Casual Dining,Pizza,"Continental, Thai, North Indian, South Indian",1000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_104, Bangalore",Pizza Hut,Yes,No,2.1/5,2568,080-2005173,Whitefield,Fine Dining,Pasta,"Desserts, Italian, Mexican",1000,Sample Review Text...,3,Cafes,Bengaluru
+"Address_769, Bangalore",Resto_769,No,No,3.5/5,1725,080-6227870,Marathahalli,Bakery,Burgers,"South Indian, Continental, North Indian",400,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_832, Bangalore",McDonald's,Yes,No,4.6/5,2981,080-1990212,Whitefield,Casual Dining,Salad,"Mexican, Italian, Continental, Thai",600,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_654, Bangalore",Resto_654,Yes,No,3.1/5,346,080-4765620,Koramangala,Quick Service Restaurant,Burgers,"Mexican, Desserts, North Indian, Fast Food, Italian",1500,Sample Review Text...,5,Cafes,Bengaluru
+"Address_754, Bangalore",Nandhana Palace,No,No,3.9/5,826,080-8375951,Whitefield,Cafe,Pizza,"Continental, Italian, Beverages, Mexican",1200,Sample Review Text...,4,Cafes,Bengaluru
+"Address_377, Bangalore",Resto_377,Yes,Yes,2.8/5,718,080-8396883,Jayanagar,Cafe,Dosa,"Chinese, North Indian",1200,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_817, Bangalore",Resto_817,No,Yes,2.1/5,2556,080-5534607,Koramangala,Fine Dining,Steak,"North Indian, Continental, Mexican, Chinese, Italian",1500,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_736, Bangalore",Resto_736,No,No,4.7/5,2655,080-6189331,Jayanagar,Bar,Burgers,"Desserts, South Indian, Fast Food, Italian, North Indian",400,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_112, Bangalore",KFC,Yes,No,3.8/5,2538,080-6262886,MG Road,Cafe,Steak,"North Indian, Chinese",800,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_83, Bangalore",Leon Grill,No,Yes,2.4/5,1432,080-6510922,Whitefield,Fine Dining,Pasta,"South Indian, Chinese, Continental, Desserts",1500,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_411, Bangalore",Resto_411,Yes,No,3.9/5,369,080-3024047,MG Road,Bar,Dosa,"Italian, Chinese",3000,Sample Review Text...,2,Cafes,Bengaluru
+"Address_750, Bangalore",Empire Restaurant,Yes,Yes,3.2/5,1992,080-9459266,Koramangala,Bar,Sushi,"North Indian, Beverages, Thai, Fast Food, Continental","1,500",Sample Review Text...,5,Buffet,Bengaluru
+"Address_826, Bangalore",Resto_826,No,No,3.3/5,1651,080-1410703,Marathahalli,Bar,Pasta,"Desserts, South Indian, Beverages, Thai",1500,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_484, Bangalore",Resto_484,No,Yes,4.8/5,2002,080-9533123,HSR Layout,Fine Dining,Steak,Desserts,3000,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_593, Bangalore",Leon Grill,No,Yes,4.8/5,2783,080-3092879,Koramangala,Quick Service Restaurant,Salad,"North Indian, Continental, Beverages","2,500",Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_419, Bangalore",KFC,Yes,No,4.0/5,691,080-2968815,Koramangala,Bakery,Biryani,"Mexican, Continental, South Indian, North Indian, Desserts",600,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_638, Bangalore",Resto_638,No,Yes,4.4/5,606,080-8457126,Koramangala,Quick Service Restaurant,Biryani,"Chinese, Mexican, North Indian, Continental",1000,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_986, Bangalore",Empire Restaurant,No,Yes,4.0/5,941,080-6666017,MG Road,Fine Dining,Pizza,"Continental, Beverages, Fast Food, Thai, Chinese","1,000",Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_937, Bangalore",Resto_937,Yes,Yes,4.1/5,802,080-4785362,HSR Layout,Cafe,Pasta,"Continental, Desserts",200,Sample Review Text...,2,Delivery,Bengaluru
+"Address_657, Bangalore",Resto_657,No,Yes,4.2/5,1211,080-1207016,JP Nagar,Pub,Pizza,"North Indian, Continental, Thai, South Indian",1000,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_686, Bangalore",Empire Restaurant,No,Yes,3.4/5,446,080-9217672,Whitefield,Quick Service Restaurant,Burgers,"Chinese, Fast Food",2500,Sample Review Text...,2,Delivery,Bengaluru
+"Address_862, Bangalore",Nandhana Palace,Yes,Yes,4.1/5,2478,080-7178852,Koramangala,Bakery,Pizza,"Thai, Mexican, North Indian, Fast Food",,Sample Review Text...,4,Cafes,Bengaluru
+"Address_371, Bangalore",McDonald's,Yes,Yes,3.3/5,167,080-4434507,JP Nagar,Quick Service Restaurant,Pasta,"Beverages, Chinese",2500,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_941, Bangalore",Nandhana Palace,Yes,Yes,4.0/5,463,080-1851580,Marathahalli,Bakery,Pizza,"South Indian, North Indian, Fast Food, Continental, Chinese",600,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_956, Bangalore",Resto_956,No,Yes,4.8/5,2506,080-9799214,Marathahalli,Bar,Biryani,"Mexican, Chinese, Desserts","2,500",Sample Review Text...,3,Delivery,Bengaluru
+"Address_929, Bangalore",Pizza Hut,Yes,No,4.5/5,1953,080-1287658,MG Road,Quick Service Restaurant,Burgers,"Desserts, Italian","2,000",Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_923, Bangalore",KFC,No,Yes,4.5/5,2362,080-9854698,HSR Layout,Bakery,Dosa,"Italian, North Indian, Mexican, Chinese, Continental",1500,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_152, Bangalore",Leon Grill,Yes,Yes,3.0/5,1746,080-4310554,Marathahalli,Cafe,Salad,"South Indian, Fast Food, Mexican, Italian",200,Sample Review Text...,4,Buffet,Bengaluru
+"Address_519, Bangalore",Nandhana Palace,Yes,Yes,3.1/5,1133,080-2691296,Indiranagar,Quick Service Restaurant,Biryani,Fast Food,800,Sample Review Text...,1,Delivery,Bengaluru
+"Address_452, Bangalore",Resto_452,No,No,NEW,254,080-9706452,MG Road,Cafe,Steak,"Italian, Desserts, Chinese, South Indian",2500,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_249, Bangalore",Nandhana Palace,No,No,3.9/5,2515,080-3452813,Jayanagar,Bar,Salad,"South Indian, Desserts, Fast Food, Chinese, Continental",3000,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_102, Bangalore",Leon Grill,Yes,No,4.5/5,508,080-9705660,Jayanagar,Quick Service Restaurant,Dosa,"South Indian, Thai",800,Sample Review Text...,2,Delivery,Bengaluru
+"Address_897, Bangalore",Nandhana Palace,No,No,3.2/5,1356,080-1954674,Whitefield,Casual Dining,Steak,"South Indian, Desserts",400,Sample Review Text...,2,Cafes,Bengaluru
+"Address_930, Bangalore",KFC,Yes,Yes,3.1/5,1043,080-5744820,Indiranagar,Quick Service Restaurant,Dosa,"Continental, Mexican, North Indian, Desserts, Fast Food",400,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_239, Bangalore",McDonald's,No,No,,2668,080-2098434,HSR Layout,Quick Service Restaurant,Burgers,"Chinese, Fast Food, South Indian, Mexican, Continental",2500,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_939, Bangalore",Burger King,Yes,Yes,2.6/5,629,080-9906450,,Casual Dining,Sushi,"Italian, South Indian, Continental, Thai",2500,Sample Review Text...,4,Cafes,Bengaluru
+"Address_955, Bangalore",Onesta,No,Yes,3.8/5,813,080-7794680,HSR Layout,Pub,Sushi,Italian,2000,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_108, Bangalore",Resto_108,Yes,No,2.8/5,1498,080-4265774,MG Road,Quick Service Restaurant,Sushi,Mexican,200,Sample Review Text...,1,Buffet,Bengaluru
+"Address_455, Bangalore",Resto_455,No,No,2.1/5,585,080-9200596,Jayanagar,Bar,Biryani,"Mexican, North Indian, Continental, South Indian, Chinese",600,Sample Review Text...,5,Delivery,Bengaluru
+"Address_890, Bangalore",Nandhana Palace,No,No,NEW,1905,080-1679886,MG Road,Fine Dining,Salad,"Chinese, Continental, Thai, Mexican",2500,Sample Review Text...,4,Delivery,Bengaluru
+"Address_926, Bangalore",Resto_926,Yes,No,2.4/5,2966,080-8439215,Indiranagar,Bar,Burgers,"Thai, Mexican, Beverages",2500,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_18, Bangalore",Pizza Hut,Yes,Yes,4.6/5,2266,080-5428914,Jayanagar,Quick Service Restaurant,Salad,"Fast Food, Italian, Thai",800,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_619, Bangalore",McDonald's,Yes,Yes,4.1/5,1730,080-9281506,HSR Layout,Quick Service Restaurant,Steak,"Mexican, South Indian",3000,Sample Review Text...,2,Delivery,Bengaluru
+"Address_167, Bangalore",KFC,Yes,Yes,2.4/5,2990,080-5780177,MG Road,Quick Service Restaurant,Biryani,"Thai, South Indian, Italian, Beverages",400,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_0, Bangalore",Empire Restaurant,No,Yes,4.1/5,2771,080-1445199,Indiranagar,Pub,Burgers,"North Indian, Fast Food, Chinese, Desserts",800,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_556, Bangalore",Nandhana Palace,No,Yes,3.4/5,1369,080-3186206,Whitefield,Casual Dining,Sushi,North Indian,2500,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_687, Bangalore",Resto_687,No,Yes,NEW,2021,080-7820513,Whitefield,Bakery,Biryani,"Thai, South Indian, North Indian",1200,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_964, Bangalore",Empire Restaurant,Yes,Yes,3.6/5,2161,080-9868569,Marathahalli,Bar,Pasta,"Thai, Continental",800,Sample Review Text...,2,Cafes,Bengaluru
+"Address_332, Bangalore",Resto_332,Yes,Yes,3.8/5,1488,080-2893930,MG Road,Cafe,Sushi,"Thai, Desserts, Beverages",200,Sample Review Text...,3,Cafes,Bengaluru
+"Address_919, Bangalore",Resto_919,No,No,3.2/5,107,080-2679778,Whitefield,Quick Service Restaurant,Sushi,"Chinese, South Indian",2500,Sample Review Text...,2,Delivery,Bengaluru
+"Address_951, Bangalore",Burger King,Yes,Yes,4.3/5,336,080-7541115,Marathahalli,Bar,Pasta,Mexican,"1,000",Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_953, Bangalore",Pizza Hut,No,Yes,4.1/5,1508,080-2032303,HSR Layout,Pub,Sushi,"Beverages, South Indian, Continental, Fast Food, Thai",600,Sample Review Text...,5,Delivery,Bengaluru
+"Address_849, Bangalore",Empire Restaurant,Yes,Yes,4.5/5,2907,080-4155287,Whitefield,Fine Dining,Burgers,"Italian, Continental, North Indian, Thai","1,000",Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_396, Bangalore",Onesta,No,Yes,,2761,080-2426162,Marathahalli,Fine Dining,Pizza,Mexican,2000,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_299, Bangalore",Resto_299,No,No,3.7/5,368,080-1827302,HSR Layout,Bakery,Steak,"Mexican, South Indian, Beverages",1200,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_975, Bangalore",Burger King,Yes,Yes,2.6/5,1146,080-8533390,Whitefield,Casual Dining,Pasta,"Desserts, Fast Food, Continental, Italian",600,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_182, Bangalore",Resto_182,Yes,Yes,,910,080-2081661,Jayanagar,Cafe,Burgers,"Thai, Chinese, Continental, Mexican",400,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_570, Bangalore",Nandhana Palace,No,Yes,3.8/5,729,080-6059400,MG Road,Pub,Dosa,"Fast Food, South Indian, Mexican",600,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_912, Bangalore",Pizza Hut,Yes,No,3.2/5,1746,080-2150745,,Fine Dining,Pizza,"Thai, Chinese",1000,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_788, Bangalore",Onesta,Yes,No,NEW,1652,080-6220992,MG Road,Bar,Sushi,"Mexican, Desserts, South Indian, Fast Food",1200,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_528, Bangalore",Resto_528,Yes,No,4.0/5,1959,080-4533501,HSR Layout,Bakery,Burgers,"Mexican, North Indian, Thai",600,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_552, Bangalore",Burger King,No,No,2.2/5,1756,080-2929715,HSR Layout,Pub,Dosa,"Beverages, South Indian",800,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_816, Bangalore",Burger King,Yes,No,2.6/5,1147,080-8263690,Koramangala,Bakery,Sushi,"South Indian, North Indian, Italian",1000,Sample Review Text...,3,Delivery,Bengaluru
+"Address_548, Bangalore",Resto_548,No,Yes,2.0/5,1764,080-7890722,Marathahalli,Cafe,Pizza,Beverages,"2,500",Sample Review Text...,1,Cafes,Bengaluru
+"Address_343, Bangalore",Leon Grill,Yes,No,3.8/5,1174,080-5713926,Marathahalli,Casual Dining,Dosa,"Beverages, Chinese",1000,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_776, Bangalore",Burger King,No,Yes,4.3/5,1887,080-7914627,Koramangala,Bakery,Biryani,"North Indian, Italian, South Indian, Fast Food",1200,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_232, Bangalore",Nandhana Palace,Yes,No,3.9/5,818,080-5951637,Whitefield,Bar,Burgers,"Continental, Fast Food",600,Sample Review Text...,2,Buffet,Bengaluru
+"Address_381, Bangalore",Empire Restaurant,No,No,4.5/5,1514,080-8475525,MG Road,Quick Service Restaurant,Pizza,Continental,1200,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_821, Bangalore",Leon Grill,Yes,Yes,,2808,080-9880742,HSR Layout,Cafe,Burgers,Chinese,1500,Sample Review Text...,1,Cafes,Bengaluru
+"Address_362, Bangalore",Pizza Hut,No,No,,965,080-4250065,HSR Layout,Casual Dining,Pizza,"Chinese, Thai, Italian, Desserts, Beverages",800,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_617, Bangalore",KFC,No,Yes,NEW,1732,080-2848835,Jayanagar,Fine Dining,Burgers,"Fast Food, Chinese, South Indian","2,000",Sample Review Text...,3,Delivery,Bengaluru
+"Address_317, Bangalore",Resto_317,Yes,Yes,,1036,080-8981122,Koramangala,Bakery,Salad,"Desserts, Beverages, North Indian, Continental",2000,Sample Review Text...,4,Cafes,Bengaluru
+"Address_703, Bangalore",Resto_703,No,No,NEW,2966,080-5816345,HSR Layout,Quick Service Restaurant,Pasta,"South Indian, Continental",200,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_756, Bangalore",Nandhana Palace,No,No,2.9/5,782,080-7375830,HSR Layout,Casual Dining,Steak,"Thai, Desserts, Continental, Beverages, North Indian",2000,Sample Review Text...,5,Cafes,Bengaluru
+"Address_340, Bangalore",Onesta,No,No,3.2/5,30,080-7156735,Marathahalli,Bar,Biryani,"Beverages, Continental","1,500",Sample Review Text...,2,Delivery,Bengaluru
+"Address_806, Bangalore",Onesta,No,No,3.1/5,973,080-7042065,Marathahalli,Pub,Burgers,"Thai, Desserts, Beverages",600,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_601, Bangalore",Pizza Hut,Yes,Yes,3.9/5,2373,080-4030429,Indiranagar,Casual Dining,Pizza,"Fast Food, Chinese, Beverages, Desserts",1000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_403, Bangalore",KFC,Yes,No,4.6/5,268,080-8087921,Whitefield,Casual Dining,Steak,"South Indian, North Indian, Thai",200,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_554, Bangalore",Resto_554,Yes,Yes,3.1/5,2150,080-9554093,Whitefield,Fine Dining,Steak,"Italian, Thai",1500,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_135, Bangalore",Empire Restaurant,Yes,Yes,3.9/5,26,080-8650572,MG Road,Cafe,Sushi,"Chinese, South Indian",200,Sample Review Text...,2,Delivery,Bengaluru
+"Address_189, Bangalore",Resto_189,Yes,Yes,4.5/5,297,080-3642476,,Fine Dining,Steak,"Fast Food, Chinese, Thai, South Indian",1200,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_301, Bangalore",Burger King,No,No,3.0/5,2684,080-1752920,Koramangala,Bar,Burgers,"South Indian, Thai, Desserts",3000,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_48, Bangalore",Onesta,No,No,3.6/5,1862,080-1019311,Indiranagar,Quick Service Restaurant,Salad,"Thai, Chinese, Mexican","2,500",Sample Review Text...,3,Cafes,Bengaluru
+"Address_700, Bangalore",Empire Restaurant,No,No,2.5/5,2403,080-2031520,JP Nagar,Pub,Pizza,Mexican,"1,500",Sample Review Text...,1,Dine-out,Bengaluru
+"Address_652, Bangalore",KFC,No,No,4.5/5,1816,080-1905928,Whitefield,Quick Service Restaurant,Sushi,"Continental, Italian, Fast Food, South Indian, Thai",2500,Sample Review Text...,5,Cafes,Bengaluru
+"Address_688, Bangalore",Onesta,No,No,2.7/5,1889,080-1228581,Marathahalli,Pub,Pasta,"Chinese, Fast Food, Mexican, Thai, North Indian",1500,Sample Review Text...,5,Buffet,Bengaluru
+"Address_823, Bangalore",KFC,Yes,No,2.7/5,1616,080-5039461,Whitefield,Pub,Biryani,"Beverages, Continental, Italian, Desserts","1,000",Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_851, Bangalore",Leon Grill,No,No,3.7/5,1524,080-2450315,Marathahalli,Quick Service Restaurant,Dosa,"South Indian, Desserts, Mexican","1,200",Sample Review Text...,3,Dine-out,Bengaluru
+"Address_748, Bangalore",Nandhana Palace,No,No,4.5/5,2415,080-5374141,Whitefield,Pub,Dosa,"Beverages, Chinese",2000,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_957, Bangalore",KFC,Yes,Yes,3.0/5,1699,080-7329894,Indiranagar,Pub,Sushi,"Fast Food, Beverages",200,Sample Review Text...,2,Cafes,Bengaluru
+"Address_290, Bangalore",Resto_290,No,No,-,2143,080-4214793,Indiranagar,Casual Dining,Pizza,"South Indian, North Indian",800,Sample Review Text...,2,Delivery,Bengaluru
+"Address_370, Bangalore",Empire Restaurant,Yes,No,3.0/5,133,080-6632022,Whitefield,Bakery,Biryani,"Fast Food, Beverages, Italian",400,Sample Review Text...,3,Buffet,Bengaluru
+"Address_927, Bangalore",Resto_927,No,No,3.9/5,2712,080-3660952,HSR Layout,Bakery,Biryani,"Continental, Mexican, North Indian, South Indian",200,Sample Review Text...,4,Delivery,Bengaluru
+"Address_866, Bangalore",Onesta,No,Yes,NEW,1588,080-2217859,Indiranagar,Cafe,Pasta,"Beverages, South Indian",400,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_752, Bangalore",Resto_752,No,Yes,3.7/5,1859,080-4778731,MG Road,Casual Dining,Sushi,"Fast Food, Continental, North Indian, Beverages",1500,Sample Review Text...,4,Cafes,Bengaluru
+"Address_620, Bangalore",KFC,Yes,Yes,-,146,080-7787380,Whitefield,Cafe,Steak,Beverages,400,Sample Review Text...,1,Cafes,Bengaluru
+"Address_92, Bangalore",Nandhana Palace,No,Yes,,2236,080-2058651,JP Nagar,Bar,Salad,"Desserts, Fast Food",,Sample Review Text...,2,Delivery,Bengaluru
+"Address_440, Bangalore",Leon Grill,No,Yes,3.3/5,2079,080-7549342,HSR Layout,Pub,Steak,"Fast Food, Desserts, South Indian",1000,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_448, Bangalore",Resto_448,No,Yes,3.3/5,840,080-6611860,Marathahalli,Fine Dining,Steak,"Mexican, Italian, Continental",400,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_361, Bangalore",Onesta,Yes,Yes,2.8/5,1844,080-9386722,MG Road,Cafe,Pizza,"Fast Food, North Indian",3000,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_379, Bangalore",Resto_379,No,No,2.8/5,2349,080-2960855,Jayanagar,Bar,Dosa,"Desserts, Thai, Chinese, Beverages, Italian",200,Sample Review Text...,5,Delivery,Bengaluru
+"Address_466, Bangalore",Pizza Hut,No,No,4.9/5,1399,080-1160702,HSR Layout,Bakery,Pasta,"Thai, North Indian, South Indian, Fast Food, Beverages",3000,Sample Review Text...,5,Cafes,Bengaluru
+"Address_647, Bangalore",Empire Restaurant,No,No,3.0/5,243,080-1593277,Jayanagar,Cafe,Sushi,"Thai, North Indian, Italian, Desserts, Beverages","3,000",Sample Review Text...,5,Delivery,Bengaluru
+"Address_282, Bangalore",Resto_282,Yes,Yes,2.8/5,512,080-9280890,Marathahalli,Fine Dining,Burgers,Italian,400,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_729, Bangalore",KFC,Yes,No,4.5/5,717,080-1518244,Marathahalli,Fine Dining,Burgers,"Thai, South Indian",1000,Sample Review Text...,2,Buffet,Bengaluru
+"Address_888, Bangalore",Burger King,No,No,2.1/5,1995,080-3469105,HSR Layout,Bar,Salad,Italian,1500,Sample Review Text...,1,Buffet,Bengaluru
+"Address_779, Bangalore",Onesta,Yes,No,4.5/5,1988,080-6209788,JP Nagar,Quick Service Restaurant,Dosa,"Thai, South Indian, Beverages, Desserts",,Sample Review Text...,4,Buffet,Bengaluru
+"Address_572, Bangalore",Onesta,Yes,Yes,4.8/5,1140,080-8110722,Jayanagar,Casual Dining,Salad,"South Indian, Fast Food, Mexican",1200,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_721, Bangalore",KFC,No,No,4.3/5,1133,080-7951217,Koramangala,Pub,Pasta,"South Indian, Continental, Beverages, North Indian",1500,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_664, Bangalore",Onesta,No,No,3.7/5,999,080-8465986,JP Nagar,Cafe,Steak,"Italian, Desserts, Thai",400,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_213, Bangalore",Onesta,Yes,Yes,3.8/5,1652,080-6405839,MG Road,Bakery,Burgers,"North Indian, Fast Food, Italian, Thai","1,200",Sample Review Text...,4,Delivery,Bengaluru
+"Address_261, Bangalore",McDonald's,Yes,Yes,3.8/5,373,080-1633429,Jayanagar,Bakery,Steak,"Mexican, Chinese, Beverages, South Indian, Desserts",1200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_86, Bangalore",Pizza Hut,No,Yes,4.7/5,1804,080-3321942,Marathahalli,Bar,Dosa,"Mexican, Beverages, Fast Food",600,Sample Review Text...,3,Delivery,Bengaluru
+"Address_583, Bangalore",Leon Grill,Yes,No,2.4/5,1191,080-3556871,JP Nagar,Pub,Salad,"North Indian, Mexican, Italian, Chinese",3000,Sample Review Text...,4,Delivery,Bengaluru
+"Address_768, Bangalore",Empire Restaurant,No,Yes,4.9/5,683,080-3550993,JP Nagar,Cafe,Steak,South Indian,3000,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_360, Bangalore",Resto_360,Yes,No,2.0/5,1994,080-5760225,Indiranagar,Casual Dining,Steak,South Indian,400,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_346, Bangalore",Onesta,No,No,4.2/5,2181,080-8529960,HSR Layout,Bakery,Steak,"Desserts, Continental, South Indian, Beverages",1500,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_161, Bangalore",Resto_161,Yes,No,3.1/5,309,080-2562657,Indiranagar,Bakery,Salad,"Continental, Thai, Desserts, Italian, South Indian",3000,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_193, Bangalore",Empire Restaurant,No,Yes,4.8/5,303,080-9098979,JP Nagar,Cafe,Biryani,"South Indian, Chinese, Beverages, Fast Food","3,000",Sample Review Text...,4,Cafes,Bengaluru
+"Address_491, Bangalore",Empire Restaurant,No,Yes,2.4/5,39,080-7767404,Marathahalli,Bar,Dosa,"Thai, Italian, Mexican",1500,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_853, Bangalore",Burger King,Yes,No,4.9/5,2228,080-3763239,Koramangala,Pub,Burgers,Fast Food,200,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_578, Bangalore",Pizza Hut,No,Yes,2.5/5,376,080-2295356,MG Road,Cafe,Salad,"Mexican, North Indian",800,Sample Review Text...,2,Cafes,Bengaluru
+"Address_75, Bangalore",Empire Restaurant,Yes,No,2.2/5,837,080-9344741,Whitefield,Cafe,Steak,"Continental, Fast Food",1200,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_915, Bangalore",McDonald's,Yes,No,4.3/5,1771,080-2122405,Indiranagar,Bar,Burgers,"Mexican, Italian, South Indian, Chinese, Continental",2000,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_771, Bangalore",Pizza Hut,Yes,No,4.1/5,2753,080-9795303,Jayanagar,Cafe,Pizza,"South Indian, Continental, Thai, North Indian",400,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_539, Bangalore",Pizza Hut,Yes,No,3.9/5,2094,080-5152322,Jayanagar,Bakery,Pizza,"Thai, Mexican",1500,Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_347, Bangalore",Resto_347,Yes,Yes,3.8/5,1768,080-5056679,Whitefield,Quick Service Restaurant,Burgers,"Continental, Chinese, Fast Food",3000,Sample Review Text...,3,Buffet,Bengaluru
+"Address_454, Bangalore",Resto_454,No,Yes,4.7/5,1512,080-3572022,Indiranagar,Pub,Pizza,"Chinese, Fast Food, Thai, Continental",1000,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_822, Bangalore",Onesta,Yes,No,4.0/5,250,080-4176691,Marathahalli,Cafe,Pizza,"North Indian, Chinese, South Indian, Beverages, Desserts",600,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_131, Bangalore",KFC,Yes,No,3.8/5,161,080-1257256,Indiranagar,Cafe,Burgers,"Beverages, Italian, Desserts, Chinese, South Indian","1,000",Sample Review Text...,5,Dine-out,Bengaluru
+"Address_178, Bangalore",Resto_178,Yes,Yes,3.5/5,2870,080-7616116,JP Nagar,Bakery,Pizza,Fast Food,400,Sample Review Text...,1,Buffet,Bengaluru
+"Address_668, Bangalore",KFC,No,Yes,4.4/5,1378,080-7859779,Indiranagar,Fine Dining,Salad,Chinese,"1,200",Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_504, Bangalore",McDonald's,Yes,No,2.6/5,2695,080-9381494,Whitefield,Fine Dining,Pizza,"Thai, North Indian, Chinese, Desserts, Italian",1000,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_787, Bangalore",Resto_787,No,Yes,2.2/5,260,080-4008839,MG Road,Fine Dining,Pasta,"Italian, Fast Food",3000,Sample Review Text...,2,Delivery,Bengaluru
+"Address_198, Bangalore",Onesta,Yes,No,3.1/5,2925,080-3804559,Koramangala,Pub,Burgers,"Beverages, South Indian, Chinese, Mexican, Italian",600,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_818, Bangalore",Resto_818,No,No,2.4/5,1418,080-8547636,Whitefield,Pub,Pizza,"Desserts, Continental",1000,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_439, Bangalore",Empire Restaurant,No,No,2.8/5,2655,080-6817736,MG Road,Bakery,Salad,Desserts,"3,000",Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_231, Bangalore",Pizza Hut,No,Yes,3.9/5,728,080-8004117,JP Nagar,Fine Dining,Dosa,Thai,2500,Sample Review Text...,1,Cafes,Bengaluru
+"Address_405, Bangalore",McDonald's,Yes,No,3.3/5,2035,080-4789737,Indiranagar,Bar,Pizza,"Italian, Continental, Beverages, North Indian, South Indian",3000,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_604, Bangalore",Resto_604,Yes,Yes,2.3/5,888,080-9079485,Koramangala,Quick Service Restaurant,Burgers,"Italian, Chinese",600,Sample Review Text...,2,Delivery,Bengaluru
+"Address_984, Bangalore",Leon Grill,Yes,No,2.5/5,1611,080-3522295,JP Nagar,Casual Dining,Pizza,"Beverages, Desserts, Chinese",1000,Sample Review Text...,3,Buffet,Bengaluru
+"Address_25, Bangalore",Leon Grill,Yes,No,3.1/5,712,080-6406444,Whitefield,Bakery,Salad,"North Indian, Continental, Beverages, Chinese, Italian",3000,Sample Review Text...,5,Cafes,Bengaluru
+"Address_658, Bangalore",McDonald's,No,Yes,2.1/5,36,080-2334575,Marathahalli,Casual Dining,Dosa,"Desserts, Beverages, Italian",1500,Sample Review Text...,3,Buffet,Bengaluru
+"Address_970, Bangalore",Burger King,Yes,Yes,3.6/5,1778,080-5463386,JP Nagar,Casual Dining,Pizza,"South Indian, Mexican, Thai, Continental, Desserts",600,Sample Review Text...,5,Buffet,Bengaluru
+"Address_526, Bangalore",KFC,Yes,No,2.9/5,1557,080-7512001,Koramangala,Quick Service Restaurant,Steak,Fast Food,2500,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_558, Bangalore",Nandhana Palace,Yes,No,3.4/5,827,080-6827390,Jayanagar,Casual Dining,Sushi,"Italian, Mexican",2500,Sample Review Text...,2,Cafes,Bengaluru
+"Address_173, Bangalore",Pizza Hut,Yes,No,3.7/5,315,080-5280137,Marathahalli,Bakery,Pizza,"Thai, North Indian, Desserts, Mexican, Continental",600,Sample Review Text...,5,Buffet,Bengaluru
+"Address_587, Bangalore",Resto_587,No,Yes,4.5/5,2740,080-2817783,Indiranagar,Quick Service Restaurant,Steak,"Desserts, Beverages, Fast Food, North Indian",400,Sample Review Text...,4,Cafes,Bengaluru
+"Address_437, Bangalore",KFC,Yes,No,2.4/5,1728,080-8541631,Koramangala,Casual Dining,Burgers,"South Indian, Desserts",2000,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_331, Bangalore",Resto_331,No,No,4.4/5,2920,080-6207508,Indiranagar,Bar,Salad,"Fast Food, South Indian, Chinese, Mexican",2000,Sample Review Text...,4,Cafes,Bengaluru
+"Address_986, Bangalore",Empire Restaurant,No,Yes,4.0/5,941,080-6666017,MG Road,Fine Dining,Pizza,"Continental, Beverages, Fast Food, Thai, Chinese","1,000",Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_430, Bangalore",Pizza Hut,Yes,Yes,4.3/5,1270,080-8473283,Jayanagar,Quick Service Restaurant,Steak,Thai,2500,Sample Review Text...,1,Cafes,Bengaluru
+"Address_342, Bangalore",Empire Restaurant,No,No,3.4/5,1357,080-5369510,MG Road,Quick Service Restaurant,Biryani,"Continental, South Indian, North Indian",3000,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_300, Bangalore",Resto_300,No,Yes,3.4/5,811,080-6425946,Marathahalli,Bakery,Pizza,"Italian, Beverages, Fast Food, Chinese, North Indian",1000,Sample Review Text...,5,Delivery,Bengaluru
+"Address_7, Bangalore",Onesta,Yes,No,4.2/5,2079,080-9897858,Indiranagar,Bar,Biryani,"Beverages, Italian, South Indian",1200,Sample Review Text...,3,Buffet,Bengaluru
+"Address_64, Bangalore",Pizza Hut,Yes,No,3.3/5,967,080-3049499,JP Nagar,Casual Dining,Salad,"Beverages, Thai, North Indian",1500,Sample Review Text...,3,Delivery,Bengaluru
+"Address_479, Bangalore",McDonald's,No,No,2.3/5,172,080-4575870,Marathahalli,Cafe,Burgers,Italian,800,Sample Review Text...,1,Cafes,Bengaluru
+"Address_727, Bangalore",Leon Grill,No,No,,1368,080-8017399,Marathahalli,Fine Dining,Steak,"Chinese, Mexican",3000,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_481, Bangalore",Resto_481,No,Yes,2.6/5,1163,080-3954088,Jayanagar,Cafe,Dosa,"South Indian, Thai, Italian",600,Sample Review Text...,3,Delivery,Bengaluru
+"Address_978, Bangalore",Resto_978,Yes,Yes,NEW,669,080-9611651,Koramangala,Bakery,Sushi,Italian,1500,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_323, Bangalore",Resto_323,No,No,2.9/5,2075,080-1488508,JP Nagar,Bar,Pasta,Chinese,1200,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_904, Bangalore",Resto_904,No,Yes,2.2/5,1362,080-6075879,JP Nagar,Pub,Burgers,"Desserts, Mexican",1500,Sample Review Text...,2,Cafes,Bengaluru
+"Address_444, Bangalore",Nandhana Palace,Yes,Yes,2.3/5,841,080-7102492,JP Nagar,Cafe,Sushi,"Desserts, Beverages, Fast Food",400,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_200, Bangalore",Empire Restaurant,No,Yes,2.4/5,2408,080-8936405,Indiranagar,Casual Dining,Biryani,"Chinese, Continental, Thai, Italian, South Indian",1500,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_928, Bangalore",Pizza Hut,Yes,No,-,1176,080-9885085,Jayanagar,Quick Service Restaurant,Pizza,"South Indian, Mexican, North Indian",2000,Sample Review Text...,3,Buffet,Bengaluru
+"Address_683, Bangalore",Pizza Hut,Yes,Yes,NEW,2957,080-2603174,MG Road,Casual Dining,Steak,Beverages,"3,000",Sample Review Text...,1,Dine-out,Bengaluru
+"Address_868, Bangalore",Burger King,Yes,Yes,2.8/5,307,080-3442155,MG Road,Pub,Biryani,Mexican,400,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_275, Bangalore",Resto_275,Yes,No,2.8/5,1095,080-1387572,MG Road,Quick Service Restaurant,Pasta,"Thai, Beverages, Desserts, Italian",600,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_303, Bangalore",KFC,Yes,No,3.8/5,578,080-5551347,Koramangala,Bakery,Biryani,"Beverages, North Indian, Continental, Chinese, Fast Food",1000,Sample Review Text...,5,Cafes,Bengaluru
+"Address_324, Bangalore",Resto_324,No,No,4.3/5,2644,080-7944979,Jayanagar,Bakery,Biryani,"Desserts, Beverages",,Sample Review Text...,2,Buffet,Bengaluru
+"Address_660, Bangalore",Resto_660,No,No,,2938,080-4937559,HSR Layout,Casual Dining,Sushi,"Continental, North Indian, Thai",2500,Sample Review Text...,3,Delivery,Bengaluru
+"Address_766, Bangalore",Resto_766,No,No,NEW,1496,080-8674459,MG Road,Fine Dining,Pizza,Beverages,600,Sample Review Text...,1,Delivery,Bengaluru
+"Address_468, Bangalore",KFC,No,Yes,2.1/5,1151,080-4710242,JP Nagar,Cafe,Burgers,Fast Food,"1,000",Sample Review Text...,1,Cafes,Bengaluru
+"Address_561, Bangalore",Pizza Hut,No,Yes,2.8/5,487,080-3485367,Jayanagar,Cafe,Dosa,Beverages,800,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_493, Bangalore",Onesta,No,Yes,4.0/5,727,080-4909752,Koramangala,Bar,Dosa,"Desserts, North Indian, South Indian, Chinese, Beverages",1500,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_575, Bangalore",Empire Restaurant,Yes,Yes,4.0/5,1546,080-3653705,Koramangala,Fine Dining,Biryani,"Thai, North Indian, Chinese, Fast Food",3000,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_778, Bangalore",McDonald's,No,No,2.5/5,2047,080-2699501,Indiranagar,Quick Service Restaurant,Pizza,"Fast Food, Beverages, Italian","1,200",Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_34, Bangalore",Resto_34,Yes,Yes,2.6/5,83,080-8801975,Jayanagar,Cafe,Dosa,"Desserts, Chinese","3,000",Sample Review Text...,2,Drinks & nightlife,Bengaluru
+"Address_267, Bangalore",Resto_267,Yes,No,2.6/5,1022,080-9265544,JP Nagar,Cafe,Biryani,Chinese,400,Sample Review Text...,1,Buffet,Bengaluru
+"Address_669, Bangalore",Pizza Hut,No,Yes,4.1/5,2414,080-8608923,Indiranagar,Cafe,Steak,Fast Food,3000,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_431, Bangalore",Resto_431,No,Yes,4.4/5,2514,080-3601637,Jayanagar,Bakery,Salad,"Chinese, North Indian, Thai, Italian",800,Sample Review Text...,4,Buffet,Bengaluru
+"Address_880, Bangalore",Resto_880,No,Yes,4.6/5,1554,080-7031754,Marathahalli,Casual Dining,Steak,"Italian, Chinese, Desserts, Thai, North Indian",1500,Sample Review Text...,5,Delivery,Bengaluru
+"Address_61, Bangalore",Leon Grill,Yes,No,4.3/5,1498,080-5398338,Indiranagar,Bar,Steak,"North Indian, Continental, Chinese, Italian",1200,Sample Review Text...,4,Pubs and bars,Bengaluru
+"Address_476, Bangalore",Empire Restaurant,No,No,2.3/5,50,080-8063325,Indiranagar,Pub,Salad,"Fast Food, South Indian",2500,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_15, Bangalore",Nandhana Palace,Yes,Yes,4.0/5,963,080-6307805,MG Road,Casual Dining,Dosa,"Italian, North Indian, Chinese, Fast Food, Thai",3000,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_694, Bangalore",Resto_694,Yes,No,2.9/5,213,080-5039498,Jayanagar,Pub,Steak,"Mexican, Desserts, Thai, South Indian",2500,Sample Review Text...,4,Cafes,Bengaluru
+"Address_254, Bangalore",Resto_254,Yes,No,3.5/5,1660,080-9081054,Koramangala,Fine Dining,Pasta,"Chinese, Italian, Desserts","3,000",Sample Review Text...,3,Dine-out,Bengaluru
+"Address_126, Bangalore",Leon Grill,No,Yes,3.6/5,2166,080-8115687,Jayanagar,Fine Dining,Steak,"North Indian, Fast Food",1000,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_631, Bangalore",Onesta,Yes,No,4.4/5,393,080-8054914,Jayanagar,Pub,Steak,"Thai, Beverages, Fast Food, Italian",1200,Sample Review Text...,4,Cafes,Bengaluru
+"Address_936, Bangalore",Nandhana Palace,Yes,Yes,2.8/5,1749,080-1358384,,Quick Service Restaurant,Dosa,"Beverages, South Indian, North Indian, Thai",400,Sample Review Text...,4,Dine-out,Bengaluru
+"Address_597, Bangalore",Burger King,Yes,No,3.5/5,1096,080-7281485,Whitefield,Quick Service Restaurant,Sushi,"Italian, North Indian, Mexican, Beverages",200,Sample Review Text...,4,Drinks & nightlife,Bengaluru
+"Address_883, Bangalore",Leon Grill,Yes,No,3.5/5,949,080-8889458,Indiranagar,Pub,Steak,Fast Food,600,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_636, Bangalore",Resto_636,No,Yes,3.3/5,227,080-8367376,Indiranagar,Quick Service Restaurant,Pizza,"Desserts, South Indian, Italian, Mexican",2500,Sample Review Text...,4,Cafes,Bengaluru
+"Address_872, Bangalore",Leon Grill,Yes,No,2.6/5,2594,080-8702071,JP Nagar,Cafe,Sushi,"Thai, Italian, Mexican, Beverages","1,000",Sample Review Text...,4,Dine-out,Bengaluru
+"Address_513, Bangalore",McDonald's,No,No,4.7/5,1528,080-3088386,MG Road,Bakery,Steak,"Fast Food, Chinese, Mexican",200,Sample Review Text...,3,Buffet,Bengaluru
+"Address_775, Bangalore",Burger King,No,Yes,4.4/5,1998,080-2970875,MG Road,Pub,Burgers,"Mexican, North Indian, Chinese, Continental, Thai",400,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_67, Bangalore",Nandhana Palace,Yes,No,3.0/5,2431,080-9035982,Indiranagar,Bakery,Steak,"Italian, North Indian, Continental, Fast Food, Thai",200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_707, Bangalore",McDonald's,Yes,Yes,2.9/5,1912,080-8297560,Jayanagar,Bar,Steak,Desserts,3000,Sample Review Text...,1,Cafes,Bengaluru
+"Address_40, Bangalore",McDonald's,No,No,2.7/5,2954,080-9123504,HSR Layout,Quick Service Restaurant,Dosa,Beverages,600,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_221, Bangalore",Leon Grill,No,No,4.8/5,1098,080-5560602,Indiranagar,Quick Service Restaurant,Steak,"South Indian, Chinese, Mexican","1,500",Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_333, Bangalore",Leon Grill,No,No,2.4/5,421,080-6068701,MG Road,Bar,Salad,Thai,2500,Sample Review Text...,1,Cafes,Bengaluru
+"Address_954, Bangalore",Resto_954,Yes,No,4.7/5,855,080-2714223,JP Nagar,Cafe,Pizza,"Continental, Thai, Chinese, Italian, Beverages",800,Sample Review Text...,5,Delivery,Bengaluru
+"Address_738, Bangalore",Nandhana Palace,Yes,No,2.7/5,1048,080-5458768,Jayanagar,Fine Dining,Dosa,"Italian, Desserts",600,Sample Review Text...,2,Delivery,Bengaluru
+"Address_820, Bangalore",McDonald's,Yes,Yes,4.8/5,1887,080-3327250,JP Nagar,Bar,Burgers,Fast Food,400,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_202, Bangalore",Resto_202,No,No,3.2/5,2644,080-1942977,Indiranagar,Cafe,Pasta,"Italian, Mexican, Desserts, Beverages","2,500",Sample Review Text...,4,Delivery,Bengaluru
+"Address_653, Bangalore",Onesta,No,Yes,2.4/5,2133,080-8386629,HSR Layout,Quick Service Restaurant,Salad,"Italian, Chinese, Thai, Desserts, Beverages",200,Sample Review Text...,5,Delivery,Bengaluru
+"Address_88, Bangalore",Resto_88,No,Yes,2.2/5,919,080-5813037,Koramangala,Quick Service Restaurant,Salad,Thai,600,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_819, Bangalore",Nandhana Palace,Yes,Yes,2.3/5,304,080-2466111,Jayanagar,Quick Service Restaurant,Pizza,South Indian,"3,000",Sample Review Text...,1,Delivery,Bengaluru
+"Address_375, Bangalore",Leon Grill,No,No,4.1/5,87,080-9717785,Whitefield,Cafe,Sushi,North Indian,800,Sample Review Text...,1,Cafes,Bengaluru
+"Address_672, Bangalore",Resto_672,Yes,Yes,2.1/5,2211,080-8462919,HSR Layout,Casual Dining,Pasta,"North Indian, Thai, Italian, South Indian",3000,Sample Review Text...,4,Cafes,Bengaluru
+"Address_319, Bangalore",Empire Restaurant,Yes,No,2.5/5,1164,080-7357547,Jayanagar,Bakery,Pizza,"Thai, North Indian, Chinese, Mexican, South Indian",1200,Sample Review Text...,5,Cafes,Bengaluru
+"Address_264, Bangalore",Pizza Hut,Yes,Yes,3.2/5,19,080-2963085,Whitefield,Cafe,Dosa,"Beverages, Chinese, Fast Food, Continental",1000,Sample Review Text...,4,Buffet,Bengaluru
+"Address_285, Bangalore",Empire Restaurant,Yes,No,2.9/5,1476,080-3807840,Koramangala,Bar,Dosa,"Chinese, Italian",1500,Sample Review Text...,2,Buffet,Bengaluru
+"Address_464, Bangalore",Resto_464,No,No,2.5/5,246,080-9561890,Marathahalli,Quick Service Restaurant,Dosa,"Continental, Mexican, Thai, Beverages, Desserts",800,Sample Review Text...,5,Delivery,Bengaluru
+"Address_935, Bangalore",Resto_935,Yes,Yes,NEW,1025,080-9213276,HSR Layout,Casual Dining,Burgers,"Continental, Beverages, South Indian, Thai",200,Sample Review Text...,4,Cafes,Bengaluru
+"Address_675, Bangalore",Resto_675,No,Yes,2.8/5,620,080-2488335,Marathahalli,Bar,Burgers,"Desserts, Continental",600,Sample Review Text...,2,Delivery,Bengaluru
+"Address_828, Bangalore",Leon Grill,No,No,3.4/5,2964,080-6423780,Marathahalli,Bakery,Salad,"South Indian, Desserts, North Indian, Fast Food",400,Sample Review Text...,4,Buffet,Bengaluru
+"Address_436, Bangalore",Resto_436,Yes,Yes,-,65,080-5056398,HSR Layout,Bar,Steak,Italian,2000,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_933, Bangalore",Onesta,Yes,No,2.0/5,312,080-7918250,Indiranagar,Pub,Pizza,"Italian, Mexican",200,Sample Review Text...,2,Delivery,Bengaluru
+"Address_119, Bangalore",Onesta,Yes,No,4.3/5,1354,080-4240708,Jayanagar,Fine Dining,Pasta,"Continental, South Indian, North Indian, Thai",1200,Sample Review Text...,4,Buffet,Bengaluru
+"Address_397, Bangalore",Resto_397,Yes,Yes,NEW,815,080-5579723,JP Nagar,Cafe,Steak,"Mexican, Chinese, Italian, Fast Food, Desserts",2000,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_942, Bangalore",Nandhana Palace,No,Yes,3.0/5,557,080-2499599,Jayanagar,Casual Dining,Pasta,"Desserts, Italian, South Indian, Mexican",800,Sample Review Text...,4,Buffet,Bengaluru
+"Address_786, Bangalore",Leon Grill,No,Yes,2.9/5,2855,080-6275739,Whitefield,Quick Service Restaurant,Biryani,"Fast Food, Beverages",1500,Sample Review Text...,2,Buffet,Bengaluru
+"Address_507, Bangalore",Resto_507,Yes,No,2.6/5,1539,080-8444490,HSR Layout,Fine Dining,Sushi,Italian,"3,000",Sample Review Text...,1,Dine-out,Bengaluru
+"Address_632, Bangalore",Resto_632,Yes,No,NEW,575,080-5921482,Whitefield,Bar,Biryani,"Fast Food, Beverages",1200,Sample Review Text...,2,Cafes,Bengaluru
+"Address_374, Bangalore",Resto_374,Yes,No,2.2/5,674,080-1380679,Whitefield,Casual Dining,Dosa,"Desserts, South Indian",800,Sample Review Text...,2,Cafes,Bengaluru
+"Address_635, Bangalore",Leon Grill,No,No,4.7/5,1986,080-3030620,HSR Layout,Casual Dining,Pizza,North Indian,600,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_762, Bangalore",KFC,Yes,Yes,4.3/5,584,080-2765436,HSR Layout,Fine Dining,Burgers,Chinese,1500,Sample Review Text...,1,Dine-out,Bengaluru
+"Address_72, Bangalore",Resto_72,No,Yes,3.7/5,1757,080-6889195,Koramangala,Pub,Biryani,"North Indian, South Indian, Continental","1,000",Sample Review Text...,3,Dine-out,Bengaluru
+"Address_62, Bangalore",Nandhana Palace,Yes,No,,2299,080-2957497,JP Nagar,Pub,Pasta,"Chinese, Desserts",1000,Sample Review Text...,2,Delivery,Bengaluru
+"Address_717, Bangalore",Resto_717,No,Yes,3.4/5,1503,080-1394773,Koramangala,Pub,Dosa,"Continental, Mexican, Thai",1000,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_326, Bangalore",Resto_326,No,No,2.8/5,355,080-2882928,Marathahalli,Cafe,Sushi,"Desserts, Continental, Italian",2500,Sample Review Text...,3,Delivery,Bengaluru
+"Address_172, Bangalore",Leon Grill,Yes,Yes,4.0/5,671,080-2980663,Marathahalli,Quick Service Restaurant,Biryani,"Beverages, Continental, South Indian, Desserts, Chinese",1000,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_979, Bangalore",McDonald's,No,Yes,3.3/5,2735,080-3363089,Whitefield,Quick Service Restaurant,Steak,"Fast Food, North Indian, South Indian",3000,Sample Review Text...,3,Drinks & nightlife,Bengaluru
+"Address_283, Bangalore",Onesta,No,No,2.1/5,328,080-5195637,Jayanagar,Casual Dining,Steak,"Mexican, Chinese, Desserts",600,Sample Review Text...,3,Delivery,Bengaluru
+"Address_712, Bangalore",Burger King,No,Yes,3.9/5,2402,080-7680364,Koramangala,Cafe,Pizza,"South Indian, Italian, Thai, Fast Food, Mexican","2,500",Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_274, Bangalore",Resto_274,No,No,3.1/5,1173,080-7790959,Marathahalli,Fine Dining,Pizza,"South Indian, Thai",1500,Sample Review Text...,2,Delivery,Bengaluru
+"Address_425, Bangalore",McDonald's,No,Yes,4.7/5,2607,080-8889444,Marathahalli,Casual Dining,Dosa,"South Indian, North Indian",800,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_898, Bangalore",Leon Grill,No,No,3.0/5,1517,080-7800102,Indiranagar,Quick Service Restaurant,Steak,"Desserts, Fast Food",1500,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_946, Bangalore",Burger King,No,Yes,,200,080-9655209,Koramangala,Fine Dining,Dosa,"Italian, Mexican, Thai",1200,Sample Review Text...,3,Buffet,Bengaluru
+"Address_621, Bangalore",Resto_621,No,No,4.3/5,1423,080-6122489,Whitefield,Fine Dining,Burgers,"Continental, North Indian, Chinese, Desserts, Fast Food",3000,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_82, Bangalore",Onesta,Yes,No,2.8/5,1674,080-5767195,JP Nagar,Fine Dining,Dosa,"North Indian, Thai, Chinese, South Indian, Fast Food",2500,Sample Review Text...,5,Pubs and bars,Bengaluru
+"Address_280, Bangalore",Burger King,No,Yes,4.1/5,1596,080-5561139,MG Road,Cafe,Dosa,"Chinese, Mexican, Italian",2500,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_943, Bangalore",Burger King,Yes,No,4.0/5,1383,080-1509145,Koramangala,Casual Dining,Pizza,North Indian,200,Sample Review Text...,1,Drinks & nightlife,Bengaluru
+"Address_661, Bangalore",Resto_661,No,Yes,2.7/5,1334,080-7044611,JP Nagar,Bar,Sushi,"Chinese, Mexican, Continental, Fast Food",200,Sample Review Text...,4,Cafes,Bengaluru
+"Address_726, Bangalore",KFC,No,No,3.1/5,432,080-5803038,JP Nagar,Pub,Salad,"Beverages, Mexican, Italian, Fast Food, Desserts",2000,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_613, Bangalore",Resto_613,No,Yes,4.5/5,1063,080-7367900,Koramangala,Casual Dining,Dosa,Continental,400,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_153, Bangalore",Empire Restaurant,Yes,Yes,4.0/5,256,080-9212178,Indiranagar,Bar,Sushi,"South Indian, Thai, Beverages, Chinese, Italian",400,Sample Review Text...,5,Buffet,Bengaluru
+"Address_269, Bangalore",Onesta,Yes,No,4.0/5,715,080-2690268,Marathahalli,Casual Dining,Sushi,"Desserts, Thai, North Indian, Fast Food, Beverages",800,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_855, Bangalore",KFC,Yes,Yes,4.7/5,2846,080-1521728,Whitefield,Cafe,Dosa,"Continental, Italian, Chinese, Mexican",,Sample Review Text...,4,Delivery,Bengaluru
+"Address_423, Bangalore",Burger King,No,No,2.4/5,2291,080-6690441,Koramangala,Pub,Salad,"Continental, South Indian",2500,Sample Review Text...,2,Dine-out,Bengaluru
+"Address_280, Bangalore",Burger King,No,Yes,4.1/5,1596,080-5561139,MG Road,Cafe,Dosa,"Chinese, Mexican, Italian",2500,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_595, Bangalore",Resto_595,No,No,4.7/5,406,080-7900127,Indiranagar,Bar,Pizza,Chinese,200,Sample Review Text...,1,Cafes,Bengaluru
+"Address_701, Bangalore",Leon Grill,No,Yes,2.1/5,2492,080-6728622,HSR Layout,Fine Dining,Salad,"Mexican, South Indian, North Indian, Beverages, Fast Food",2500,Sample Review Text...,5,Buffet,Bengaluru
+"Address_839, Bangalore",Resto_839,No,No,3.6/5,366,080-1406431,HSR Layout,Bakery,Biryani,"Chinese, Continental",,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_500, Bangalore",Nandhana Palace,Yes,No,4.2/5,689,080-3985341,Indiranagar,Fine Dining,Burgers,Continental,600,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_611, Bangalore",Resto_611,No,Yes,3.2/5,1232,080-7598940,Whitefield,Quick Service Restaurant,Dosa,"Mexican, Chinese, Thai",2000,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_141, Bangalore",Leon Grill,Yes,No,NEW,1790,080-7655572,HSR Layout,Bar,Sushi,Thai,3000,Sample Review Text...,1,Delivery,Bengaluru
+"Address_549, Bangalore",Resto_549,No,Yes,3.1/5,1492,080-8280643,MG Road,Cafe,Biryani,"Continental, Chinese, Desserts, Thai, Italian",600,Sample Review Text...,5,Drinks & nightlife,Bengaluru
+"Address_557, Bangalore",McDonald's,No,Yes,2.6/5,1573,080-4194945,Indiranagar,Casual Dining,Burgers,"Fast Food, Chinese",200,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_887, Bangalore",Burger King,No,No,3.7/5,1659,080-7165648,Whitefield,Pub,Dosa,"South Indian, Beverages, Desserts, Chinese",200,Sample Review Text...,4,Delivery,Bengaluru
+"Address_406, Bangalore",Nandhana Palace,No,No,NEW,2175,080-6031638,Marathahalli,Bakery,Steak,"Thai, Chinese",1000,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_218, Bangalore",Nandhana Palace,No,Yes,3.4/5,2494,080-1661118,HSR Layout,Bar,Salad,"Beverages, Italian, Thai",1500,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_645, Bangalore",Leon Grill,Yes,No,3.1/5,290,080-6551912,Indiranagar,Cafe,Biryani,"Continental, Chinese, Beverages, Italian, Desserts",200,Sample Review Text...,5,Dine-out,Bengaluru
+"Address_209, Bangalore",KFC,No,Yes,3.9/5,1948,080-3146546,JP Nagar,Pub,Dosa,"South Indian, Beverages, Fast Food",1000,Sample Review Text...,3,Pubs and bars,Bengaluru
+"Address_844, Bangalore",Pizza Hut,Yes,No,2.2/5,2564,080-4035319,HSR Layout,Pub,Sushi,"Italian, Beverages, North Indian",1000,Sample Review Text...,3,Dine-out,Bengaluru
+"Address_392, Bangalore",Resto_392,Yes,Yes,4.7/5,2374,080-2662717,JP Nagar,Quick Service Restaurant,Biryani,"Beverages, Italian",2500,Sample Review Text...,2,Buffet,Bengaluru
+"Address_550, Bangalore",KFC,Yes,Yes,2.4/5,1724,080-9205196,JP Nagar,Casual Dining,Salad,"Italian, Desserts",1000,Sample Review Text...,2,Pubs and bars,Bengaluru
+"Address_459, Bangalore",Burger King,Yes,No,2.1/5,1790,080-2527147,Jayanagar,Bakery,Pizza,Beverages,1200,Sample Review Text...,1,Delivery,Bengaluru
+"Address_948, Bangalore",Onesta,Yes,No,3.2/5,2515,080-5493117,Marathahalli,Pub,Biryani,"North Indian, Beverages, South Indian",600,Sample Review Text...,3,Delivery,Bengaluru
+"Address_226, Bangalore",Nandhana Palace,No,Yes,3.3/5,1396,080-8937865,JP Nagar,Bar,Sushi,Italian,2000,Sample Review Text...,1,Pubs and bars,Bengaluru
+"Address_532, Bangalore",Burger King,Yes,No,2.3/5,1624,080-8467845,Marathahalli,Quick Service Restaurant,Sushi,"South Indian, Mexican, Chinese, Beverages, Italian",1500,Sample Review Text...,5,Delivery,Bengaluru
+"Address_142, Bangalore",Onesta,No,Yes,4.7/5,1768,080-3587398,Jayanagar,Fine Dining,Steak,"Mexican, Chinese, Continental, Fast Food, Beverages",400,Sample Review Text...,5,Pubs and bars,Bengaluru
